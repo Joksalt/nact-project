@@ -1,0 +1,2008 @@
+Pradiniai duomenys:
+#    | Name            | Year  | Grade | Hash
+---------------------------------------------------------------------------------------------------------
+1    | Edee            | 2     | 7.13  | 
+2    | Sam             | 3     | 7.09  | 
+3    | Arlina          | 1     | 9.44  | 
+4    | Dacia           | 3     | 9.54  | 
+5    | Raina           | 2     | 9.99  | 
+6    | Nita            | 2     | 8.12  | 
+7    | Desirae         | 1     | 9.55  | 
+8    | Norine          | 3     | 8.16  | 
+9    | Peri            | 2     | 9.07  | 
+10   | Asia            | 2     | 9.48  | 
+11   | Fredericka      | 1     | 9.77  | 
+12   | Lucy            | 4     | 7.58  | 
+13   | Tilly           | 2     | 8.49  | 
+14   | Sandie          | 2     | 7.51  | 
+15   | Juliane         | 3     | 9.08  | 
+16   | Malina          | 2     | 8.65  | 
+17   | Kristina        | 2     | 9.26  | 
+18   | Nataline        | 1     | 9.72  | 
+19   | Delilah         | 1     | 7.26  | 
+20   | Cam             | 3     | 8.58  | 
+21   | Regina          | 2     | 8.61  | 
+22   | Sonni           | 2     | 9.79  | 
+23   | Lilith          | 3     | 7.29  | 
+24   | Cordi           | 3     | 7.52  | 
+25   | Heddie          | 4     | 9.07  | 
+26   | Angelique       | 2     | 8.74  | 
+27   | Rebeca          | 4     | 9.91  | 
+28   | Ebonee          | 2     | 9.42  | 
+29   | Linzy           | 1     | 9.2   | 
+30   | Cyb             | 1     | 10    | 
+31   | Briney          | 4     | 8.65  | 
+32   | Heida           | 2     | 8.24  | 
+33   | Joy             | 1     | 7.03  | 
+34   | Lenna           | 4     | 9.92  | 
+35   | Ashlee          | 3     | 9.57  | 
+36   | Valeda          | 2     | 8.44  | 
+37   | Shauna          | 4     | 9.08  | 
+38   | Ardys           | 1     | 8.12  | 
+39   | Basia           | 4     | 9.67  | 
+40   | Annecorinne     | 3     | 7.82  | 
+41   | Chloris         | 3     | 7.24  | 
+42   | Sandie          | 2     | 9.59  | 
+43   | Merry           | 1     | 7.37  | 
+44   | Brynna          | 1     | 9.9   | 
+45   | Sherrie         | 2     | 7.92  | 
+46   | Brandise        | 4     | 8.3   | 
+47   | Margalo         | 4     | 7.13  | 
+48   | Mara            | 3     | 9.26  | 
+49   | Babita          | 3     | 8.86  | 
+50   | Shell           | 3     | 8.75  | 
+51   | Starla          | 3     | 9.55  | 
+52   | Brianna         | 3     | 8.35  | 
+53   | Rivalee         | 4     | 7.27  | 
+54   | Marguerite      | 1     | 7.96  | 
+55   | Tierney         | 2     | 9.37  | 
+56   | Dorothy         | 2     | 9.58  | 
+57   | Loree           | 3     | 8.71  | 
+58   | Consuela        | 3     | 7.9   | 
+59   | Lelah           | 2     | 8.79  | 
+60   | Dennie          | 4     | 9.51  | 
+61   | Maud            | 3     | 9.43  | 
+62   | Fernande        | 1     | 7.99  | 
+63   | Ethel           | 3     | 8.82  | 
+64   | Dacia           | 3     | 9.71  | 
+65   | Lauryn          | 2     | 8.05  | 
+66   | Frank           | 1     | 7.82  | 
+67   | Cecile          | 2     | 7.47  | 
+68   | Layla           | 4     | 8.01  | 
+69   | Cyndie          | 1     | 8.29  | 
+70   | Sybille         | 4     | 9.87  | 
+71   | Donnie          | 2     | 8.74  | 
+72   | Siana           | 4     | 9.27  | 
+73   | Marjie          | 2     | 7.03  | 
+74   | Minda           | 4     | 8.79  | 
+75   | Nita            | 4     | 9.17  | 
+76   | Stacey          | 4     | 9.85  | 
+77   | Laurene         | 3     | 7.56  | 
+78   | Nariko          | 1     | 8.96  | 
+79   | Laurene         | 2     | 8.36  | 
+80   | Beverley        | 2     | 8.72  | 
+81   | Corina          | 2     | 9.42  | 
+82   | Tarra           | 4     | 7.76  | 
+83   | Noelle          | 1     | 7.5   | 
+84   | Hildegaard      | 3     | 7.48  | 
+85   | Genevra         | 4     | 7.75  | 
+86   | Cathyleen       | 4     | 8.92  | 
+87   | Barbi           | 1     | 7.9   | 
+88   | Mariele         | 4     | 7.82  | 
+89   | Jessy           | 4     | 9.89  | 
+90   | Sabina          | 2     | 9.61  | 
+91   | Gabriellia      | 4     | 8.93  | 
+92   | Lynea           | 3     | 8.84  | 
+93   | Sabina          | 3     | 9.19  | 
+94   | Millie          | 2     | 8.27  | 
+95   | June            | 3     | 9.59  | 
+96   | Ada             | 3     | 8.64  | 
+97   | Concettina      | 2     | 7.07  | 
+98   | Dominga         | 4     | 8.21  | 
+99   | Donetta         | 2     | 8.54  | 
+100  | Millie          | 4     | 7.41  | 
+101  | Dania           | 3     | 7.31  | 
+102  | Fawne           | 1     | 7.53  | 
+103  | Georgina        | 1     | 8.82  | 
+104  | Bobinette       | 3     | 7.53  | 
+105  | Tori            | 4     | 8.31  | 
+106  | Vita            | 2     | 8.76  | 
+107  | Ethel           | 3     | 7.21  | 
+108  | Alameda         | 4     | 7.16  | 
+109  | Libbie          | 2     | 8.56  | 
+110  | Lacie           | 4     | 9.32  | 
+111  | Chandra         | 2     | 7.9   | 
+112  | Marika          | 3     | 9.4   | 
+113  | Cordi           | 4     | 8.92  | 
+114  | Dacia           | 2     | 8.92  | 
+115  | Raf             | 2     | 8.25  | 
+116  | Jillayne        | 4     | 8.53  | 
+117  | Rhoda           | 1     | 9.72  | 
+118  | Berget          | 3     | 7.24  | 
+119  | Nannie          | 3     | 8.41  | 
+120  | Gerrie          | 4     | 9.72  | 
+121  | Averyl          | 1     | 8.29  | 
+122  | Yvonne          | 4     | 8.51  | 
+123  | Betta           | 4     | 9.92  | 
+124  | Codie           | 3     | 9.63  | 
+125  | Dode            | 3     | 9.09  | 
+126  | Viki            | 2     | 9.91  | 
+127  | Mellicent       | 3     | 9.1   | 
+128  | Trixi           | 4     | 9.52  | 
+129  | Penelopa        | 1     | 7.03  | 
+130  | Celene          | 3     | 8.23  | 
+131  | Netty           | 1     | 8.21  | 
+132  | Shirlee         | 2     | 9.69  | 
+133  | Dianemarie      | 2     | 9.84  | 
+134  | Binny           | 4     | 9.02  | 
+135  | Cathyleen       | 4     | 9.05  | 
+136  | Calla           | 4     | 7.04  | 
+137  | Lanna           | 4     | 7.84  | 
+138  | Rayna           | 4     | 7.05  | 
+139  | Nananne         | 3     | 7.27  | 
+140  | Susette         | 1     | 9.41  | 
+141  | Rochette        | 2     | 7.2   | 
+142  | Maryellen       | 4     | 9.61  | 
+143  | Carree          | 2     | 7.72  | 
+144  | Lolita          | 4     | 8.26  | 
+145  | Averyl          | 2     | 9.18  | 
+146  | Karolina        | 3     | 9.24  | 
+147  | Nadine          | 1     | 7.26  | 
+148  | Lorie           | 4     | 9.12  | 
+149  | Leeanne         | 3     | 9.47  | 
+150  | Adore           | 2     | 7.82  | 
+151  | Agnese          | 4     | 8.82  | 
+152  | Judy            | 2     | 7.67  | 
+153  | Charlena        | 1     | 9.79  | 
+154  | Elise           | 1     | 7.96  | 
+155  | Lolita          | 1     | 8.13  | 
+156  | Emelina         | 2     | 8.51  | 
+157  | Katuscha        | 3     | 8.29  | 
+158  | Rebeca          | 1     | 9.2   | 
+159  | Marita          | 4     | 9.92  | 
+160  | Diena           | 2     | 8.25  | 
+161  | Zia             | 3     | 7.44  | 
+162  | Mahalia         | 3     | 9.34  | 
+163  | Lucy            | 4     | 7.76  | 
+164  | Latisha         | 3     | 7.38  | 
+165  | Dennie          | 4     | 8.07  | 
+166  | Darlleen        | 4     | 9.47  | 
+167  | Kalina          | 3     | 9.26  | 
+168  | Tomasina        | 4     | 7.09  | 
+169  | Nananne         | 3     | 7.9   | 
+170  | Aigneis         | 2     | 9.21  | 
+171  | Magdalena       | 3     | 7.07  | 
+172  | Georgetta       | 1     | 7.38  | 
+173  | Jillayne        | 3     | 9.46  | 
+174  | Berget          | 2     | 7.54  | 
+175  | Lexine          | 2     | 7.23  | 
+176  | Hallie          | 3     | 8.82  | 
+177  | Max             | 2     | 7.54  | 
+178  | Berget          | 2     | 8.92  | 
+179  | Edith           | 2     | 8.41  | 
+180  | Laure           | 1     | 7.36  | 
+181  | Vere            | 3     | 7.13  | 
+182  | Addia           | 4     | 9.21  | 
+183  | Vevay           | 2     | 9.99  | 
+184  | Melina          | 3     | 8.06  | 
+185  | Dorthy          | 4     | 7.72  | 
+186  | Tonia           | 2     | 8.53  | 
+187  | Pierette        | 3     | 8.97  | 
+188  | Althea          | 2     | 9.9   | 
+189  | Sherrie         | 2     | 8.74  | 
+190  | Cindelyn        | 1     | 9.24  | 
+191  | Emilia          | 4     | 8.2   | 
+192  | Ida             | 2     | 8.7   | 
+193  | Zsa Zsa         | 4     | 7.34  | 
+194  | Wanda           | 2     | 8.59  | 
+195  | Arlena          | 2     | 9.87  | 
+196  | Fina            | 3     | 8.05  | 
+197  | Ernesta         | 1     | 9.51  | 
+198  | Ivett           | 1     | 9.88  | 
+199  | Rubie           | 1     | 8.41  | 
+200  | Ariela          | 1     | 8.64  | 
+201  | Randa           | 3     | 7.01  | 
+202  | Quintina        | 2     | 7.06  | 
+203  | Aaren           | 3     | 8.89  | 
+204  | Allyce          | 1     | 8.77  | 
+205  | Aubrie          | 1     | 8.43  | 
+206  | Gwenneth        | 3     | 9.88  | 
+207  | Clementine      | 4     | 9.96  | 
+208  | Fayre           | 3     | 7.21  | 
+209  | Sara-Ann        | 2     | 9.71  | 
+210  | Deane           | 2     | 9.09  | 
+211  | Jessamyn        | 3     | 8.65  | 
+212  | Shaylyn         | 2     | 8.43  | 
+213  | Linet           | 3     | 9.93  | 
+214  | Cristine        | 2     | 8.08  | 
+215  | Ira             | 1     | 9.17  | 
+216  | Marita          | 4     | 9.36  | 
+217  | Debee           | 3     | 9.16  | 
+218  | Beatriz         | 1     | 7.56  | 
+219  | Sindee          | 4     | 9.03  | 
+220  | Tierney         | 4     | 9.16  | 
+221  | Jerry           | 1     | 8.57  | 
+222  | Brandise        | 4     | 9.18  | 
+223  | Carly           | 4     | 7.12  | 
+224  | Fanchon         | 1     | 7.24  | 
+225  | Andree          | 4     | 8.93  | 
+226  | Codie           | 2     | 8.09  | 
+227  | Ileana          | 2     | 9.63  | 
+228  | Lulita          | 2     | 7.52  | 
+229  | Joane           | 1     | 9.6   | 
+230  | Lyssa           | 4     | 9.13  | 
+231  | Gavrielle       | 2     | 8.71  | 
+232  | Alexine         | 4     | 9.87  | 
+233  | Carlie          | 4     | 7.17  | 
+234  | Deloria         | 1     | 7.83  | 
+235  | Kellen          | 4     | 8.8   | 
+236  | Maud            | 1     | 9.89  | 
+237  | Cassandra       | 1     | 7.18  | 
+238  | Hettie          | 4     | 8.66  | 
+239  | Melina          | 4     | 9.38  | 
+240  | Dorice          | 4     | 8.83  | 
+241  | Minne           | 4     | 9.35  | 
+242  | Blake           | 3     | 8.38  | 
+243  | Shell           | 4     | 7.67  | 
+244  | Carol-Jean      | 3     | 7.5   | 
+245  | Cherrita        | 1     | 9.59  | 
+246  | Nollie          | 3     | 9.5   | 
+247  | Ekaterina       | 4     | 9.25  | 
+248  | Joy             | 2     | 9.83  | 
+249  | Marguerite      | 3     | 7.49  | 
+250  | Claudina        | 1     | 7.9   | 
+251  | Aubrie          | 1     | 7.42  | 
+252  | Jinny           | 2     | 8.26  | 
+253  | Sharai          | 3     | 7.42  | 
+254  | Ernesta         | 2     | 8.52  | 
+255  | Regina          | 4     | 7.82  | 
+256  | Annabela        | 3     | 8.39  | 
+257  | Yolane          | 1     | 7.22  | 
+258  | Lorne           | 1     | 7.29  | 
+259  | Patricia        | 3     | 9.42  | 
+260  | Binny           | 1     | 8.71  | 
+261  | Sybille         | 1     | 8.61  | 
+262  | Dianemarie      | 1     | 7.31  | 
+263  | Brana           | 3     | 9.85  | 
+264  | Corry           | 1     | 9.77  | 
+265  | Marika          | 3     | 9.67  | 
+266  | Wanda           | 1     | 9.35  | 
+267  | Margarette      | 3     | 9.98  | 
+268  | Sabina          | 1     | 8.88  | 
+269  | Jaime           | 1     | 8.9   | 
+270  | Gwenneth        | 2     | 8.35  | 
+271  | Annice          | 1     | 7.27  | 
+272  | Carmencita      | 4     | 7.58  | 
+273  | Fina            | 4     | 8.28  | 
+274  | Luci            | 1     | 7.22  | 
+275  | Flo             | 3     | 8.69  | 
+276  | Flory           | 3     | 7.95  | 
+277  | Isa             | 4     | 7.45  | 
+278  | Ninnetta        | 1     | 9.89  | 
+279  | Veda            | 2     | 9.74  | 
+280  | Kaia            | 2     | 8.98  | 
+281  | Pierette        | 2     | 8.85  | 
+282  | Linzy           | 3     | 8.27  | 
+283  | Belinda         | 1     | 7.24  | 
+284  | Philis          | 4     | 7.17  | 
+285  | Tera            | 2     | 8.64  | 
+286  | Flory           | 4     | 9.92  | 
+287  | Celisse         | 4     | 8.37  | 
+288  | Anica           | 3     | 7.35  | 
+289  | Georgetta       | 4     | 8.27  | 
+290  | Corene          | 4     | 8.56  | 
+291  | Olwen           | 4     | 7.74  | 
+292  | Teriann         | 4     | 7.26  | 
+293  | Tani            | 3     | 7.77  | 
+294  | Pollyanna       | 2     | 9.64  | 
+295  | Addia           | 2     | 9.61  | 
+296  | Lita            | 1     | 7     | 
+297  | Lusa            | 2     | 9.72  | 
+298  | Doralynne       | 1     | 7.39  | 
+299  | Berget          | 1     | 7.21  | 
+300  | Genevra         | 3     | 7.24  | 
+301  | Candi           | 4     | 8.66  | 
+302  | Silvana         | 4     | 7.57  | 
+303  | Merle           | 2     | 7.26  | 
+304  | Viki            | 1     | 8.12  | 
+305  | Fidelia         | 3     | 8.09  | 
+306  | Ivett           | 1     | 8.45  | 
+307  | Joeann          | 4     | 8.88  | 
+308  | Amara           | 4     | 9.55  | 
+309  | Daryl           | 4     | 8.84  | 
+310  | Viviene         | 3     | 7.88  | 
+311  | Nonnah          | 4     | 8.8   | 
+312  | Sarette         | 1     | 9.97  | 
+313  | Cristine        | 4     | 8.62  | 
+314  | Latisha         | 1     | 9.59  | 
+315  | Philis          | 1     | 9.89  | 
+316  | Anestassia      | 3     | 9.07  | 
+317  | Shaine          | 2     | 9.1   | 
+318  | Emylee          | 3     | 8.21  | 
+319  | Kore            | 2     | 8.79  | 
+320  | Dorene          | 2     | 9.51  | 
+321  | Susan           | 1     | 7.67  | 
+322  | Joelly          | 3     | 8.69  | 
+323  | Lucy            | 1     | 8.61  | 
+324  | Amelia          | 2     | 9.34  | 
+325  | Vere            | 3     | 7.94  | 
+326  | Fidelia         | 3     | 9.35  | 
+327  | Ivett           | 3     | 9.36  | 
+328  | Ebonee          | 4     | 9.09  | 
+329  | Monika          | 4     | 7.27  | 
+330  | Nariko          | 2     | 9.34  | 
+331  | Jacenta         | 2     | 8.93  | 
+332  | Sherrie         | 4     | 9.15  | 
+333  | Fredericka      | 4     | 8.68  | 
+334  | Myriam          | 2     | 9.26  | 
+335  | Mamie           | 2     | 9.55  | 
+336  | Charissa        | 1     | 9.99  | 
+337  | Lynnea          | 1     | 9.27  | 
+338  | Vivia           | 4     | 8.99  | 
+339  | Veda            | 4     | 8.91  | 
+340  | Stevana         | 3     | 9.39  | 
+341  | Frank           | 4     | 8.51  | 
+342  | Edyth           | 4     | 7.66  | 
+343  | Perry           | 4     | 7.16  | 
+344  | Albertina       | 3     | 8.3   | 
+345  | Emelina         | 3     | 8.21  | 
+346  | Tarra           | 3     | 8.47  | 
+347  | Lelah           | 1     | 8.08  | 
+348  | Meriel          | 4     | 7.68  | 
+349  | Stevana         | 2     | 7.8   | 
+350  | Laurene         | 4     | 7.39  | 
+351  | Nannie          | 1     | 9.62  | 
+352  | Mallory         | 4     | 8.87  | 
+353  | Gertrud         | 1     | 9.2   | 
+354  | Starla          | 3     | 9.03  | 
+355  | Blake           | 3     | 8.36  | 
+356  | Wileen          | 4     | 9.43  | 
+357  | Priscilla       | 2     | 7.83  | 
+358  | Mady            | 2     | 9.67  | 
+359  | Shaine          | 2     | 9.08  | 
+360  | Lizzie          | 3     | 9.2   | 
+361  | Monika          | 2     | 9.12  | 
+362  | Elfreda         | 2     | 7.71  | 
+363  | Elie            | 3     | 8.28  | 
+364  | Taffy           | 2     | 9.24  | 
+365  | Daune           | 4     | 8.47  | 
+366  | Elise           | 1     | 7.49  | 
+367  | Coral           | 1     | 9.35  | 
+368  | Alexine         | 4     | 7.11  | 
+369  | Cristabel       | 3     | 9.37  | 
+370  | Gusty           | 3     | 9.59  | 
+371  | Anallese        | 1     | 7.19  | 
+372  | Fanchon         | 2     | 8.14  | 
+373  | Wendi           | 3     | 8.5   | 
+374  | Iseabal         | 1     | 8.99  | 
+375  | Vonny           | 2     | 9.02  | 
+376  | Ulrike          | 4     | 9.86  | 
+377  | Gratia          | 4     | 9.37  | 
+378  | Odessa          | 3     | 7.39  | 
+379  | Sharlene        | 2     | 8.36  | 
+380  | Paule           | 3     | 9.2   | 
+381  | Dorothy         | 2     | 8.47  | 
+382  | Adelle          | 2     | 9.3   | 
+383  | Letizia         | 4     | 9.6   | 
+384  | Binny           | 4     | 9.08  | 
+385  | Dari            | 1     | 7.35  | 
+386  | Kassey          | 1     | 8.69  | 
+387  | Ginnie          | 2     | 8.35  | 
+388  | Cissiee         | 4     | 8.26  | 
+389  | Ermengarde      | 1     | 9.73  | 
+390  | Siana           | 1     | 9.82  | 
+391  | Tera            | 4     | 8.88  | 
+392  | Judy            | 4     | 9.24  | 
+393  | Kate            | 2     | 9.35  | 
+394  | Dennie          | 3     | 7.13  | 
+395  | Elena           | 4     | 9.83  | 
+396  | Cassandra       | 1     | 9.1   | 
+397  | Barbi           | 2     | 8.6   | 
+398  | Edee            | 3     | 9.14  | 
+399  | Sean            | 2     | 7.55  | 
+400  | Renie           | 4     | 7.57  | 
+401  | Florie          | 1     | 9.41  | 
+402  | Amara           | 3     | 9.18  | 
+403  | Jerry           | 2     | 7.37  | 
+404  | Aaren           | 1     | 8.54  | 
+405  | Livvyy          | 4     | 8.43  | 
+406  | Jenilee         | 1     | 8.86  | 
+407  | Sharai          | 3     | 7.08  | 
+408  | Audrie          | 3     | 9.45  | 
+409  | Melodie         | 3     | 7.79  | 
+410  | Winifred        | 4     | 8.05  | 
+411  | Cindelyn        | 2     | 9.24  | 
+412  | Hyacinthe       | 4     | 8.47  | 
+413  | Brena           | 4     | 9.31  | 
+414  | Roslyn          | 2     | 9.26  | 
+415  | Gilda           | 3     | 9.61  | 
+416  | Agathe          | 1     | 8.87  | 
+417  | Gavrielle       | 3     | 8.57  | 
+418  | Robbi           | 2     | 9.74  | 
+419  | Almeta          | 2     | 8.05  | 
+420  | Cacilie         | 4     | 7.47  | 
+421  | Aimil           | 1     | 7.71  | 
+422  | Dorthy          | 1     | 8.72  | 
+423  | Dagmar          | 2     | 7.29  | 
+424  | Mamie           | 2     | 9.25  | 
+425  | Therine         | 3     | 7.85  | 
+426  | Shannah         | 1     | 9.54  | 
+427  | Kelly           | 4     | 9.06  | 
+428  | Alia            | 4     | 7.68  | 
+429  | Lila            | 1     | 7.46  | 
+430  | Gilda           | 1     | 8.85  | 
+431  | Jsandye         | 4     | 7.79  | 
+432  | Lindie          | 1     | 9.03  | 
+433  | Paule           | 2     | 9.17  | 
+434  | Jackie          | 3     | 8.19  | 
+435  | Yolane          | 1     | 7.49  | 
+436  | Rosaline        | 4     | 7.02  | 
+437  | Alejandra       | 4     | 8.54  | 
+438  | Jany            | 1     | 9.33  | 
+439  | Hermione        | 3     | 8.06  | 
+440  | Cecile          | 3     | 7.51  | 
+441  | Leeanne         | 2     | 8.19  | 
+442  | Tera            | 1     | 8.58  | 
+443  | Chere           | 2     | 9.85  | 
+444  | Jordan          | 2     | 7.4   | 
+445  | Daphne          | 2     | 9.01  | 
+446  | Mara            | 3     | 8.82  | 
+447  | Demetris        | 3     | 9.11  | 
+448  | Goldie          | 2     | 7.2   | 
+449  | Dotty           | 2     | 7.67  | 
+450  | Madelle         | 4     | 8.22  | 
+451  | Ilse            | 1     | 9.07  | 
+452  | Nita            | 4     | 7.29  | 
+453  | Anestassia      | 2     | 9.68  | 
+454  | Nataline        | 2     | 9.52  | 
+455  | Emma            | 2     | 7.56  | 
+456  | Aryn            | 1     | 8.06  | 
+457  | Cristine        | 2     | 8.98  | 
+458  | Nicoli          | 3     | 9.77  | 
+459  | Sharlene        | 1     | 9.01  | 
+460  | Kimmy           | 4     | 8.62  | 
+461  | Jasmina         | 1     | 9.92  | 
+462  | Cyndie          | 2     | 8.62  | 
+463  | Imojean         | 1     | 7.86  | 
+464  | Millie          | 4     | 8.13  | 
+465  | Ann-Marie       | 4     | 9.19  | 
+466  | Jolyn           | 4     | 7.72  | 
+467  | Hollie          | 2     | 7.78  | 
+468  | Jackie          | 4     | 7.7   | 
+469  | Laure           | 1     | 9.44  | 
+470  | Anica           | 2     | 9.75  | 
+471  | Mady            | 4     | 8.46  | 
+472  | Dari            | 4     | 9.93  | 
+473  | Candi           | 4     | 7.7   | 
+474  | Verla           | 3     | 7.69  | 
+475  | Netty           | 3     | 8.87  | 
+476  | Kirstin         | 1     | 9.96  | 
+477  | Barbi           | 3     | 7.62  | 
+478  | Babita          | 3     | 7.02  | 
+479  | Carilyn         | 2     | 8     | 
+480  | Valera          | 4     | 9.64  | 
+481  | Kimberley       | 4     | 8.93  | 
+482  | Charlena        | 4     | 9.1   | 
+483  | Edith           | 2     | 9.08  | 
+484  | Jere            | 2     | 8.68  | 
+485  | Aili            | 4     | 7.24  | 
+486  | Carly           | 2     | 8.89  | 
+487  | Di              | 4     | 8.71  | 
+488  | Chloris         | 1     | 7.35  | 
+489  | Elise           | 2     | 9.99  | 
+490  | Chastity        | 1     | 8.37  | 
+491  | Antonietta      | 2     | 8.27  | 
+492  | Concettina      | 1     | 9.04  | 
+493  | Lisette         | 3     | 7.54  | 
+494  | Zsa Zsa         | 3     | 9.24  | 
+495  | Zia             | 1     | 7.92  | 
+496  | Nelle           | 4     | 8.15  | 
+497  | Jacenta         | 4     | 8.99  | 
+498  | Rochette        | 3     | 7.24  | 
+499  | Deane           | 4     | 8.04  | 
+500  | Marita          | 3     | 9.5   | 
+501  | Leontine        | 4     | 8.15  | 
+502  | Adele           | 4     | 8.83  | 
+503  | Marline         | 1     | 7.53  | 
+504  | Tressa          | 2     | 9.49  | 
+505  | Tiffie          | 3     | 8.86  | 
+506  | Ivett           | 1     | 8.05  | 
+507  | Brynna          | 3     | 7.15  | 
+508  | Krystle         | 4     | 9.67  | 
+509  | Bertine         | 3     | 7.45  | 
+510  | Charissa        | 1     | 9.1   | 
+511  | Krystle         | 1     | 8.52  | 
+512  | Helsa           | 2     | 9.01  | 
+513  | Emma            | 2     | 8.67  | 
+514  | Feliza          | 3     | 9.3   | 
+515  | Dorice          | 1     | 7.31  | 
+516  | Letizia         | 1     | 9.84  | 
+517  | Gale            | 3     | 8.24  | 
+518  | Damaris         | 3     | 8.29  | 
+519  | Ileana          | 4     | 9.34  | 
+520  | Hayley          | 1     | 8.19  | 
+521  | Rosene          | 1     | 8.9   | 
+522  | Angelique       | 2     | 8.12  | 
+523  | Candy           | 3     | 8.6   | 
+524  | Glynnis         | 1     | 7.68  | 
+525  | Julieta         | 1     | 8.75  | 
+526  | Gabi            | 2     | 8.27  | 
+527  | Dagmar          | 2     | 7.9   | 
+528  | June            | 4     | 9.96  | 
+529  | Ada             | 2     | 9.74  | 
+530  | Zaria           | 2     | 9.26  | 
+531  | Kelly           | 1     | 8     | 
+532  | Gerianna        | 4     | 7.09  | 
+533  | Cordi           | 4     | 8.25  | 
+534  | Ingrid          | 2     | 9.3   | 
+535  | Ebonee          | 2     | 9.53  | 
+536  | Annabela        | 2     | 8.83  | 
+537  | Brandise        | 2     | 7.89  | 
+538  | Alex            | 2     | 9.43  | 
+539  | Bettine         | 1     | 9.42  | 
+540  | Gale            | 4     | 7.03  | 
+541  | Jobi            | 1     | 9.18  | 
+542  | Kristan         | 3     | 8.4   | 
+543  | Paulita         | 2     | 8.29  | 
+544  | Julieta         | 4     | 9.58  | 
+545  | Janeczka        | 1     | 8.5   | 
+546  | Ivett           | 3     | 7.69  | 
+547  | Shirlee         | 4     | 9.59  | 
+548  | Zondra          | 4     | 9.32  | 
+549  | Jenda           | 1     | 8.35  | 
+550  | Meghann         | 4     | 9.77  | 
+551  | Jackie          | 4     | 7.13  | 
+552  | Catrina         | 3     | 8.07  | 
+553  | Luci            | 1     | 8.42  | 
+554  | Hollie          | 1     | 7.56  | 
+555  | Blinni          | 1     | 7.88  | 
+556  | Goldie          | 3     | 7.86  | 
+557  | Lulita          | 1     | 8.67  | 
+558  | Clary           | 2     | 9.98  | 
+559  | Clo             | 2     | 9.59  | 
+560  | Myrtice         | 1     | 9.51  | 
+561  | Jerry           | 1     | 9.18  | 
+562  | Wynne           | 4     | 8.26  | 
+563  | Joeann          | 2     | 7.3   | 
+564  | Sibella         | 1     | 9.54  | 
+565  | Fanchon         | 4     | 8.05  | 
+566  | Romona          | 1     | 8.11  | 
+567  | Trudie          | 3     | 7.99  | 
+568  | Nerta           | 3     | 8.14  | 
+569  | Lyssa           | 3     | 8.3   | 
+570  | Yolane          | 3     | 7.43  | 
+571  | Tomasina        | 1     | 9.85  | 
+572  | Adelle          | 3     | 9.11  | 
+573  | Asia            | 1     | 9.8   | 
+574  | Maud            | 1     | 8.72  | 
+575  | Myriam          | 1     | 7.61  | 
+576  | Willetta        | 1     | 8.86  | 
+577  | Imojean         | 3     | 8.82  | 
+578  | Tomasina        | 3     | 7.02  | 
+579  | Ebonee          | 1     | 7.74  | 
+580  | Leona           | 3     | 9.34  | 
+581  | Shaylyn         | 1     | 9.08  | 
+582  | Kary            | 2     | 7.53  | 
+583  | Jillayne        | 4     | 8.26  | 
+584  | Jorry           | 1     | 9.47  | 
+585  | Jillayne        | 3     | 7.47  | 
+586  | Ida             | 4     | 8.41  | 
+587  | Pollyanna       | 2     | 8.71  | 
+588  | Devina          | 2     | 7.15  | 
+589  | Dulcinea        | 3     | 7.5   | 
+590  | Phylis          | 3     | 7.85  | 
+591  | Gilligan        | 1     | 7.74  | 
+592  | Ofilia          | 4     | 9.61  | 
+593  | Rivalee         | 3     | 7.46  | 
+594  | Mureil          | 4     | 9.78  | 
+595  | Tybie           | 3     | 7.86  | 
+596  | Pamella         | 3     | 7.08  | 
+597  | Glynnis         | 4     | 8.82  | 
+598  | Jessamyn        | 3     | 7.93  | 
+599  | Ardeen          | 2     | 8.3   | 
+600  | Justinn         | 1     | 8.89  | 
+601  | Elmira          | 4     | 9.15  | 
+602  | Eve             | 2     | 8.95  | 
+603  | Collen          | 4     | 9.09  | 
+604  | Gratia          | 2     | 7.01  | 
+605  | Gloria          | 4     | 7.38  | 
+606  | Gilda           | 2     | 9.25  | 
+607  | Tarra           | 3     | 8.34  | 
+608  | Cam             | 1     | 7.71  | 
+609  | Roslyn          | 1     | 9.02  | 
+610  | Lacie           | 3     | 7.3   | 
+611  | Dari            | 2     | 8.52  | 
+612  | Ernesta         | 3     | 8.07  | 
+613  | Sam             | 2     | 8.69  | 
+614  | Maye            | 4     | 7.88  | 
+615  | Blake           | 3     | 7.47  | 
+616  | Chere           | 4     | 9.07  | 
+617  | Maryellen       | 4     | 8.25  | 
+618  | Cathyleen       | 2     | 9.67  | 
+619  | Anestassia      | 2     | 9.11  | 
+620  | Jenilee         | 2     | 7.14  | 
+621  | Alyda           | 2     | 7.47  | 
+622  | Henriette       | 1     | 8.38  | 
+623  | Ida             | 4     | 7.54  | 
+624  | Angela          | 4     | 8.94  | 
+625  | Blinni          | 3     | 7.93  | 
+626  | Zaria           | 4     | 8.08  | 
+627  | Kristan         | 1     | 7.13  | 
+628  | Melina          | 1     | 9.61  | 
+629  | Felice          | 3     | 8.23  | 
+630  | Lynnea          | 2     | 8.97  | 
+631  | Reeba           | 1     | 8.13  | 
+632  | Joy             | 2     | 8.16  | 
+633  | Florie          | 4     | 9.25  | 
+634  | Dorene          | 1     | 8.57  | 
+635  | Madalyn         | 1     | 8.91  | 
+636  | Codie           | 2     | 8.37  | 
+637  | Mildrid         | 3     | 7.85  | 
+638  | Tiffie          | 1     | 9.12  | 
+639  | Dede            | 2     | 9.67  | 
+640  | Queenie         | 4     | 7.55  | 
+641  | Mady            | 3     | 9.79  | 
+642  | Corly           | 4     | 9.61  | 
+643  | Dione           | 2     | 8.93  | 
+644  | Carmencita      | 4     | 7.96  | 
+645  | Evaleen         | 2     | 9.09  | 
+646  | Nyssa           | 2     | 7.11  | 
+647  | Aili            | 1     | 8.65  | 
+648  | Dorene          | 3     | 9.61  | 
+649  | Codie           | 4     | 9.15  | 
+650  | Bobbi           | 3     | 7.92  | 
+651  | Nataline        | 2     | 9.84  | 
+652  | Paulita         | 4     | 7.22  | 
+653  | Nicoli          | 1     | 9.61  | 
+654  | Zia             | 2     | 7.36  | 
+655  | Lucille         | 2     | 7.57  | 
+656  | Paola           | 4     | 9.7   | 
+657  | Gratia          | 4     | 9.85  | 
+658  | Hyacinthe       | 2     | 8.45  | 
+659  | Nadine          | 4     | 9.73  | 
+660  | Robbi           | 1     | 8.85  | 
+661  | Elise           | 1     | 7.49  | 
+662  | Tiffie          | 1     | 9.1   | 
+663  | Anestassia      | 4     | 7.16  | 
+664  | Meriel          | 1     | 9.99  | 
+665  | Aurelie         | 4     | 7.71  | 
+666  | Tina            | 1     | 9.58  | 
+667  | Dominga         | 1     | 7.12  | 
+668  | Natka           | 4     | 9.82  | 
+669  | Barbi           | 1     | 8.58  | 
+670  | Carolina        | 2     | 9.41  | 
+671  | Malina          | 4     | 9.12  | 
+672  | Bibby           | 2     | 7.19  | 
+673  | Julieta         | 2     | 7.75  | 
+674  | Heddie          | 1     | 8.71  | 
+675  | Kayla           | 2     | 9.91  | 
+676  | Dorthy          | 2     | 7.27  | 
+677  | Tomasina        | 2     | 9.81  | 
+678  | Vanessa         | 1     | 7.79  | 
+679  | Ardys           | 2     | 9.66  | 
+680  | June            | 2     | 8.19  | 
+681  | Ardys           | 3     | 9.47  | 
+682  | Anthia          | 4     | 7.89  | 
+683  | Dennie          | 2     | 8.94  | 
+684  | Alexine         | 3     | 9.25  | 
+685  | Cyb             | 2     | 8.86  | 
+686  | Bernardine      | 4     | 8.26  | 
+687  | Jaime           | 1     | 8.4   | 
+688  | Doro            | 1     | 8.73  | 
+689  | Tabbatha        | 4     | 7.99  | 
+690  | Frieda          | 4     | 7.78  | 
+691  | Moyna           | 4     | 7.94  | 
+692  | Addia           | 2     | 9.06  | 
+693  | Gabi            | 4     | 8.22  | 
+694  | Sharlene        | 3     | 8.28  | 
+695  | Valeda          | 3     | 9.73  | 
+696  | Augustine       | 4     | 7.61  | 
+697  | Sophia          | 4     | 8.01  | 
+698  | Chickie         | 1     | 9.37  | 
+699  | Lorenza         | 3     | 9.82  | 
+700  | Shell           | 2     | 7.03  | 
+701  | Gilda           | 2     | 7.61  | 
+702  | Jeanna          | 4     | 7.04  | 
+703  | Judy            | 3     | 8.97  | 
+704  | Etta            | 2     | 7.67  | 
+705  | Josephine       | 2     | 7.81  | 
+706  | Kore            | 4     | 9.97  | 
+707  | Britte          | 3     | 8.05  | 
+708  | Jemie           | 3     | 8.37  | 
+709  | Cassandra       | 2     | 7.07  | 
+710  | Elmira          | 3     | 9.77  | 
+711  | Gusty           | 1     | 8.84  | 
+712  | Darci           | 2     | 8.81  | 
+713  | Jackie          | 4     | 8.57  | 
+714  | Anallese        | 2     | 9.32  | 
+715  | Clarice         | 3     | 7.35  | 
+716  | Sharlene        | 2     | 8.71  | 
+717  | Marika          | 3     | 9.79  | 
+718  | Maye            | 2     | 9.41  | 
+719  | Rubie           | 1     | 8.69  | 
+720  | Therine         | 3     | 9.96  | 
+721  | Berget          | 1     | 8.94  | 
+722  | Lorie           | 1     | 8.41  | 
+723  | Sophia          | 3     | 9.45  | 
+724  | Florencia       | 4     | 7.71  | 
+725  | Selia           | 2     | 7.5   | 
+726  | Bee             | 2     | 8.35  | 
+727  | Cherilyn        | 1     | 9.1   | 
+728  | Emmey           | 4     | 9.71  | 
+729  | Codie           | 2     | 8.08  | 
+730  | Chloris         | 3     | 9.81  | 
+731  | Deedee          | 3     | 8.56  | 
+732  | Natka           | 3     | 8.59  | 
+733  | Giustina        | 1     | 9.31  | 
+734  | Hollie          | 2     | 8.83  | 
+735  | Hyacinthe       | 4     | 8.31  | 
+736  | Lexine          | 2     | 8.29  | 
+737  | Cyb             | 4     | 8.67  | 
+738  | Chickie         | 1     | 9.72  | 
+739  | Johna           | 2     | 9.88  | 
+740  | Dulcinea        | 3     | 7.55  | 
+741  | Millie          | 4     | 7.24  | 
+742  | Almeta          | 3     | 8.77  | 
+743  | Codie           | 3     | 9.22  | 
+744  | Jaime           | 4     | 9.52  | 
+745  | Georgetta       | 3     | 8.79  | 
+746  | Hildegaard      | 4     | 9.9   | 
+747  | Myrtice         | 4     | 8.91  | 
+748  | Minda           | 1     | 9.45  | 
+749  | Rochette        | 3     | 7.21  | 
+750  | Lacie           | 4     | 7.06  | 
+751  | Fawne           | 4     | 9.17  | 
+752  | Cherrita        | 3     | 7.82  | 
+753  | Marnia          | 3     | 7.18  | 
+754  | Wanda           | 2     | 9.8   | 
+755  | Therine         | 2     | 9.95  | 
+756  | Wendi           | 1     | 7.41  | 
+757  | Loree           | 2     | 8.82  | 
+758  | Gwyneth         | 1     | 9.21  | 
+759  | Cyndie          | 4     | 9.03  | 
+760  | Marinna         | 3     | 7.82  | 
+761  | Hettie          | 3     | 9.83  | 
+762  | Theodora        | 4     | 7.76  | 
+763  | Heddie          | 3     | 9.92  | 
+764  | Lucille         | 1     | 9.05  | 
+765  | Kore            | 1     | 9.51  | 
+766  | Sheelagh        | 4     | 7.71  | 
+767  | Shandie         | 3     | 8.11  | 
+768  | Shaylyn         | 1     | 9.85  | 
+769  | Farrah          | 4     | 8.94  | 
+770  | Dorene          | 2     | 8.01  | 
+771  | Mariann         | 3     | 8     | 
+772  | Charlena        | 4     | 7.14  | 
+773  | Hallie          | 4     | 9.84  | 
+774  | Ira             | 3     | 9.78  | 
+775  | Agathe          | 1     | 7.78  | 
+776  | Caryl           | 3     | 8.72  | 
+777  | Claudina        | 4     | 7.12  | 
+778  | Layla           | 4     | 7.31  | 
+779  | Ellette         | 4     | 9.92  | 
+780  | Nariko          | 3     | 8.06  | 
+781  | Genevra         | 2     | 7.38  | 
+782  | Tina            | 1     | 9.57  | 
+783  | Roxane          | 2     | 7.62  | 
+784  | Danny           | 4     | 9.89  | 
+785  | Stacey          | 2     | 7.14  | 
+786  | Sadie           | 3     | 7.15  | 
+787  | Wilma           | 3     | 8.37  | 
+788  | Rhea            | 3     | 8.45  | 
+789  | Kittie          | 3     | 7.99  | 
+790  | Gabriellia      | 2     | 9.82  | 
+791  | Wilma           | 1     | 9.48  | 
+792  | Mignon          | 1     | 9.1   | 
+793  | Corina          | 1     | 7.69  | 
+794  | Lexine          | 4     | 7.12  | 
+795  | Shaylyn         | 1     | 9.34  | 
+796  | Lusa            | 2     | 7.57  | 
+797  | Olwen           | 3     | 8.4   | 
+798  | Tina            | 3     | 9.7   | 
+799  | Randa           | 2     | 8.43  | 
+800  | Nananne         | 1     | 7.41  | 
+801  | Danika          | 1     | 9.42  | 
+802  | Janeczka        | 3     | 9.44  | 
+803  | Jorry           | 3     | 7.86  | 
+804  | Cassandra       | 4     | 8.48  | 
+805  | Trudie          | 3     | 8.68  | 
+806  | Etta            | 2     | 9.26  | 
+807  | Ada             | 1     | 9.3   | 
+808  | Ottilie         | 4     | 8.45  | 
+809  | Marinna         | 3     | 9.1   | 
+810  | Farrah          | 4     | 9.34  | 
+811  | Arlena          | 2     | 7.7   | 
+812  | Lelah           | 3     | 9.88  | 
+813  | Fanchon         | 1     | 9.6   | 
+814  | Dorothy         | 4     | 8.52  | 
+815  | Riannon         | 4     | 9.62  | 
+816  | Karina          | 2     | 8.06  | 
+817  | Trudie          | 2     | 7.51  | 
+818  | Kalina          | 1     | 9.96  | 
+819  | Vita            | 1     | 7.7   | 
+820  | Veda            | 2     | 7.16  | 
+821  | Carmela         | 2     | 9.16  | 
+822  | Sarette         | 1     | 9.71  | 
+823  | Gui             | 4     | 8.81  | 
+824  | Lorenza         | 3     | 9.37  | 
+825  | Gabi            | 3     | 8.32  | 
+826  | Harrietta       | 4     | 9.1   | 
+827  | Margette        | 1     | 7.87  | 
+828  | Barbi           | 1     | 9.44  | 
+829  | Raquela         | 2     | 9.54  | 
+830  | Glenda          | 3     | 9.7   | 
+831  | Gavrielle       | 4     | 9.55  | 
+832  | Agnese          | 3     | 7.57  | 
+833  | Paola           | 2     | 8.8   | 
+834  | Abbie           | 2     | 9.58  | 
+835  | Carilyn         | 2     | 7.01  | 
+836  | Judy            | 4     | 7.3   | 
+837  | Cyb             | 2     | 8.49  | 
+838  | Lonnie          | 1     | 8.69  | 
+839  | Elora           | 2     | 7.39  | 
+840  | Celisse         | 3     | 7.67  | 
+841  | Darlleen        | 1     | 7.46  | 
+842  | Justinn         | 4     | 7.14  | 
+843  | Laurene         | 4     | 9.53  | 
+844  | Dawn            | 4     | 9.24  | 
+845  | Marline         | 4     | 7.55  | 
+846  | Mallory         | 2     | 8.3   | 
+847  | Carmencita      | 1     | 7.84  | 
+848  | Kimberley       | 1     | 9.73  | 
+849  | Ericka          | 2     | 9.19  | 
+850  | Ricky           | 4     | 8.36  | 
+851  | Nicoli          | 3     | 9.91  | 
+852  | Adore           | 4     | 7.28  | 
+853  | Alejandra       | 2     | 9.84  | 
+854  | Mamie           | 3     | 8.85  | 
+855  | Dorothy         | 4     | 9.18  | 
+856  | Gui             | 2     | 8.54  | 
+857  | Myrtice         | 2     | 7.48  | 
+858  | Marcelline      | 1     | 7.52  | 
+859  | Lisette         | 4     | 7.32  | 
+860  | Di              | 2     | 9.09  | 
+861  | Anica           | 1     | 9.08  | 
+862  | Shirlee         | 2     | 9.51  | 
+863  | Annecorinne     | 1     | 9.09  | 
+864  | Ericka          | 1     | 8.76  | 
+865  | Debee           | 2     | 7.9   | 
+866  | Jenilee         | 1     | 8.55  | 
+867  | Gianina         | 1     | 9.63  | 
+868  | Lorie           | 2     | 8.09  | 
+869  | Sabina          | 1     | 9.85  | 
+870  | Sherrie         | 2     | 7.56  | 
+871  | Larine          | 4     | 7.69  | 
+872  | Stacey          | 2     | 8.02  | 
+873  | Tera            | 1     | 9.72  | 
+874  | Ulrike          | 3     | 9     | 
+875  | Ariela          | 4     | 7.45  | 
+876  | Lauryn          | 3     | 8.27  | 
+877  | Sharai          | 1     | 9.14  | 
+878  | Mamie           | 2     | 7.14  | 
+879  | Concettina      | 4     | 9.4   | 
+880  | Karolina        | 2     | 8.07  | 
+881  | Catrina         | 2     | 8.38  | 
+882  | Jeanna          | 1     | 7.72  | 
+883  | Anthia          | 3     | 8.98  | 
+884  | Elise           | 3     | 8.95  | 
+885  | Sallie          | 4     | 7.87  | 
+886  | Fernande        | 1     | 9.49  | 
+887  | Jean            | 2     | 9.36  | 
+888  | Mireielle       | 3     | 8.12  | 
+889  | Nicoli          | 1     | 9.65  | 
+890  | Desirae         | 1     | 9.87  | 
+891  | Myriam          | 2     | 8.64  | 
+892  | Ebonee          | 1     | 8.8   | 
+893  | Oralee          | 3     | 9.72  | 
+894  | Angela          | 1     | 7.57  | 
+895  | Veda            | 1     | 9.88  | 
+896  | Candy           | 1     | 7.56  | 
+897  | Annecorinne     | 3     | 7.36  | 
+898  | Winifred        | 4     | 9.24  | 
+899  | Bertine         | 4     | 8.12  | 
+900  | Malina          | 1     | 7.55  | 
+901  | Renae           | 2     | 8.27  | 
+902  | Sherrie         | 3     | 9.53  | 
+903  | Fernande        | 3     | 7.77  | 
+904  | Morganica       | 4     | 9.57  | 
+905  | Rosanne         | 4     | 9.31  | 
+906  | Tera            | 2     | 8.66  | 
+907  | Collen          | 1     | 8.15  | 
+908  | Joy             | 2     | 9.26  | 
+909  | Christy         | 4     | 8.8   | 
+910  | Karlee          | 1     | 9.95  | 
+911  | Mahalia         | 4     | 9.35  | 
+912  | Jenda           | 1     | 8.4   | 
+913  | Roz             | 4     | 7.32  | 
+914  | Bee             | 2     | 8.94  | 
+915  | Elmira          | 1     | 7.84  | 
+916  | Tressa          | 2     | 8.03  | 
+917  | Arlena          | 2     | 9.58  | 
+918  | Annecorinne     | 1     | 7.79  | 
+919  | Merci           | 4     | 9.54  | 
+920  | Lindie          | 3     | 8.91  | 
+921  | Madelle         | 3     | 7.55  | 
+922  | Jolyn           | 3     | 8.88  | 
+923  | Tani            | 4     | 8.68  | 
+924  | Jacenta         | 2     | 9.87  | 
+925  | Wanda           | 3     | 7.94  | 
+926  | Fernande        | 3     | 7.29  | 
+927  | Mallory         | 4     | 8.35  | 
+928  | Chere           | 3     | 9.56  | 
+929  | Britni          | 3     | 7.97  | 
+930  | Arlina          | 4     | 7.16  | 
+931  | Merle           | 4     | 8.41  | 
+932  | Mara            | 4     | 8.11  | 
+933  | Tomasina        | 3     | 9.23  | 
+934  | Mahalia         | 3     | 8.28  | 
+935  | Ricky           | 2     | 9.43  | 
+936  | Clementine      | 4     | 8.58  | 
+937  | Shandie         | 4     | 8.43  | 
+938  | Farrah          | 4     | 9.25  | 
+939  | Celisse         | 4     | 7.32  | 
+940  | Sophia          | 2     | 7.3   | 
+941  | Cherilyn        | 1     | 9.25  | 
+942  | Vonny           | 4     | 9.25  | 
+943  | Lynea           | 1     | 8.12  | 
+944  | Harrietta       | 2     | 9.27  | 
+945  | Chastity        | 1     | 7.15  | 
+946  | Jacquetta       | 1     | 9.45  | 
+947  | Silvana         | 2     | 7.12  | 
+948  | Cherrita        | 4     | 9.98  | 
+949  | Hope            | 2     | 9.24  | 
+950  | Stephanie       | 2     | 7.81  | 
+951  | Natka           | 1     | 7.04  | 
+952  | Briney          | 3     | 8.72  | 
+953  | Fredericka      | 4     | 8.83  | 
+954  | Amelia          | 4     | 8.83  | 
+955  | Catrina         | 3     | 7.53  | 
+956  | Kellen          | 2     | 7.18  | 
+957  | Shauna          | 2     | 9.26  | 
+958  | Elyssa          | 1     | 8.59  | 
+959  | Aurelie         | 2     | 7.21  | 
+960  | Antonietta      | 3     | 7.78  | 
+961  | Daphne          | 2     | 8.76  | 
+962  | Ada             | 2     | 8.29  | 
+963  | Jenilee         | 4     | 9.17  | 
+964  | Edyth           | 2     | 7.28  | 
+965  | Flory           | 2     | 8.39  | 
+966  | Gianina         | 4     | 9.72  | 
+967  | Libbie          | 4     | 7.87  | 
+968  | Ezmeralda       | 2     | 8.42  | 
+969  | Ivett           | 4     | 8.76  | 
+970  | Tarra           | 4     | 7.53  | 
+971  | Ricky           | 2     | 9.54  | 
+972  | Ebonee          | 1     | 9.95  | 
+973  | Jemie           | 2     | 7.01  | 
+974  | Debee           | 2     | 7.64  | 
+975  | Merrie          | 4     | 8.44  | 
+976  | Tomasina        | 1     | 9.07  | 
+977  | Eve             | 3     | 8.34  | 
+978  | Sharai          | 1     | 7.04  | 
+979  | Brena           | 2     | 9.17  | 
+980  | Kimberley       | 4     | 9.49  | 
+981  | Linet           | 2     | 7.14  | 
+982  | Tera            | 3     | 9.53  | 
+983  | Allyce          | 4     | 8.77  | 
+984  | Ekaterina       | 1     | 9.73  | 
+985  | Emma            | 2     | 7.71  | 
+986  | Laurene         | 1     | 8.07  | 
+987  | Johna           | 1     | 8.72  | 
+988  | Blake           | 4     | 7     | 
+989  | Dulce           | 4     | 8.77  | 
+990  | Ginnie          | 3     | 7.35  | 
+991  | Karlee          | 4     | 9.9   | 
+992  | Nerta           | 1     | 9.9   | 
+993  | Lacie           | 4     | 9.28  | 
+994  | Karly           | 3     | 8.24  | 
+995  | Elka            | 4     | 9.81  | 
+996  | Lenna           | 1     | 9.32  | 
+997  | Barbara         | 1     | 9.33  | 
+998  | Livvyy          | 1     | 9.32  | 
+999  | Nita            | 3     | 8.05  | 
+1000 | Marleah         | 4     | 7.31  | 
+---------------------------------------------------------------------------------------------------------
+Rezultatai:
+#    | Name            | Year  | Grade | Hash
+---------------------------------------------------------------------------------------------------------
+1    | Lita            | 1     | 7     | bb448ba09ab6489375bf6e4b2bd0df3981cdc0c29eb41d4b306afcaf29bc2390
+2    | Joy             | 1     | 7.03  | d4fce7e4d4ad3fbcf70026e2053a26ef867670c8dc2458eda508887d6185f5e0
+3    | Penelopa        | 1     | 7.03  | 0409dc3c953488073d2f11ec1fe89db7da5d204224419f0cfbad16c83222fa8f
+4    | Natka           | 1     | 7.04  | d417678c486df5a6b3d343ccd625c53c404c35d7860a30cf1ba8469602debdc9
+5    | Sharai          | 1     | 7.04  | 65606a8036cf3b0a3cb6387ba8917df3eca374057a92ab5ed796a59dfe27cfe0
+6    | Dominga         | 1     | 7.12  | 21e4b6712388153b6b22b420c74d360d77b73210db3e302147f62b3cb8f87d38
+7    | Kristan         | 1     | 7.13  | 182229866166909d5168d05319c6912565d2e63a02b84f2d9ea961e94c5213e5
+8    | Chastity        | 1     | 7.15  | 0f7014c7b9f9d1688366707ac4fc3d488bb0568940627f080e3501d903fcbf5b
+9    | Cassandra       | 1     | 7.18  | 25da61fd0d4aad52685062c3e7c3fee53fbedf3d8851456cfc23245c18507692
+10   | Anallese        | 1     | 7.19  | d684052605cd981bc6630542a8b84f575bb7314ab35016c39e22e96f1b70218a
+11   | Berget          | 1     | 7.21  | 549c08cf938bf3cf54aa49cd8e3bb515c6298322df00d70f14a5114ac88c64a2
+12   | Yolane          | 1     | 7.22  | 5511fb067964528602401c6d778edc2fb51b1b06be71bc73bae0a3bad228e93f
+13   | Luci            | 1     | 7.22  | fc119d8e2a0a030b21283ae9ef9d3fcb1f490ccbc29963ec4a2e69e404d136f9
+14   | Fanchon         | 1     | 7.24  | 0223f67d2c7a680629ea1f1e5c984d6b333792dcdd4dbd72087cc18f34bf26a3
+15   | Belinda         | 1     | 7.24  | 8e7f935bfd6d9e95babe966b12a87ba03eda08e5c57ba8bad3799bef903f3f5c
+16   | Delilah         | 1     | 7.26  | 6d68134575ea32d28ceccabe3daec6c39420eacbae257b44b448add13e001ee8
+17   | Nadine          | 1     | 7.26  | cd7e65ea8f524871c488a77f8bad7cc608023723e134772142f454c3907ca8e0
+18   | Annice          | 1     | 7.27  | 08c070e8a067a3089d3ac996238f6a277d879d6b790696904c4d4eafba4a1aaf
+19   | Lorne           | 1     | 7.29  | 0c29d2070e376b9a7df65644fa47efeb61e5a449f0cf8287ed46c4837795bb42
+20   | Dianemarie      | 1     | 7.31  | ca8d78b362f8195874d9765cff4fa7f59a04e7f1f732dd8aec4af2ea0907f458
+21   | Dorice          | 1     | 7.31  | c566acb2f2dc0b752c4e2ad56b6ceca1c838ad01ae2510ffb97ed04046d7c233
+22   | Dari            | 1     | 7.35  | f4e35a54d6f0baea5b9b8c0752aa606daa2377347cad6bf085d60d7fe0ab7db9
+23   | Chloris         | 1     | 7.35  | d56c5738915190a39407f8a7a2228c71cbedb08731f6669e308f6a4874ea2c11
+24   | Laure           | 1     | 7.36  | 0d8d6812c2c727dff0bdfb61c0b8536456a7379bc3eade0fa3ff689d3cb02144
+25   | Merry           | 1     | 7.37  | df449adbe2c3bfc7014e55efee22515bb07a4d1f11b3acfef8fd6f58fbf591f2
+26   | Georgetta       | 1     | 7.38  | 6f14b59f8a207005a9b0d4783fb31af7ffbfc3b1a14ecc13ce77d35fa8bf4562
+27   | Doralynne       | 1     | 7.39  | 2890b645b0bd656247e16f4f4dfcb55c6d21c60bad04db37b4b05b7e47e05858
+28   | Wendi           | 1     | 7.41  | 819562345e52c6321d3af15e1b7f115dd5af7689932af26297d2533a8832fee6
+29   | Nananne         | 1     | 7.41  | a4933f6f1f44147415df702227bb5f5cadd8c1e43e3f5c8c66eeee6d1eebdd9a
+30   | Aubrie          | 1     | 7.42  | 20a36eb5b66241ea9baeb5e9bfc4c5c45f542caf3e904c6657084df2293bf86c
+31   | Lila            | 1     | 7.46  | 200344590ae987efa9e22fcab75f5013efec89887384bb76d568ddee2a8f51a2
+32   | Darlleen        | 1     | 7.46  | dc4c5cc0e5e15f3f692be4ed7f2870582350599f6a67d61dd1742a362872339c
+33   | Elise           | 1     | 7.49  | 05a79523dffd16477c6f7360f2ac6d8a3195f35e3c4f3001e46fd8588a9ea85d
+34   | Yolane          | 1     | 7.49  | 73d3c189ce473557ea754b572413e69852e08868efbf78bcde54f9a787afc87c
+35   | Elise           | 1     | 7.49  | 95703292d099912713f12df9252b946d7ac1329b9f15d8dac66a665303007b49
+36   | Noelle          | 1     | 7.5   | 4b4e943bac3e2faf0f2fd44644510f719598b6a89ff703f3247d46b4cd675baf
+37   | Marcelline      | 1     | 7.52  | 5ca04b4ed97e1fba7ea4dde8399492855f4dbaa27fd4ea8c01417d40f278eed8
+38   | Fawne           | 1     | 7.53  | 9760ebf6ee8d798c4ebbd01b76e5b1c7731cd9401196ce9136dacaf85795f697
+39   | Marline         | 1     | 7.53  | 7148e18185021d650711de947760234e7206f3714c820c75f0aaa31e38a0ad5a
+40   | Malina          | 1     | 7.55  | 13bb4d92c4407af0b48a5fd8d416e91e975c4d29084761e6ce19ddaf73837d6b
+41   | Beatriz         | 1     | 7.56  | 1b685dfb85de37ce0a84d99e36028d55a3963b91f9ce1b4124f638981c5d3ec1
+42   | Hollie          | 1     | 7.56  | 70ab0606ff0e480d3a5c4a98f729b5d52be12ed3f39676d2b505761d835a4923
+43   | Candy           | 1     | 7.56  | 78f2d9c9b2589e937d66de00c1ad320524ef562d428b15bb548bcfe22d2b8a7f
+44   | Angela          | 1     | 7.57  | 1ccd2b6e638ff12bb34efe03036fcbac034575dd7791b42d53a13a6edfc36c4b
+45   | Myriam          | 1     | 7.61  | a4948b327f09fea3f9e02044f9c57ec2cb0f7e6f278a446430e0b57ee790453b
+46   | Susan           | 1     | 7.67  | b398cc452e4eb54e61647bbbc136f18988266f4f77770f710c2bb82786390743
+47   | Glynnis         | 1     | 7.68  | b0928aed72184411b6b86b4f543234e41c6d0fb37bd4ac5a7f75bf84e58983dd
+48   | Corina          | 1     | 7.69  | 0597862218e72a492e1c40e9ad2f0531d446b0b23b7b37f137b84d70def95b50
+49   | Vita            | 1     | 7.7   | 6fe036b02460af90885f977cbf50441dabb893929c698676376750b49bec17d5
+50   | Aimil           | 1     | 7.71  | ba2f237e92483afe85d53dd9eae77405b2f73501db18e87b87c1ca00acd30ae4
+51   | Cam             | 1     | 7.71  | 0841c1a63dcd116b4f17b570e57b2fdf0ef34bdbdffd2dd93f18e440754976c9
+52   | Jeanna          | 1     | 7.72  | 42290242e32854335882978a8f605a6ee1a452bc3da2aa43ed0176eba4e38122
+53   | Ebonee          | 1     | 7.74  | bec94d08359cf2fac337e04f2e6cdcd853c367436a04a68dc0dea06abf7b7f20
+54   | Gilligan        | 1     | 7.74  | 3a70142bdcbba77c387c61581368847af2d633abf5b7ef018a317747a0c91478
+55   | Agathe          | 1     | 7.78  | 99a9ee38f4e5d21390f2c02832b6e3587754d0ccd133a29f3a2f9e721b592ab6
+56   | Vanessa         | 1     | 7.79  | 2dc89ef69c2d1aeadf604ba66bdaadf08a59d6243721747625d80ea5b74aec73
+57   | Annecorinne     | 1     | 7.79  | 356dce6fb8f365be27ab4119ac82cb393d6d7a61cb03070bb4c5761a3a5bc7fa
+58   | Frank           | 1     | 7.82  | 809a28b3556bbff7e6e566d9ebedfbfd91a14e00e6b807b6abf98c5aa2bbe984
+59   | Deloria         | 1     | 7.83  | 431af58ac3f6c07b07f17734ca256a568bf657f106e1576570f303cbd4744f19
+60   | Carmencita      | 1     | 7.84  | e20f31014ff72a615845ff62c8a7bcbae861e9badd1f670dd1e3ef0115ed989f
+61   | Elmira          | 1     | 7.84  | 4ab3edffb6de18bdbd531389c6b78326d1d50b9b379703d1b99c282c77994b94
+62   | Imojean         | 1     | 7.86  | d9ec9931aac2201dc6a98a270df9c0054f3aa9afb2569338d524daa6c889b6fb
+63   | Margette        | 1     | 7.87  | ede00134e375abe3f45a9a6f99cbb51461aa2024415b09ebf74054c01ad5ff0c
+64   | Blinni          | 1     | 7.88  | 2ac0484029a441392861c28e8d7bdfd22506af24e269a5d9dc45a8704479e673
+65   | Barbi           | 1     | 7.9   | 6b232e922272cdaf523807cb2aed52086c0a6bcecddc9517643a3ecca18d2846
+66   | Claudina        | 1     | 7.9   | c55da7e90a5af5ede0e2d040c59148bd917c49c741ac4e8111def94dff9876d5
+67   | Zia             | 1     | 7.92  | 2c33be056a05e38cf4a05c67f50e62fef7d96062bc68a828ca705a892ab913b6
+68   | Marguerite      | 1     | 7.96  | 97b6941ef15ecc337a02518cc3116dc06dbcbcbb93ad96de214cdfc39c3aef76
+69   | Elise           | 1     | 7.96  | cbba747ccf8d255a97d785ff4fd20a87669852f03de529c2ca89cd9c7ba3b58c
+70   | Fernande        | 1     | 7.99  | 0c49e4dd30cd7ab498574d37a07985e3d3716d07cbf398e39565c5b9d6eac66c
+71   | Kelly           | 1     | 8     | c949c1b2bac54cdb165ae146e338f831a82c32eae740da9e7ce3c112756a45ea
+72   | Ivett           | 1     | 8.05  | 4374df35e6a663b8727698ddc7c432b0a544b829e9cbaa0eb2c1851086fd9ed5
+73   | Aryn            | 1     | 8.06  | 3e7209e786eb4bb87bcec0e8898bf39e3170551e4ab61e0bd63e5e31990ef4e8
+74   | Laurene         | 1     | 8.07  | 5d5b9a488ba4cdf0044478c9510c33ede2577dad3817711cb42f474a9e42388b
+75   | Lelah           | 1     | 8.08  | 6a4ebac4a734b89fcfc0d51e23bea0c010a68287d22b1a9a8df9c42151957071
+76   | Romona          | 1     | 8.11  | 853512aef9ef806adccdf9083cf5ebad048ab520435e269cb464dde31e3b84a8
+77   | Ardys           | 1     | 8.12  | f8842a23e0eed6d8174d443fa42adc176122cb17ee39cab2e84ff50bfe46c1a4
+78   | Viki            | 1     | 8.12  | fd896f559dd9323de5bdd8c035a4735677a74e755702ad70c1ec0e5dd5248e97
+79   | Lynea           | 1     | 8.12  | e24764ce90a6aedfb02a5f8d817096aaed6c3f39f26f79b2b95a5524586edbc9
+80   | Lolita          | 1     | 8.13  | 08de809cf86a1bec71bb5d24c010c9038d6dda0d48b928d11fdb3205fd9d4fd8
+81   | Reeba           | 1     | 8.13  | 7839fdfeca9b3cfb3f22fdc2f632394084bddfe848cc475b3aa128d897631233
+82   | Collen          | 1     | 8.15  | a6dc868f7240721a694e669d552088121512e47f817653eddfb0a716b5b8e0c1
+83   | Hayley          | 1     | 8.19  | 7c2eaac9a2194f604164d27dda5a2b7255938206acd9d8e75e7099dbdc6956ad
+84   | Netty           | 1     | 8.21  | dc24f623e200300e03ee7054da531809ab77302b5fe72baba97f8dddd860ed1e
+85   | Cyndie          | 1     | 8.29  | 1e86e390651bb2e7e5ea2516b3769cc8858c57b5d3a5088806018bd9313f7442
+86   | Averyl          | 1     | 8.29  | 5d595fd50344048ddf1bf7f1e0fad809382fa97e878fbaf28bc33ac9261efffc
+87   | Jenda           | 1     | 8.35  | 25d05a813c05f4ee3448ae83163e39c3653995b39cb25da6a1ab622c3307f239
+88   | Chastity        | 1     | 8.37  | 7aa098fedb0ee6e41f7e19085e7c7fad526f5d1572e8284b2975db64aa7e3c9d
+89   | Henriette       | 1     | 8.38  | 7cffb99713c736a3bc52626ff675de0d21fe2ed79d37f266f27c2e8d386fa475
+90   | Jaime           | 1     | 8.4   | 574d363df909b97ebf90f86f0087dcb77eac495a2d4ce5b442bb38d47d0ec3d1
+91   | Jenda           | 1     | 8.4   | 3d1224481a46cceb3f3b7c32c7482a899d76b1a08c3075df958316cdf0af58a9
+92   | Rubie           | 1     | 8.41  | 658510567a483fe60e1260f80e29dd6ed3983e2a93a0d67b4b1a92f604949d5b
+93   | Lorie           | 1     | 8.41  | d0a5e71ce632ea75921c670d5447dc6e60681433e2eb211d0790333c5ef3b5c9
+94   | Luci            | 1     | 8.42  | 6722e6959aea08e6bbcdfe9d5afdab6be6196e8cbaee92cbdf4ba1aee5719bff
+95   | Aubrie          | 1     | 8.43  | de304a5917b91d82ed01d1659a7ddab18a81c08c17db39d8e4ee0227227df173
+96   | Ivett           | 1     | 8.45  | 0d456edb1c7b031cc9a9ca4cfa55e1c31ca1e489f074ee95863fc2920ffa8f21
+97   | Janeczka        | 1     | 8.5   | acd1bbcadcb856529b50166405e303915aa6b2f38006493e2a7463bf5a258c81
+98   | Krystle         | 1     | 8.52  | faf3072e577b4583a66f7ebe06d1bc525b3946c5ed5f0ce84241532b814ce242
+99   | Aaren           | 1     | 8.54  | 8f2ad7b008e7db256d82064220d0ef18abd23eda8ab538e705902bd26ff677c6
+100  | Jenilee         | 1     | 8.55  | 83d6f1f9d57b14e72e2d76ff3367f2b9b1581e60275f7ed2996bd805e7aa1b79
+101  | Jerry           | 1     | 8.57  | 330314814728c7437882fa2b593cfff50c444541e6eee9638554b54c9593c7d1
+102  | Dorene          | 1     | 8.57  | fe750f7e1fcdeee7c88bbbc277f9beeed58e263c9d53b712b82fd3bfcd9aae87
+103  | Tera            | 1     | 8.58  | 8b88799d2d35a99447e04d923edce5f45147c67f1fce74c5c9e3fe4572cc8172
+104  | Barbi           | 1     | 8.58  | de976f9a78c145e43f0d1273f107ae06f7c2fd21593cbc6922db3923915cd1cb
+105  | Elyssa          | 1     | 8.59  | cb6ce2b4022caebde142821c5f66435762328bcf7b205287e158f5ef8684477f
+106  | Sybille         | 1     | 8.61  | cc3fbb1bb513e9ee80033098cb1224fcfc98dceeae886eebd0bbc5d3bee91523
+107  | Lucy            | 1     | 8.61  | d4d5a5256c9a15e99f0dc0b4ee250e4f3d773ebf36de338eae882e8b15980919
+108  | Ariela          | 1     | 8.64  | 2df1c9ac0fd9895dc93fa811bb4c56dea38bf0e119fedcb270ad66940221dd7c
+109  | Aili            | 1     | 8.65  | c2eae436b0e05e468167c42addd926c50c057073b162e2477d9c697354c0e671
+110  | Lulita          | 1     | 8.67  | 42129c2fe4ba589338d6c25ebcce4bae917e3c122226c91e879a4ed0ff53c2cf
+111  | Kassey          | 1     | 8.69  | a06414beb17606d54dee9cbd6835c54d292dd6a909d431a4404cd9452adac0ea
+112  | Rubie           | 1     | 8.69  | aa2599b077452c3ad914a30967bad24f3a091fb6fc875ba1010d16e2a3fd0d33
+113  | Lonnie          | 1     | 8.69  | fd617e5179b473ca0bafe32ca2028216037fe636711caf4f67a7c3f3404eb8a8
+114  | Binny           | 1     | 8.71  | b6006797661791b24c5a8c9a3c3377726d89412411fc2bdf9ad5de5c645cf260
+115  | Heddie          | 1     | 8.71  | 8a0dbfb5d6cc40b963070ee15f2344b25a6143ce77781a43064596007658f02f
+116  | Dorthy          | 1     | 8.72  | cb54a7b43e5ab5e8636baffe99213ba7ced9b533e732ccfc4a3c72d71593bb46
+117  | Maud            | 1     | 8.72  | 26ba09463ca7ff6b295387e3e509f41ed207a0b8b7225c8832754ffdc1a081fe
+118  | Johna           | 1     | 8.72  | 6d7628cb82fcabeaf98041b27a7de0e9d6da2fd64ed27fd39a68ea8052c0cbe1
+119  | Doro            | 1     | 8.73  | f196b969bd2bd52743fc8b015d8eaf8091b841b18baf8210ec106cca7da328ff
+120  | Julieta         | 1     | 8.75  | d79d86f3ac1269cdf0dd405bfdc36497ba4a035a726409b45be4f9ccb9a7332a
+121  | Ericka          | 1     | 8.76  | 41fb487f8dd41f405358ba31b93c03599d234d2411a7c1a838e90ecb8f6d59ad
+122  | Allyce          | 1     | 8.77  | 7313ec58d02695efb29c5edaa0b0f2f859a9bcc20ddc4b20c5b7749d2a8ffae5
+123  | Ebonee          | 1     | 8.8   | f53261d87d9d177196782f5f52efe5d9f23a109fc550131553d0abbe4a234761
+124  | Georgina        | 1     | 8.82  | a21c74f827e9afef4a2ef447fa95a922ee7007c962b7589437940d9ef897fb04
+125  | Gusty           | 1     | 8.84  | 92629694ec99a6e083c0b8f514e611ba94e2dbf0f0a18b39b301906773db3f18
+126  | Gilda           | 1     | 8.85  | 40ebe0e5af6dec1f45a2ac3e9e2d7c1adb06d29bb85373a95dabe530ec808df5
+127  | Robbi           | 1     | 8.85  | 27c38b8b106c2b3fd3ac4a83f1f6133fc7c4e61fbdb769cc592e503d456dbdb8
+128  | Jenilee         | 1     | 8.86  | a4b0b9d4139d0ec0eca7e08ee883b448442148f540ea15a84e4acbce57fc4927
+129  | Willetta        | 1     | 8.86  | 43376a27c5898f78042e177d63a5558e072fb6c03d1f87b42fb093fd614965de
+130  | Agathe          | 1     | 8.87  | c70eca37f8ff2211bf5b4a88235c67e2216e41dc6696bee795e1194b35d32390
+131  | Sabina          | 1     | 8.88  | fe69aa280bfbf00fd2fd297f06dc704334acd1674330bb20d61339f1d6b43a09
+132  | Justinn         | 1     | 8.89  | 54d351b0977a83f80d3a8cdd382556189a7ccfbaf27501026c9781e8cbcff980
+133  | Jaime           | 1     | 8.9   | 8405907e479052c4d5ca223afb114a77df72a88fe065d25eebd8cfee0b4cf689
+134  | Rosene          | 1     | 8.9   | d2fe3b73b03898f7919e550eeeb34155137bd7abeaac81f57a04c63e4dcd3dda
+135  | Madalyn         | 1     | 8.91  | c834281902b6e503add527d16785e7c5fc932a7430ade3e674ad8b9be38ca153
+136  | Berget          | 1     | 8.94  | c14f904c29e872fb8ba3800339f4708e349e4eafab0b0d3beda4fe58ccb6cb46
+137  | Nariko          | 1     | 8.96  | be73cab29c45cd1ad874197c334a8988b1a7ff0b7ad4b9407dea147dbe58b838
+138  | Iseabal         | 1     | 8.99  | 2d3430e70368b63c86869fc35d76d7f0ac58e54d4ddfc2c9524c6d283ee6e0d6
+139  | Sharlene        | 1     | 9.01  | 8fd4ad22cce19c4acbce20c55f55d0cb51f83ec54ea20aece1ec4d8e40c0545f
+140  | Roslyn          | 1     | 9.02  | 0c3cae95eb217889fc75cd36b45df4c13f4f64b186bae475a07e7f37b816a63d
+141  | Lindie          | 1     | 9.03  | ba24d470d8443ccba6f02f254b8d5a70833bd85fd75108de8b35335b9b3dcfcf
+142  | Concettina      | 1     | 9.04  | 87f780a45b0f9c48378931f93ae2a9d6351892b2c5add940557e02a5bb889119
+143  | Lucille         | 1     | 9.05  | 9bb6b5058833160f79dd635c31826cfa90a4cdb4af4d41189bcce64ccaf5d9f2
+144  | Ilse            | 1     | 9.07  | 709e3d2e2dde7c340b0650f1973cde54f37f61206634333661182b078337a2f6
+145  | Tomasina        | 1     | 9.07  | 08361355f505183a35fbe82a0fa6b0c52504b47722081109643c0622c31bea50
+146  | Shaylyn         | 1     | 9.08  | 887ec4c414a251cac8aa0ee4f513a717ef5826d7d8fb0dd0f729c2b52c627819
+147  | Anica           | 1     | 9.08  | 8f23f54fd6b01c2d3e63b93431688709e74a142488a8993ee7ab87d979874586
+148  | Annecorinne     | 1     | 9.09  | eb39ee21d33cb1b424fb60b542ce1f8f624d55369eba05e668c3b7f7329ede19
+149  | Cassandra       | 1     | 9.1   | 345aed4baee5ab0517800a1a8330e41a45d2951a77a28ea373dfe566104f7f0e
+150  | Charissa        | 1     | 9.1   | bf4ed75ea916430eb0b5428c0164b4746a91c519a3dd6122fb4d7e922362007a
+151  | Tiffie          | 1     | 9.1   | 8371dd69eb394d96b5dde6f9001e5a11384bfa6561905438c044122708b7a9bb
+152  | Cherilyn        | 1     | 9.1   | 2319b8980a91225a8b7cb2a5149c630567bb3b1e14dd610a9089f22f29d4ca2d
+153  | Mignon          | 1     | 9.1   | da2f57d748d62e238e55a9750e7fa666c6add40bbac27487a06a6bb3c3187e28
+154  | Tiffie          | 1     | 9.12  | 9ada2db31ae98d4ec1767785e31926578059dc241a98ca408a201a745f845786
+155  | Sharai          | 1     | 9.14  | f7ae92becd38b95d3bbf112273fc580d9493875c88878eb85fac8697be3063c4
+156  | Ira             | 1     | 9.17  | ce5fd3497ba1fc4cfb41e6c5604e4ad1b8429b2da080e253ffb0e92d484f9d2a
+157  | Jobi            | 1     | 9.18  | a3de1edc0ae3ffbe2ef111bc531db462b53301ce65591a79913a1c20d11d5b29
+158  | Jerry           | 1     | 9.18  | efc0fe96a170b507506b9d38d782f8472729cefe5e9bdcfed108b43c477233fb
+159  | Linzy           | 1     | 9.2   | aa758eb914cc03de4be2de2a647623cbb5fb5f616d810e7907b9ed400f1d8cb8
+160  | Rebeca          | 1     | 9.2   | f4ef8c49886a16b847c19d4a8f3c075c7df1fbe170a7b5faffb74722754d2fce
+161  | Gertrud         | 1     | 9.2   | 44ed5938b2ca6c1a3a5babf7f17c154977959e614f4f365d91942d62e544c6a4
+162  | Gwyneth         | 1     | 9.21  | b09fc3ca94255debdb80b14c4e0d64b832b3df460e19d9890b2f32daf395f2c9
+163  | Cindelyn        | 1     | 9.24  | ffa05f2c7c615eae79756aeea274a61b6b08a792797baf2ec513129d675acf2d
+164  | Cherilyn        | 1     | 9.25  | 9c3816fca959340c7ad7d9b738e75389e0b846405a472adadfb663f9ec693707
+165  | Lynnea          | 1     | 9.27  | b0ce7bb3162ff924ab2bf93f01aa5395175cad56bb7810b0b881e798b7e512ac
+166  | Ada             | 1     | 9.3   | 0df241328ffcedc0ef1a82ca1c41e8dfcf28f538080caa4b9f32f7d54f35dd19
+167  | Giustina        | 1     | 9.31  | ceee3ea5cf02287573d1a3e7f4a046087a74a108d23470d29c4c2c682c880799
+168  | Lenna           | 1     | 9.32  | 1fd85e39c87e43324a21853ff10a5d70d6bb1db4fdb845f8c7f63bbb10a16e25
+169  | Livvyy          | 1     | 9.32  | 64022a8a076706449f4cc3a3fc1cf7d52e2c7a476df5d29efda87e46142e8698
+170  | Jany            | 1     | 9.33  | 7e0b3d973a488d2b5d75094338ea9be25225e04c7bf1308dda28e6f595ab6233
+171  | Barbara         | 1     | 9.33  | 64348d0bcc5da0ff979cad65c0a4c11da80048b2afb6fbf326c4106623fa1d4d
+172  | Shaylyn         | 1     | 9.34  | e3dab8f937a84ccb640f23b2d2459d0005a16709d717fdb2afca67b0283a69f6
+173  | Wanda           | 1     | 9.35  | aca719c27943a177523229154010f0210f6ebec5bceeb95c36116e924b2ef1e8
+174  | Coral           | 1     | 9.35  | 66b012e29a098c39095043d8a2c946119a0c0de43d31b038f72b3aac5e9620ed
+175  | Chickie         | 1     | 9.37  | 2932241cbdf12a7953b84205fe768dd4e32ccf957ae6422e356c4b9c5d4b0c46
+176  | Susette         | 1     | 9.41  | 79843ec0dfa3bc8742c6e9423f7afb8dd5fec1ad104fdf9acd1e246b478fb4b6
+177  | Florie          | 1     | 9.41  | 0454e4f1a47742bc886d0cc3c0312cf016c397ffb60eebd9de551776688063e0
+178  | Bettine         | 1     | 9.42  | 12cc6eba4e8e7ade24dede3dad38bda033339d1eea35fc45ca6e491cee8bbafc
+179  | Danika          | 1     | 9.42  | 35b5a3b6f82fd2e0de4e9ed4e2608c28f3ff5c8dadd99fba3f53cace84bcb701
+180  | Arlina          | 1     | 9.44  | 5a4991e0acc07b50ed5a104a5749620fc37277f292c851c0c0e24b56c855ab87
+181  | Laure           | 1     | 9.44  | a8da10d808817e3a8293c0a0ec312ce6c4d1cf9786fceaca3ee274031f1c5360
+182  | Barbi           | 1     | 9.44  | 19f84fc978659f9f8461cc30d1977b72a0a154c342d71d4e03d78773967d2e88
+183  | Minda           | 1     | 9.45  | c10cae80b102b7b5ec5145726d47280b7c2fa031d4b46ce44ff6baa5dc3858f9
+184  | Jacquetta       | 1     | 9.45  | ec6c7c4e04d465b884251a2a379d47f21d30eeddaa1267fbaa2a3d1cbd438557
+185  | Jorry           | 1     | 9.47  | 3b6385499f73fef61eef0ca65107d7aeea657e3a09d4f33fc1ceffb3c5998bbe
+186  | Wilma           | 1     | 9.48  | 84f5aea1367d7b83f9741bb07d31693cea9e410b6ceaef225bd93ec145ceb076
+187  | Fernande        | 1     | 9.49  | beef73e11697065290d70231dcdc001e6a7d263acca25d94728a61bed5af1bb3
+188  | Ernesta         | 1     | 9.51  | 90526c7567c7f98df51778bf88075f61733aead4bcc5d30de1f5666f0468a4eb
+189  | Myrtice         | 1     | 9.51  | ada7bf0c460297f33db9791cb747acd975406e72370b04e3b4cb21ae90faeca8
+190  | Kore            | 1     | 9.51  | 072842227c7108922f6a8f124a4403de12d6cf5e7fc36b516eda32071f9bcdf5
+191  | Shannah         | 1     | 9.54  | 764afa01d836b149291b4de3db2173940f5ba80b020e7dd984a77e8ae06c27e8
+192  | Sibella         | 1     | 9.54  | c7ac77b2493df6cde8050a8e0a70e365eb0c42c109482cd67e389bb763c8e021
+193  | Desirae         | 1     | 9.55  | c307ab5af8e43fd641a32a1db85f29fb58df5df2167b289b93e3fd3b99817ae6
+194  | Tina            | 1     | 9.57  | c6be054aea21e7d2212408d177b3504981965568147cb2ac7f3f515cd904e526
+195  | Tina            | 1     | 9.58  | b1ff51f438b3e5008137862142ca2ba108dcdab4819861441de09b57f946c9a4
+196  | Cherrita        | 1     | 9.59  | 1aa79e88670ca99173f60c022aeca7300f71c58a75d9c94ea7393a96158a8bd9
+197  | Latisha         | 1     | 9.59  | 11af470a1431307ff80bfdd851c3a7ed295c4c5ec5a9fc8fcc83b7796b9c74e1
+198  | Joane           | 1     | 9.6   | 20a803ea8b61724b14e52c6accbc16ffd3f4af8729c79ec5523e7ec5df0b82d1
+199  | Fanchon         | 1     | 9.6   | 1f57c3bfc57aa4f746e2a91d5ac557b01488501fb760e4a7c66955ac623fd52a
+200  | Melina          | 1     | 9.61  | 6fe93d426e0d898509426283eabc57c44b4d73defcc1e788b1eadab6cb639458
+201  | Nicoli          | 1     | 9.61  | 1cbdf1b51060bd2e64a72a2eec8a833e825bb4ff4749a5af93c6bf539b48dab9
+202  | Nannie          | 1     | 9.62  | 8422b4d1c7b5d8a54b7858711eb35a6278399a1b6f98939cf6d39fe4d2074bb4
+203  | Gianina         | 1     | 9.63  | 51782808880f934b925753c79a12c0903e5d4cc8107ffb8c19d00bebaa59e147
+204  | Nicoli          | 1     | 9.65  | 72139a7b9d550eb99b381ad1e4cb4f59aca05bc9cc0b56567a63657db8ab6dd2
+205  | Sarette         | 1     | 9.71  | 59d73f4fa2a73f1af355d5f8d034400683241a9b215c2cecbbd968a842e02a42
+206  | Nataline        | 1     | 9.72  | a2e37027685dacc2bf8da6ba0115245a860e457a50af82d4a36314b28be30fa8
+207  | Rhoda           | 1     | 9.72  | 51a219eb3c9b80793e381a7e72639ec4561c49dc8e75f3079836f1f06185ba0b
+208  | Chickie         | 1     | 9.72  | 22a38337cbb985e392077d358a14d36822c95c4e656f6298a7b647083b557e2b
+209  | Tera            | 1     | 9.72  | af53ffb1ff4d10083922a03c2c1a1d59fab4c8132f8880cc0cbe86f6eff9c28e
+210  | Ermengarde      | 1     | 9.73  | ce59af73f64324aa95ee5b7597f752b69bab717b38efb4892a2b00173e7f0fa1
+211  | Kimberley       | 1     | 9.73  | 044a26c28a67ad9bc5cb785fe2bbfa9820f7660d92c4c3950ff57118ee6be9a6
+212  | Ekaterina       | 1     | 9.73  | 29c6a088c5cd2c481859ef85971f648195f9db72757d68f9b42a3b2000dd9a83
+213  | Fredericka      | 1     | 9.77  | 1270a915c3a0a0214ebbf768c2b2e3dd05d39d7fd26f19c79d468d46279fd191
+214  | Corry           | 1     | 9.77  | 0e40d4ad456b12a827141d86dce24d1c314ae74d6a2c4baaca2af71f55d6a63f
+215  | Charlena        | 1     | 9.79  | d21a70b88d87a09fb56b0d7f9c93db00e6e8b086205d002d781375abd11fe911
+216  | Asia            | 1     | 9.8   | 9679f717b94ef9a87bd08c90e68dde1c86e0f3bdede7f50ce2aa84c2fb3643b0
+217  | Siana           | 1     | 9.82  | 31ed64a7114d4db3b7ea073ff98a75377d037796b6511560b21f2a81eeb82f91
+218  | Letizia         | 1     | 9.84  | 4b32f959b96ccda237406a9d4f299020c5d7629acd01c97b4e9c7d378982e8e0
+219  | Tomasina        | 1     | 9.85  | c4407af7e0c4d027b4ddf6ca46e429032cf6bac27345a8286d6f47fc40059a0a
+220  | Shaylyn         | 1     | 9.85  | 847c60a9a566ec5b2dce602176db4ecc2a9f99b683d2623a559f376445fcf49c
+221  | Sabina          | 1     | 9.85  | a45d8b2557534c0bbab34c2fbf2ac8a70191c9587b58828a8aaa36b4c53014b3
+222  | Desirae         | 1     | 9.87  | f3ea4c73543c6f1188cc8f2a3abe3214cb94304ed2198f617faa4ae69673f15e
+223  | Ivett           | 1     | 9.88  | 955e95104b42d258e25ac8ad75c1909f947496e1774dfa93ce801e9aaa3ebaf0
+224  | Veda            | 1     | 9.88  | 5e91d1e2b8c399258a8f0d926dc3deed83f3458a25e1bea28028b5eb82f1e03d
+225  | Maud            | 1     | 9.89  | 90a0cb11f019031255c9960712e27b0d7600970588b6b44fe6caba1f847a80fc
+226  | Ninnetta        | 1     | 9.89  | abfe548fc5d32eed810a5599877087415648022c8a981fd8cbbd322dff2c258b
+227  | Philis          | 1     | 9.89  | 46d3daa54d492e0d795b9052029eff1b2ed34389985538a67e3e568a81172de2
+228  | Brynna          | 1     | 9.9   | d6abc6120f7e0466a4c4126c833ffc484fffe089694fcdb3ac257bbc92abc523
+229  | Nerta           | 1     | 9.9   | 3eaa500142f2a7c9560f4d7bf364b3c1d2c32623bee75b7ac729c7e7cf249508
+230  | Jasmina         | 1     | 9.92  | 9a62405764473e2cf228272be44c704fee1c9b223d2d1af67bab211c1cb68ae9
+231  | Karlee          | 1     | 9.95  | 5d98a54bcb24e6dbb89afde3a9e63d9f2d395e3e29a548c414f8c66acd8e9829
+232  | Ebonee          | 1     | 9.95  | e33846959460b85bbaa6eaf416169cb78bfd70f4cab61e7a4c084866d346d982
+233  | Kirstin         | 1     | 9.96  | 9047d906bca1ca47c7c2116fb90a85efc78fcc169d66767206352f734464d7b9
+234  | Kalina          | 1     | 9.96  | 40286b9a0980f7bddbaa46eb5b6de2a977f229282165bba27484e985b2dbc263
+235  | Sarette         | 1     | 9.97  | 2165e88f3da74468a35f71e36b02f99beee83677d6abe57eb72cdd153a1cfb29
+236  | Charissa        | 1     | 9.99  | ca1e7544ebfac15f48fe535358dc461cc659f0cd2f5f9c6c248799d2c7be277c
+237  | Meriel          | 1     | 9.99  | 9b4f7cee13105e4dfe53a8795974471eef042126e899ef922ebe64f7b89d2171
+238  | Cyb             | 1     | 10    | c2d2cd18d34f8cbd14c5848be4e4fe1577fcd395f78de84a16a9fe79450f6ff0
+239  | Gratia          | 2     | 7.01  | 9bcbf2d4e3b27fd397560b283f5300344bf65e3147ef80cac13375e83b53bafa
+240  | Carilyn         | 2     | 7.01  | e8b09a562a47c47c31e9fab107803a7793875b2441b6de0e2f2bcce963c23536
+241  | Jemie           | 2     | 7.01  | 824be90594a86600176f1bf83cb1d9cdde3a73b34b022b61913739b213af837f
+242  | Marjie          | 2     | 7.03  | 326d55da8513234c6aafeb003dfe4e861330e48a27647157cf7e13f901ccbdea
+243  | Shell           | 2     | 7.03  | daa7648fd74589db160e147811315c81b7e6ec930c1bd3d8325af070ad9494ee
+244  | Quintina        | 2     | 7.06  | e56918516dfc72810703b3fb964944dfadbdab9b4d97292e0f9c7ab6ce22b1a8
+245  | Concettina      | 2     | 7.07  | 7743f819a770eaa8de3f80446382b407cc51ff47c46f3ef8b50f3cb458a69593
+246  | Cassandra       | 2     | 7.07  | 35434931d70638e8e10a00507eb3fa76ad90474d8d5d211dd1271d8994e9fa8e
+247  | Nyssa           | 2     | 7.11  | fe75c15743594b4bf444ab03dfc3580bbc994a56b66817c8ff5124c5e78041a8
+248  | Silvana         | 2     | 7.12  | 1d611f28ca19c9d2e9002828b87a893cc35b275ffeb8e8280a72e1350dc505ac
+249  | Edee            | 2     | 7.13  | 3d6569507a8858951e86f52e3a53ced36ad5cf11acba4824ca265671380ebd8c
+250  | Jenilee         | 2     | 7.14  | 572e1afbc7840f00ac029fab227ef00f41ffe4991e80884aef9bdff7cf5b0625
+251  | Stacey          | 2     | 7.14  | 1ce8ca6d283c3f61d4ea67434fedbcbeb91a31cf5f77267f0f93216c2eede916
+252  | Mamie           | 2     | 7.14  | 03c44a0da361f1d0f2c089de9d19766134fb58769af09b59b277b8e8129733fa
+253  | Linet           | 2     | 7.14  | c536eba400d1b976f8f3eb7026b7e799e32496fecb5482e2d12f7c31c95fe5cf
+254  | Devina          | 2     | 7.15  | de96cc1c00c37be93e2de87875c3f66040dffb647f94921dbaf65b511708938b
+255  | Veda            | 2     | 7.16  | fe9f408f079f1b9b136ff56b19dfff95520b5d50e05ae8ffe5b268b38691f3b4
+256  | Kellen          | 2     | 7.18  | c743621037a5ad00a1dc26e9662e4131e2adfd3d21b136eb755e750e255d1e26
+257  | Bibby           | 2     | 7.19  | 999ae464c812db43d000e1d869c8f17c1977c6689caf5dbb7d47c81839ea9d4f
+258  | Rochette        | 2     | 7.2   | fdebfe1cc1ca154d3d9ac0a7452813c665a25e1862f92892f47a71f3b669a3dc
+259  | Goldie          | 2     | 7.2   | cba41a8c90c2cf131d139cc404c8241bde6cfc1250bff4f37af2282ee152e9d2
+260  | Aurelie         | 2     | 7.21  | 3dc00588dbcf848d291b8027bf6f0e019588380b638f97b909c97f53a50a4689
+261  | Lexine          | 2     | 7.23  | 03dd9d6c013d6f57eea292bccd93a673af6964d8940c925dc4c4f01a08b93da5
+262  | Merle           | 2     | 7.26  | 9d2a5a8a3218f31d44e5594bf0615f0f1bce26ba00c26bdf72e0bb30686b339f
+263  | Dorthy          | 2     | 7.27  | 3bb916ff6e432a101075fef1e23f27bdfcb5b3e25e29c2709ef57bb507f8f35b
+264  | Edyth           | 2     | 7.28  | 1d53231603a8ef9d2852e35ebd077ab8fa9b7f3de6cc897ce2d01ed06f72c787
+265  | Dagmar          | 2     | 7.29  | b4047b351823cf09033998167fb422455fe74149b53f2e3c70cd352d5eff6ded
+266  | Joeann          | 2     | 7.3   | 81061936089fc62f06c769d76009e1403d23518aa865355c54c3a9c9bb02d6ac
+267  | Sophia          | 2     | 7.3   | f174fc093adbc84cafbb9833794ae0eb214905a08e23281fb7fe6adcd42709e3
+268  | Zia             | 2     | 7.36  | 6fc8f871b97c40c7e06fb014d26a191abaef0c8f2ecfb162575acacca4a7fbcc
+269  | Jerry           | 2     | 7.37  | 571b12b2b47237b2fec837c20870faaf3c3d2690016b5ad62d9de52dd15dca0c
+270  | Genevra         | 2     | 7.38  | 2eed7f15522da55c97797f6ffc2f0b17f2f34b94615d8bae0d64de4d402c726a
+271  | Elora           | 2     | 7.39  | 5c23fceb1673952a54b617bba42cb8ccf91aeef4696c59851bdfc15612abfcd1
+272  | Jordan          | 2     | 7.4   | e22c039f252b8feef4f2a9214cb3c28762d862cbdefc72db8826365ce071f108
+273  | Cecile          | 2     | 7.47  | a7aa4f46bc2cef475d1e5d5b873e740cae5db82990d648b9ac3a4665068834f9
+274  | Alyda           | 2     | 7.47  | 247031557415567529dd0352a5b4e678b03a638b06801baf01a248606b1a19b8
+275  | Myrtice         | 2     | 7.48  | fae3f6be36599070e7a686c41a587482b9b4bb06482a50c76aa5ede79b8802c5
+276  | Selia           | 2     | 7.5   | 36d2a866787613beabba6f53736fe16994fd510cb00d674051016ca6af3adcee
+277  | Sandie          | 2     | 7.51  | 259af9b8e398675e3c2c01f7349c1e6848f19508e470c94a2161f2fa8b8ed101
+278  | Trudie          | 2     | 7.51  | 365ca3d216b9eff5f1ed3ef0b0067319005554f4c6f8d46fb4dff113f6e104d8
+279  | Lulita          | 2     | 7.52  | 764c985f9a58b87ee9546f1ddee714885e17b9bec42a58abd4dc47cbc63cd1d6
+280  | Kary            | 2     | 7.53  | 1cb6b773db3c21be6dbd2860c5b36132b0edd15866bc771e2d3f9f2e2510222d
+281  | Berget          | 2     | 7.54  | 3b6edeefc0bf050722a00086bafe04127cffc1ad9edab1e4ea15d5273cf35a6c
+282  | Max             | 2     | 7.54  | 35888760d5f96cc0acfcff387363fc8f8bcfe0d7bfa7e10fff8f4a8e8c4eef5f
+283  | Sean            | 2     | 7.55  | c6b04005cd16b86550ee1dd9e1adad17dda5dcf637eb9601a11a1e547768c9c4
+284  | Emma            | 2     | 7.56  | 1392a2c83da464219a28550a49d19783a700751af79076b73a2e973a2448e87e
+285  | Sherrie         | 2     | 7.56  | baabbb4d83f86e3832819fdfdb8f4e7a4a3cf7a4900a47f5fc128746b97adead
+286  | Lucille         | 2     | 7.57  | 4736ffc26fdc3f7e350bb480a8688fb5f22a8af6770ed0a0b141199ec76c171a
+287  | Lusa            | 2     | 7.57  | 757015fe198f4d97dc5be7e1df3cad8c10910412a1dc3aed3bdd1842f23cfe57
+288  | Gilda           | 2     | 7.61  | f2a226e86d13989c9fb8e533a611a591932ee4a7ef3379243a3d62acfe3640b6
+289  | Roxane          | 2     | 7.62  | 65e1f8f2e59fc98744d9d4d6209108228f15649389a7d6d3200db848c2b0a356
+290  | Debee           | 2     | 7.64  | bf2648574a2fee4c28b6711325827a8f3384e637c1e7d5872497a7be283d8438
+291  | Judy            | 2     | 7.67  | f1b6f2e20ad76e011e37ba4390f52b72f05ebc7d3d52006c06a0bc3cd7f9ab36
+292  | Dotty           | 2     | 7.67  | 655e70e4865a90249395ca1a5255701e60e05327cf63718469572caa444717c6
+293  | Etta            | 2     | 7.67  | aa0e3e403adcf5a719c47f074c78b5cad73b2b8349dcd93036b44250c658f4f1
+294  | Arlena          | 2     | 7.7   | 54457bc5d2596ad559eb420c61437aad9541456565be9f205f65bb399d6848e2
+295  | Elfreda         | 2     | 7.71  | a29126a905f7c7d920e1a443fd4a34d41c95c3a6295704f3250085fa2f2bac82
+296  | Emma            | 2     | 7.71  | 35148965fb6f7cd8bab734265fc57bcade0cc08b39403f0989c0a61b29d6f70e
+297  | Carree          | 2     | 7.72  | 1af62c91e56f9546eeb34eb74dfde8706e5cb2340b5e1159b4f2a6f4a80516f9
+298  | Julieta         | 2     | 7.75  | b9d5099daacaea3c3a889917e7e226eb0fd074df3d387584fea22b838d0c68f8
+299  | Hollie          | 2     | 7.78  | 1a213d6120e436b5adaad95b5c1a3294ed5952b26a8e3d9592a470896b95e0b5
+300  | Stevana         | 2     | 7.8   | af9ed85d8466fc6fc3c780922e98fb3139a232addc88f23f77f48384839edff4
+301  | Josephine       | 2     | 7.81  | c2f9260f10faf578e0987ce3c0302eee72e3274dd808351442de4536659176d3
+302  | Stephanie       | 2     | 7.81  | 50523bb2d596eb9a4b2e3a3973164b8daf103f0f5de1a84a70d96a27c86b43eb
+303  | Adore           | 2     | 7.82  | a991f1dc9608926a4cdddaa18b64927b0942942ebf7ab9770b310d6852d4663a
+304  | Priscilla       | 2     | 7.83  | aa1745da70406abf9c2752214fbf39b4083d544edf0cf74f01c892da7953ea9b
+305  | Brandise        | 2     | 7.89  | 1b3ec62092a7e76fbd5b1fad507fa684c88ca680e1334c3a262de932fe31e83a
+306  | Chandra         | 2     | 7.9   | c7fc8f80b0980ba117a239a5f52d5f74b3a9c618cb6bb031f2032fc189f43927
+307  | Dagmar          | 2     | 7.9   | f1efb85d83a0e5b49876f4c4e268cb669e54249d149cf3769069c26ef0cb0e57
+308  | Debee           | 2     | 7.9   | 1139c2bc6f73196acc2e592928acb29e46a554fe35071140c41217c826c7df43
+309  | Sherrie         | 2     | 7.92  | a44eed575324b3dd39bbf2645abb3d3476ad3eb48164c53bccce68b845025ec3
+310  | Carilyn         | 2     | 8     | f96edd9408520616ab5ba8ec552a498a0aafbb25add039e74bc1caa9e0c31382
+311  | Dorene          | 2     | 8.01  | 0a3b9eff128185270a22e66cecd1d8f63b8a8d589c83d8caafac5fa274bfa8ef
+312  | Stacey          | 2     | 8.02  | 2a76e1f0d536eead08a66066683a9aff34adb57f58d78bdd2ceb23676104208d
+313  | Tressa          | 2     | 8.03  | c817aa320a9a2a28c820476cff63b91f91f1b76a5b1d88faa330012ab0184508
+314  | Lauryn          | 2     | 8.05  | fb6ad16f114d555294715eade8e38ca47acc9599c513b5d2b12779a25c4b0220
+315  | Almeta          | 2     | 8.05  | cd5bfa498e9918ff2a9911892cbb4bf6481c959538cafc3f32d594207ed5e556
+316  | Karina          | 2     | 8.06  | 805191faec8ad4b95ac9fba63fda6b77beff69079e42ec63fb50d7adaa3c40fb
+317  | Karolina        | 2     | 8.07  | 2dda9e7c3f4726c5c3f5a7cbe5dee1905c7f3b943566e36472b87d559780128d
+318  | Cristine        | 2     | 8.08  | 592d645e557e66f0635df62945b5a68d8a1642025d61c9487883bbd0a37bff87
+319  | Codie           | 2     | 8.08  | 4d47e5cc141527be4f6313b2a663ff4d33566b97f4b0bd81e7a374da1b0e47ac
+320  | Codie           | 2     | 8.09  | c7c957b2f8413c854176e045240312b96bb1908ec6ddaf5be6790a7763f0b826
+321  | Lorie           | 2     | 8.09  | fac15ea8b2294d1ad4173c6dc1a31f6141e520933646d25e333fde61133fdfa6
+322  | Nita            | 2     | 8.12  | c26f04d99dee99667ac669069827b97f15fb37d5db3f6064e4dce975cff67e87
+323  | Angelique       | 2     | 8.12  | a17663969f1eaba61cd23913fbcc984b86804a4c3f0469e23fe5296e1d714773
+324  | Fanchon         | 2     | 8.14  | 24954ac4652b9a677dc500661405f4e0cd73b4505efc5b31198429af593f801c
+325  | Joy             | 2     | 8.16  | 0e48209789ea03f019d90d10d360a62b1b801ca48d2091cba6a0d7e394e6370c
+326  | Leeanne         | 2     | 8.19  | 263a0881708ca22ced64a83bf7ab6b1a0b4f7f56f1e42a77d83c78bb7a40b1bc
+327  | June            | 2     | 8.19  | 4e6206c7d13e18218762074bda841ee3a6ad71e3a9cdec5569f11201d6686a12
+328  | Heida           | 2     | 8.24  | dafc33ed9de74296b725aa9bc6fc9b154027d70046ed5c612125c265182d50d0
+329  | Raf             | 2     | 8.25  | c1cfef16e333f550679efe79ba651ea144c797d869eaf597cbc53663e0231b92
+330  | Diena           | 2     | 8.25  | 31e62146b03553a987c411254780293db7f940a9d4b417ac503a0849af26847c
+331  | Jinny           | 2     | 8.26  | 9e6b4350329f790c06f2a488698c1346bfb6fe43d1f77ac883ed19fb453998a9
+332  | Millie          | 2     | 8.27  | 7e6cf84de5ed16558bf0813f0718e0920654ad1899630e4f9006c68dc903d93c
+333  | Antonietta      | 2     | 8.27  | 273414bc0b86acee596bc22307a427f0b11010c3054f13515b1b8c48e798f0a4
+334  | Gabi            | 2     | 8.27  | 18e0eb03c597c9ed88a6c5b80a83458b242f1a938dbae13e4f26a4262b2a1aa0
+335  | Renae           | 2     | 8.27  | 1ed75cdade11293e32b00cffff8c5b9b2dbe7d2ad5b30786b685a17f4ca1d14b
+336  | Paulita         | 2     | 8.29  | 8012f7d2cfdcffa26f996c5aa5c42df7ae7b064422edacfdfb60f7fec67323aa
+337  | Lexine          | 2     | 8.29  | c18156f83a06b3bbbf48cb8ce9c5095361bc8add5f293128bf80abfba002355b
+338  | Ada             | 2     | 8.29  | fc482911331bbdda27fcebd3a782732501ff9e22f3c6854602e2292e7e04cd52
+339  | Ardeen          | 2     | 8.3   | f3a1aee637b56dbacb398c65a9d34a3c8ec1ed38e40a5dccc62a8b8f1c90ed8b
+340  | Mallory         | 2     | 8.3   | 432b8d929ad390da7afff9bfb10141b65e41dd20db1dbfccf3cf64fd16b25ec1
+341  | Gwenneth        | 2     | 8.35  | af722e9ce5352e6bb1ef517de07b59d41ed388321357798a5af01096b69b524d
+342  | Ginnie          | 2     | 8.35  | 91bd2bf3564eea2c486515670680c26e16f0e74bb96707d7442fd5449ebac4f8
+343  | Bee             | 2     | 8.35  | a47f005e351c6fdb3362290b69819d85b6dfab2b673c26601c7686204bcb777d
+344  | Laurene         | 2     | 8.36  | 21c130fa57738dc0dc8d0618620970a035941aab42ed680186fb9a8aefa17f88
+345  | Sharlene        | 2     | 8.36  | fdd82bce59c315c3d3034e5f0e5f356d16b93d65a58e679b5c1c25e83db5b5f7
+346  | Codie           | 2     | 8.37  | de23a2d221f9898733d5a7abc0b4e69a0aeee06679f7aa72065130893ca9a70d
+347  | Catrina         | 2     | 8.38  | 2780eee28f8e738f65c82671f9ba41628e36ed800b2de74c256a132c9aa73779
+348  | Flory           | 2     | 8.39  | 1bb893d2339057c0545d4f390bc411d171d962342febc0f84460fddec3e9c4ad
+349  | Edith           | 2     | 8.41  | f69fba20d872b206f5ccd7927db00536e9aa79c3323c5018d625b9a0844276cb
+350  | Ezmeralda       | 2     | 8.42  | 1d92a7265d4153960ceec546ed6034ca668051a456b75b4c36dc968d9f5bed9c
+351  | Shaylyn         | 2     | 8.43  | 24e0a355a59b41c0443981918cffc58aa7b6c3946e19590453ad4c28aa8dbfe4
+352  | Randa           | 2     | 8.43  | 8d6ff6a4234f01b1b2f85c3bf727bc4a68b732c2000b5dce052dbcba211293f9
+353  | Valeda          | 2     | 8.44  | 1626a33adcc473eba55873f45e2c0f18ffe8edca4286c48e046994b7d6c52304
+354  | Hyacinthe       | 2     | 8.45  | 37ba4680154c7deeeacfce2628f6bea7e6b5568438636dfe46305857274c2f73
+355  | Dorothy         | 2     | 8.47  | f64af47a918b1d43e70ed80d462a9d9caa33cce87b15ddf83b620ccb456fe964
+356  | Tilly           | 2     | 8.49  | ee127415580306f010ae1fb6f1ba869e79e7c2ab00ba9515e7eba19390c5ee64
+357  | Cyb             | 2     | 8.49  | be7355b8722b56eb93686a8ba4b408ba4062db9e461659708e32fbd97b5180f2
+358  | Emelina         | 2     | 8.51  | d6f3d13b7ba723a9aee9331ced13302ac7aa84a6b75378a99db4d418d6d2670c
+359  | Ernesta         | 2     | 8.52  | 4decb7680017b9e1ea0b647a748c29c5efe5d583190d1a00305a6062685a9beb
+360  | Dari            | 2     | 8.52  | dcf64881c53271caeb0b2af6d8f782090033149dd5a0c1e1b329367968945a4a
+361  | Tonia           | 2     | 8.53  | dfb8eb7617ccd5b74067889832dc763f8e3acda6e7176ec5ec3cda25fb73bd9e
+362  | Donetta         | 2     | 8.54  | c7b2589ec0d098ef9f14ef42838b1a7b1ef119450bbf4bb37da31597ceb7d8de
+363  | Gui             | 2     | 8.54  | 529fc21f75fc0edbd0ad1c7be0bb89569cbbb70fcb6e72217ef717306a125972
+364  | Libbie          | 2     | 8.56  | 412a85118e60d9a59905482ebd50fbec2e2c766c84a79d765e7bbadb2d437ac7
+365  | Wanda           | 2     | 8.59  | 224feb234e2a8a48e8d6c99a20c15a29b2923a96c9f43ba3ac48d8a44cddf8e6
+366  | Barbi           | 2     | 8.6   | 03b90081d673c6cd679bb1492b889b6e4b71e67d23c06fe213801b89fa36c476
+367  | Regina          | 2     | 8.61  | b6efdb1ef335e3ac1fb5948bd7487e904d90531fea2198818b96dce689588fd1
+368  | Cyndie          | 2     | 8.62  | f0cf34fadb0d0dbc991beb679ca754c7f8eaf54162f730aee86a88acb6005b20
+369  | Tera            | 2     | 8.64  | bb18f4f7b4d9bf72c123247c38949b22fb4c17bee8b2bcba7d9a62df655084c8
+370  | Myriam          | 2     | 8.64  | 6386bfc40fdd65b78b6468239114196a18c2bd8243f0421171b5e9d526c4c5b0
+371  | Malina          | 2     | 8.65  | f2de0da269ddc9a399064984fbdd761f590448b9089f4e170843e112ad61df6f
+372  | Tera            | 2     | 8.66  | deabdc84d2bf1f9789813d4a4f70f1f2436382abfcdc6abb471695e67ce125ae
+373  | Emma            | 2     | 8.67  | f9b2b23e678b42e39388a246e5b55d61cf389778d82a0a64d81cf89f3ee5497e
+374  | Jere            | 2     | 8.68  | db4f6567860061df7459ea23d064f19fe4ea34111267c1688c9522a83bbce786
+375  | Sam             | 2     | 8.69  | 15e59463bf21ce3e6348cbad249abbc1f72d28a22ee5f29c5c92fcb450a65545
+376  | Ida             | 2     | 8.7   | 697b8e181f7d6837df8a5c216ffb758a2649ad6525c25a70042fea890e223230
+377  | Gavrielle       | 2     | 8.71  | 317e7f6c8952804eefc027c7023c4239e3e7af6e083deab86a31e03b7114d81c
+378  | Pollyanna       | 2     | 8.71  | 2c7d285520be524687caa113cdb66ddb715daffa4d8a1545d87af34413399ca5
+379  | Sharlene        | 2     | 8.71  | 0efe1aea70fb4074ec26ac8085c09c07409c49315c83ac225220dcf97239b295
+380  | Beverley        | 2     | 8.72  | 2beea0372be998bb0881862949b74ffaf711ec3f37d2abe53dcba61dffe2c752
+381  | Angelique       | 2     | 8.74  | 2c427b554a0a7e3ae49a17e8771d3c71e9b67a27f75c2e342c49bdd94cfe5bd2
+382  | Donnie          | 2     | 8.74  | ddc616c313e1bd24e6302a2828c571ea8a350382e0ff086e54be9008602e6c0f
+383  | Sherrie         | 2     | 8.74  | b74aaa8fb8c13ef0bb73995ad056b87f13038040265932022da9b90476b66eae
+384  | Vita            | 2     | 8.76  | ef02c1d37defeeb2d5fa0f0ac5a7edf257ad66d3cd9b4417cddb0437f19765ae
+385  | Daphne          | 2     | 8.76  | 8cdf8ac39260a1091ac535241f64b74d14c82be7e52444a210aa855fce6cedb4
+386  | Lelah           | 2     | 8.79  | 5dc44fdd90b37cad3d5b7fd61271f35659aeaa4ca1b682266ff9e52eb3b9a354
+387  | Kore            | 2     | 8.79  | 93f7edd0d28296c006ca49baedf43f07782e0b513036583d4180c90b0de2b6be
+388  | Paola           | 2     | 8.8   | bcaf43754e3a29f9b387d00a3805e27d16c556039c76c124b39ffcb95be375e6
+389  | Darci           | 2     | 8.81  | 24ed5cddd900e2cf6e445ce59f0339649d2fcac5a0f5526d3f77c7e9ae7097bc
+390  | Loree           | 2     | 8.82  | ab711c58969cd2e969e4a91ee7ef3dbbcd1e7a6e5c4775eb339853147a0990f4
+391  | Annabela        | 2     | 8.83  | 5b33f760c798abaab209dcf4e15c8497239acfcbe33e4eb571365037f00059eb
+392  | Hollie          | 2     | 8.83  | ab8c573dd247fb2de81a128d5f4faa5abf891a9b7dbc3feb540cf9b2b1126bdc
+393  | Pierette        | 2     | 8.85  | 949fb29b79fa1e518c5f27674078127c8e3c64f128a58b276797edb1483672fd
+394  | Cyb             | 2     | 8.86  | 1f34263a560606f6d83a3c8296a271f7cc3f51cf8216547c107d66c707034d6b
+395  | Carly           | 2     | 8.89  | bd52cdcb624238406867edd14994852a379c97d0682859f3d334eadfab0b3dfe
+396  | Dacia           | 2     | 8.92  | abe3b496ca377c77a56a4c20e9885779452feaf52c62ecacd03271d300d44f8f
+397  | Berget          | 2     | 8.92  | 5169cfcfd02739ff3a1c52b3847f67ecb4c661c672bd998d9c5fbbbb2bb77cdd
+398  | Jacenta         | 2     | 8.93  | ba32f6eda6c3ece20a7492ec6f908e530d5a226b9958354c1424742af808c657
+399  | Dione           | 2     | 8.93  | 8c273f4dd20f4ef2ca9c07ff5a284b4bb3acf8092e544423ab95dda87cafcb28
+400  | Dennie          | 2     | 8.94  | f134cc9b0cd14c1f93594b8fd2d3e756a3385496b3bb35ffb7cfd65f5268cceb
+401  | Bee             | 2     | 8.94  | a02f6b280908314a661812bc63e9354bcaae706cc9d74fca43a066d601daa28a
+402  | Eve             | 2     | 8.95  | c8aac466b724665a6b54ba6f4a6c2ef943acea0131d7b46e470562c78f593352
+403  | Lynnea          | 2     | 8.97  | 9361564d3bffc4e47b806f41fd4d4f5de7c49e2295d5b68c55c3782b3f7d2af2
+404  | Kaia            | 2     | 8.98  | 67860265dba61f5ebaa082f791c8c0427ca02539a8cd8f8f5cf377eee7906fbb
+405  | Cristine        | 2     | 8.98  | cc9a6bdbec99d38d546127617426e351fb1c3b93513f0fa9958189a0350a667e
+406  | Daphne          | 2     | 9.01  | 66535d7217ac20f1a49e286c1baaf5a357a63da2cd75754f5bc48eb8310745c5
+407  | Helsa           | 2     | 9.01  | 25f5a0576445b5a77883cda57c3719899ad3c44fcbba04bf0a07ec8895d06505
+408  | Vonny           | 2     | 9.02  | b8a9a358e104c424c3605d14c198eb45b8abcb3d2f392cd3989d0ad286676997
+409  | Addia           | 2     | 9.06  | 6ed873bcd58a75e031929b96e9400b0dfb9232680861daffc2601e7c9253fe8d
+410  | Peri            | 2     | 9.07  | ec1929b6dc72afe8812a089cbf210a03145584e93e72cf7e797fadff863bc74f
+411  | Shaine          | 2     | 9.08  | 09e6c52d5b158040b51ffc633e85cc64976b1151be425217d1593867ff4f082c
+412  | Edith           | 2     | 9.08  | 845ccad46208c96db35141ed1f5f60b36c104cfcd6b2eeb3eb3b5373e5418b38
+413  | Deane           | 2     | 9.09  | 2daba314a79feae8e1b1853281e7ea6047ae2c8f3d9927abef2e8327f84a64b3
+414  | Evaleen         | 2     | 9.09  | 776df38926bf48320442153730281b44048da2b5f91bd7f3253aa95984f7328c
+415  | Di              | 2     | 9.09  | bace2da978057ab5a9e6ccf58206d9a6fcff9ab38a4f06452729c6f682414eca
+416  | Shaine          | 2     | 9.1   | 2061a1be3f45c7342ddd7a50bc244601d3017958fd51ac7898fc2d5371071983
+417  | Anestassia      | 2     | 9.11  | 1933508f6aca63b84d29c8272c96d20e689b3306cb64c1190ab9b7d378feca0e
+418  | Monika          | 2     | 9.12  | fe3242630f89370bab5862bbbb3c82a94629d998007ab0e6011abbf7404ed711
+419  | Carmela         | 2     | 9.16  | cd818709579ca83ea084777756dd669219877e6cb8ad77e8d7370261902e8745
+420  | Paule           | 2     | 9.17  | 68ebcbf91bc3483cb5bf7a0b61a3e354ffa4d1639f25db19b92c786f4b9c61a1
+421  | Brena           | 2     | 9.17  | 881277b7a67b141a75ea877654739f92e2e9f13bf189a273865b6ffd8c4235b7
+422  | Averyl          | 2     | 9.18  | eae06bce6329337eeb143b3ef9de76e36a6367bb7f38c834dc63b7152c07f99e
+423  | Ericka          | 2     | 9.19  | 7697dcffdbda9b7e7d0c5639e7e3575edb2331c3fb76747149c164b06f6aa2cf
+424  | Aigneis         | 2     | 9.21  | 9dc89cd377471209cf4a0a90d3e110d826dca86f74aa6b5bd3a227911c0e6877
+425  | Taffy           | 2     | 9.24  | 3adfd465c1e193b0be22654a994326b1da0de8b90596527fdb8555a164a4a70c
+426  | Cindelyn        | 2     | 9.24  | 5726ead040e9368c5e3d5dcddfdc8fef298415815df9fb0b2fdd4feaa06eb7d4
+427  | Hope            | 2     | 9.24  | 4636a56a303c27d0ed9b5bcd9118e47d521f42d83a1e3b1a303af417f2e3fd2e
+428  | Mamie           | 2     | 9.25  | ac7ef45fb44fbe56966be6e6b3d67b6751ca7e7ef643c962863abb8b56ecfc12
+429  | Gilda           | 2     | 9.25  | 923dd1274107084df1aa882a60f51a2da1340f35d68390a6d937063c6efc3a5c
+430  | Kristina        | 2     | 9.26  | 3c15fd718ab2042b3f3f6beb951ae4c6d2d9a020211fcb1a754f8eff2a4ac07d
+431  | Myriam          | 2     | 9.26  | 6bc004c264dd4087505661bd8ba5b93a921ad87e850c84cbec26710b0c1f8f5d
+432  | Roslyn          | 2     | 9.26  | 4e36b18fbbc113dde172dc52976b0a8e68e6481c1ed09060d2b74a05bf6fcff9
+433  | Zaria           | 2     | 9.26  | 240b1660936c68cfdff7e23f38fb0536144a59b67e13dc37e8937356b5ba5eb5
+434  | Etta            | 2     | 9.26  | b654b2abab73a9a099422cb4f1f85961e2fa8b7ab09162a1098ceb438b7a5287
+435  | Joy             | 2     | 9.26  | 1ea66b56f4792056b9a6cdab8dc34334c7cc8fbdd73ff48f4925c556ffcddd70
+436  | Shauna          | 2     | 9.26  | e36d6a4ab2682f39e77a246d286c0f73728292132318289424b2177ed0b5ec59
+437  | Harrietta       | 2     | 9.27  | 897810f43853d04a7f7b5da989277710a8ec6612b36743e90e2f8538813c9383
+438  | Adelle          | 2     | 9.3   | 0756a400fcc60c7a98549af4a0f2d73425d24e572b41d26ab404a4b8269d4931
+439  | Ingrid          | 2     | 9.3   | bebd4d4244c8c7a79613394dadfbb9d4642f8f74f89a840fc5c9c0791d8b1e7d
+440  | Anallese        | 2     | 9.32  | ef21527eb38a10341db08795a15d85b99e550e129dc49f9d729c60c0b20896f2
+441  | Amelia          | 2     | 9.34  | 192055d2f37d1f559378a7e3297a4d0bb7342a66b8158393150854852e10240f
+442  | Nariko          | 2     | 9.34  | be46df737a718df772553e4895d7dae5b994b37b31589735b0a04de12f364b13
+443  | Kate            | 2     | 9.35  | 925ff18dbc9aa064c43596798d89474d4ebcd408dce40bf1f2aaf3c287688c1a
+444  | Jean            | 2     | 9.36  | 86f787ac570d18f37b9c17132fabd1a7faa97ffad7c4e0bc035e1a3140b671a7
+445  | Tierney         | 2     | 9.37  | 3582b591946a2ecd8061471845ecb87b77ec7a4f0cf3caf19543a4cf39245169
+446  | Carolina        | 2     | 9.41  | cf6c1a03cdef66279613dcc1152c56cea1a2f084e8af5de839f864a7e1db43e9
+447  | Maye            | 2     | 9.41  | e6ba663651536cd2d1a0cd9b4e2fd77fb2c45b7d5a16f025a803559205c08f97
+448  | Ebonee          | 2     | 9.42  | bb40dd36d39bd1cf4a35bbeb66a99718d8975fa401a76703ca787042f0d59c87
+449  | Corina          | 2     | 9.42  | 00c1c4885089e9c835a6e1b9e8e55208827e90b2f9380dd289bd6bc5d00ae468
+450  | Alex            | 2     | 9.43  | f114a2fb4deff08b3bfacb6a0ec0ae2e6969c3461bb46c715e5ddceb8f5cc915
+451  | Ricky           | 2     | 9.43  | 159eaf073b7aeb2b4a500c349051daded6f13640bf3f9e4ba5d4dbd409dc5c1d
+452  | Asia            | 2     | 9.48  | e1125efd929464816f57fc3bcbc0004e693b7ac020c6cad5cae9a3a7f103bd70
+453  | Tressa          | 2     | 9.49  | 076588923e13b9c58ba9eea39a4fbf85f706cd68e6ac2a70e191f2944cf310c1
+454  | Dorene          | 2     | 9.51  | 62c5390ff3a60b48e6759602aa95cef818cc474bfe16d45808d196b2790f7481
+455  | Shirlee         | 2     | 9.51  | a968ba4264af959aff2ebf7b1336b37d4db96d181127e03de5a29b8587687ceb
+456  | Nataline        | 2     | 9.52  | b4df3092105f06c8133f23abfb4f14873bcbfc2728e3ceacda32e9b6ba077292
+457  | Ebonee          | 2     | 9.53  | 1b719c8b83276db05b6287f72e50b0421e9ffa09fba4dee0425df47cf60182ee
+458  | Raquela         | 2     | 9.54  | bce08d037476e1679848071f606bc6572ad735ad931ddd7f4e3b9e1d5dd90ab7
+459  | Ricky           | 2     | 9.54  | a7dfb09ff96a9e2d5189bbfc5ea0daf6e4cf3e0e2b874e9a5ff5d1baa760f95f
+460  | Mamie           | 2     | 9.55  | d1fda04e1c56021e61592c795e54fc3b2b48169fd620f2a88bc9b7ac47a6fb8f
+461  | Dorothy         | 2     | 9.58  | 0ee3827d3a7184f7b6e88a5ddd6c353c045cea2ab9f9c56b8e789be1a9fa430c
+462  | Abbie           | 2     | 9.58  | cd0ddfea9f1799c97621ce72f5c92bf339dd6634c28c7dca136b04de607f7097
+463  | Arlena          | 2     | 9.58  | 4684ac9cafd289bfb21d6946e1858d75b6a81a6bfa11ab9ede7b8638288b0d54
+464  | Sandie          | 2     | 9.59  | 2685e83a94264aa3ec19e34f452a2a8a761a42de65a98b8a139e222a9ff1efe7
+465  | Clo             | 2     | 9.59  | 3b02d049f0df641151bf262c1388a5f7a077ec041359e50ba24624ea8a8d7d9c
+466  | Sabina          | 2     | 9.61  | e6fca8608105ba5a252fab358448fc1e13adc92db3967928bb44251d84d778d9
+467  | Addia           | 2     | 9.61  | 800621133b07aa09058b95ab72ef981dbff7fe3d69be5cb6739f5a0fa6b6d28c
+468  | Ileana          | 2     | 9.63  | 48bef795f4deab442cad8eff3ee94d9cf2d84dbc2486816a155de155e14e3b32
+469  | Pollyanna       | 2     | 9.64  | facadcc0c9cbbddfc42e96eaef3a45505034acaf58a6f6926f84637d986186b9
+470  | Ardys           | 2     | 9.66  | 0c7bcbfb3c7d8558182073577828e3935e43ff7f2b0e671e2d59d6961b761d39
+471  | Mady            | 2     | 9.67  | f54e4595262fff0599064f7130c1f43d7a0fb84aa91a55220eacc979c1377472
+472  | Cathyleen       | 2     | 9.67  | 56bbd7254071f333851e4941c4ce348f55e8972c38272340aa4ed0cc9a91d3d9
+473  | Dede            | 2     | 9.67  | 59ba47d1109fc81ce089986faa1064a7704e2f9bcfba27f1811a240d24a7a90d
+474  | Anestassia      | 2     | 9.68  | 144eb286113be3fc7e210450b3212eb2c5412721631a7a20b1c8ce7d974d0865
+475  | Shirlee         | 2     | 9.69  | bfb47c252ece18f775fc02b45551d558ee6c3451d4e7ee7c9f7a95a9125ce333
+476  | Sara-Ann        | 2     | 9.71  | 5c820946712e3136c0a989ddfbae1c48708acdb90a9ba65723fcf0a1e2185c01
+477  | Lusa            | 2     | 9.72  | f7fb901a66e3aa730d500bbedf4cb463957977b95359f928da5a9491cc7843de
+478  | Veda            | 2     | 9.74  | a3d22449fd6c5d3a21c2a7408321c5b95391b1682667c6af68de18a76b5bd577
+479  | Robbi           | 2     | 9.74  | 787c466a58d893063c2f20a2984dbaac8ded75942a1ae2b6a7723f2ba97cfdbf
+480  | Ada             | 2     | 9.74  | cc559001194b6550d70135a8c0c102a229f3aab8cacf2241003ba92b1c4ec443
+481  | Anica           | 2     | 9.75  | 632e249cf774b76d6d9f0eb66802409792fcfef0928844a67a2b4136c4fa531e
+482  | Sonni           | 2     | 9.79  | 56391c1cccb76373a6cf39635701789f8a4b6638ccfa997786d337edce2cf916
+483  | Wanda           | 2     | 9.8   | 8b7ca2af20cef1387d4d0524da5900932ca1e0b2f6a322a5475e501c8b32074a
+484  | Tomasina        | 2     | 9.81  | 41e2c78d983d52fc90eb453e68a59ad670129b3b0c337012e19fe0a70d12de7f
+485  | Gabriellia      | 2     | 9.82  | 775bdd6da41e82d52ac7cb1c6fa3e7dd15b87d12dba3c47811a8ec8037c8702e
+486  | Joy             | 2     | 9.83  | 2821865539fab7474498aa0470ed13e30365035af124807e2acaac9c8f22ec5c
+487  | Dianemarie      | 2     | 9.84  | 36cf15a7be3586e5ab50a7f4f307d3d864bd6c6eb862866861fc0030464aaa66
+488  | Nataline        | 2     | 9.84  | ce651c109186004f58f4bd94cb7eeba1d9e84316e50e12a13d07036b56f5516e
+489  | Alejandra       | 2     | 9.84  | 67ce38ffa16ba6ce745dcf61e4b330948565805848b5ffe47448d241bc71e65d
+490  | Chere           | 2     | 9.85  | 0520a4c128d05bf68122a5f67d0165ac05bda6d79b302fbaac11db21b7e4f09e
+491  | Arlena          | 2     | 9.87  | 72e471a330e9ba47374a134ddc08548d455079de347e1bb46167f9d379f116b9
+492  | Jacenta         | 2     | 9.87  | 2c536fddcb726fee52d387a9c6be556c7047522e80afbd3a505d23f285b3500d
+493  | Johna           | 2     | 9.88  | 8b27ca1e9a132bfbe4d17a8619cd1ea6001835f1b68537c8133099cadcf5ed26
+494  | Althea          | 2     | 9.9   | 3f81ab8df7691a5e4cd2752f8905a412a9d82a1dcc5560d8892ff36715eda5ab
+495  | Viki            | 2     | 9.91  | 26027f9e76a4643f9dd2ff6ebf167bdab0cdf2816b7968fe302e3cb2b8bfefc1
+496  | Kayla           | 2     | 9.91  | db4d27dbd07c24b82e907396a742a19ed7cc16601bb7b6911e30a71f70e6075e
+497  | Therine         | 2     | 9.95  | 0fc855865274edc70b4f92ce581f551b8358ad63bdda72ccf93ae4d1c39b16e5
+498  | Clary           | 2     | 9.98  | 8da55a2723044672de8d18f0ff14ad706f8ece14464684c3606f42a9ffc5c400
+499  | Raina           | 2     | 9.99  | f18abd39dd59f604e9ac07cb6c575f462e46c0766bea0adb5a84fe10d2112b32
+500  | Vevay           | 2     | 9.99  | 8f658e338e351f0c6ebf226b17f2723d25329d3b6457d1b8453dbe9756389860
+501  | Elise           | 2     | 9.99  | 2f4d4a95955d395a7327a8beadc22af6ec06f78fd82c36d19fb9e385f7092373
+502  | Randa           | 3     | 7.01  | 8e7cdc31153b255383371a4bd8dc5fa41cae95a52524d47280c582e68ec46ead
+503  | Babita          | 3     | 7.02  | c0fd7bdf378dd6c50317d0380385ef2570439ca340f4139f46ba3dc2606471d4
+504  | Tomasina        | 3     | 7.02  | b027192d090d31ae6d65297b9d9ab69d04519d04a6d13521f9efdc9fce6946c1
+505  | Magdalena       | 3     | 7.07  | 628a55d258efc6b0034328d45e7d09c5ae4861fb3227093dfa9c8391149c5a42
+506  | Sharai          | 3     | 7.08  | d99d979279fbae51edaf4e459df4efc632f87953eb8e8720aecb6b4cde93e717
+507  | Pamella         | 3     | 7.08  | 3f7e008a9050563d9fc17488b4eb2aed9cfdc835353a8ad3d6b38b02e3e7e8c8
+508  | Sam             | 3     | 7.09  | 2e4a3f763b8799635b4b96da0c797796c8e077df8e1a567a933ad3fbb94c5968
+509  | Vere            | 3     | 7.13  | b9e94598a3600a837770e26b581869b2b039eb86197ce4f1d9eec5da4169643c
+510  | Dennie          | 3     | 7.13  | 4da603d03ce9d6d902806acb363f8600f1596ba8e3358ff93a69fe3fcde0e204
+511  | Brynna          | 3     | 7.15  | 11146d67060db20f70e68b871d32e3050ddf2be3706cdb3ba2e87fd03857b714
+512  | Sadie           | 3     | 7.15  | b6e9a7870e115fa09d4d11030411b98079b472552410c8090a11cfb7245a92cb
+513  | Marnia          | 3     | 7.18  | 09529d69e4f3e13f24c31210e07f6dce572810f4ef0a707cf2fa88ac1ccbc790
+514  | Ethel           | 3     | 7.21  | 27edad39daf4e7d323b8bbbff8b3ff33fc6a115683f8d0c89ba723cf995eb61d
+515  | Fayre           | 3     | 7.21  | 3647ae9fec12de491621c2b1e782838bacae4381506ece47be99331ef0125720
+516  | Rochette        | 3     | 7.21  | 0bfb191c42c1d7b0b57a882b883d896be110e9ed4f7950ec2db7c05ad32933c3
+517  | Chloris         | 3     | 7.24  | eee15e058c36fde65a86754d357e0afef2e79245931ecdb2555cd842a50749ce
+518  | Berget          | 3     | 7.24  | 2071c679460fe1e38f3808beb0ab7cb9823e79109f8722611cc6382f0219b164
+519  | Genevra         | 3     | 7.24  | 694161f638fbd3f01d2dc87548d0d25655b60b88b529f18e126098abe93e5a91
+520  | Rochette        | 3     | 7.24  | fa6b9c1d920c497a8ded1a0c3c978da73e7418dc56eb8766f261a6cc9313966a
+521  | Nananne         | 3     | 7.27  | 5c2886927aed4228c4545320e3d0b47141aa8531ccdb2998d7088bdee3749a15
+522  | Lilith          | 3     | 7.29  | 172c39591b4e84746cfce8461fa7b6943b753acd2ffaf0fcf2aa22f807639b87
+523  | Fernande        | 3     | 7.29  | 14908f970dea902f65ecfeab3336582d62e0271c3ba9bbf803db6fee26b95265
+524  | Lacie           | 3     | 7.3   | 4ce437e9efbff05148a6840c5a288a31af05eb6190594077a699d1096113d159
+525  | Dania           | 3     | 7.31  | 04735d8db516f0a4464246be1eaf4c7f6ba079163e32e6aa863631ca062ecba0
+526  | Anica           | 3     | 7.35  | 33933bdba6c967c4f5430c503bc98dcf6bd1b2d7e2f56ee6a10cc3a9c06eeea3
+527  | Clarice         | 3     | 7.35  | 2dd755b6c45cbdd26ec9bd81b9554bcd126467ea2b247c30f4201eff56e053f0
+528  | Ginnie          | 3     | 7.35  | 2eed76e459e205c9aaf0624d0ae9252b5f8f26f7f879241f907f7a311670e781
+529  | Annecorinne     | 3     | 7.36  | 745ee1599d8cedd50d4f4663ad4c32b58a9e298d2e8b710b0dbae98113a1165d
+530  | Latisha         | 3     | 7.38  | 4899661e8d95fa8bd619fa9716c04e51163f92f542762c3bf0c2a9b53b57ffe9
+531  | Odessa          | 3     | 7.39  | cb0d5fd06810723be6422fb0fb1ecbb132bd642cff15bd7e3db7777c1c4396fe
+532  | Sharai          | 3     | 7.42  | ea6705c101672961180ad4097a3f30302db03a3d5bde3d5adccacbf7322cb803
+533  | Yolane          | 3     | 7.43  | 451a707ff9ccdd5bc520a6906a0c50741f4ce92cfd6dcc24e423bf058a4be171
+534  | Zia             | 3     | 7.44  | f47c8daffd15e0e192e3de3afabfd2b8b75e856ec5518b397da784c406ab9513
+535  | Bertine         | 3     | 7.45  | 09b6cd9f3b0b28c40956801660c8ad494673d0069cf299589d4c136964ebc98d
+536  | Rivalee         | 3     | 7.46  | 222bec83d8ea4957a47bcf206a848c2c6c78dea123c5c03f7b397f2b16712b6e
+537  | Jillayne        | 3     | 7.47  | 155e6dc354fe12f12a7276db2420442f70ae4e1a18ff9f660230563aa8be92d5
+538  | Blake           | 3     | 7.47  | 793d7d13bd7e0457ff349cdd10890ab6491239eabfe5d8ec13f979159198aae0
+539  | Hildegaard      | 3     | 7.48  | d82bbe260b75478170539dd11434ee33491ed7316e880f1220b6946076f21000
+540  | Marguerite      | 3     | 7.49  | c7ce07d09a1df69d543dd42387cf5867d2740a07c6056bc36fcb9f272d9e0bef
+541  | Carol-Jean      | 3     | 7.5   | c5963851ab05b2f0e22f99c94c74586dc4502c0488f99fb718e52f3b4a7c46bf
+542  | Dulcinea        | 3     | 7.5   | 507e7deaaf7d56becbd3c2cbdeccda0d8c06eee6dbcdc033c561514cf9cad3db
+543  | Cecile          | 3     | 7.51  | 645a7a97d9a2d3bb2ce46b8c87884425fe1d02b23fcf1becfdd4eae447b9b3ee
+544  | Cordi           | 3     | 7.52  | 656b5fa2a405eb95cf8f52fdd3cad380b6b467018c52a96e7449efe2fb259b0e
+545  | Bobinette       | 3     | 7.53  | ddbeeba2993dfa1c980a3837adc1d20a337e08068d872e3ca1890aea571b06bc
+546  | Catrina         | 3     | 7.53  | 2590f39ee1b3889cb647e5e2cce8d04b03d3d92c162d84eb9e531219324beb0c
+547  | Lisette         | 3     | 7.54  | c4a9e9ab2e5d80efa163dd7946212b37895ef73834a350db744b1d504eb9e7c9
+548  | Dulcinea        | 3     | 7.55  | fdaa3a21ab9ccb119236ac5049c1a2a0419659f778d9285cb841436877c4cc78
+549  | Madelle         | 3     | 7.55  | 6e26ea286135a57dff154308a34fbe7c899186b0535594c139eede6ece1b96a5
+550  | Laurene         | 3     | 7.56  | 31be37ac1d67aa33fa55224b10b273942e8c4901163bf2d20b7081d81fc2de9f
+551  | Agnese          | 3     | 7.57  | 1e5cb57f11a86baf1170784d51743ecfa8f42fee199eea460d53212fd8350b36
+552  | Barbi           | 3     | 7.62  | cd2fb455ab9c45d70fe797f729dd979a501f2fa4d6c63de62d4168e27052e6c8
+553  | Celisse         | 3     | 7.67  | dafb0f7a7d2fdd2c8674ee935e9b6a194004a68eef5381b5097a74eb6a20105e
+554  | Verla           | 3     | 7.69  | 796ab763498fc2e0b473b9c5eef77648ee2afcf43ac99a6c25e0c836f628bc08
+555  | Ivett           | 3     | 7.69  | 3e4e3bddfc6679656b7397f7741a655ba04d5bb13c0656cf1e38b9a770e8b55f
+556  | Tani            | 3     | 7.77  | 31b0e11485683d3ae8dba1201b7f17ed843b78648aa5ac6f1d052c9d38445229
+557  | Fernande        | 3     | 7.77  | 9da3e393ad3cbdcb8796f9782a00144168c58cae457e64d37d610dcfe1605943
+558  | Antonietta      | 3     | 7.78  | 8c21a26d35da217db1dc21f34b4b2f1fb4f19a98115f8412c9cc2e15b2acd4db
+559  | Melodie         | 3     | 7.79  | 656bc83c1a6281b2f980261cd344f4d7c3e10516cf7371acc0ddb4afda59399f
+560  | Annecorinne     | 3     | 7.82  | a065aa93051e6eabdd51185453fec3270787a5ea42f0439047c4fe849440434b
+561  | Cherrita        | 3     | 7.82  | df2c5b6476878c3e50ee39d4618cea7fd435df0f42b5162fe7e817883377218b
+562  | Marinna         | 3     | 7.82  | ea3a64646af37116c6d89befdcae651bdb7a1c05f76dac05d7484fbf28d73d0c
+563  | Therine         | 3     | 7.85  | 743b5ca6ef0e6b4d375d660052700964feabaa3b7902bf2086b097db461e14b5
+564  | Phylis          | 3     | 7.85  | d10cd3cace1231d1651c5508300965ab36cd0ddb3f13658c6dd8c3ee3c36936c
+565  | Mildrid         | 3     | 7.85  | 3db99a98cc0c829b38193c27a265aa57dfd73b016b8a1820df7751ae0d0cd230
+566  | Goldie          | 3     | 7.86  | c08486dd436b5bd25dda0773096d01266a25d1177a0fa46c8c613d18b0e8d3ad
+567  | Tybie           | 3     | 7.86  | be2010c01cbf91280ebbde497853ba655bdb400ba69656680671d0c40b5aef3a
+568  | Jorry           | 3     | 7.86  | 75382265525011e7bd5ef15750c960bf55930ce2178b5125aed69dec8585f5e7
+569  | Viviene         | 3     | 7.88  | b86484c6fa6c4d13013436febf9e510a502e4ab64ca1b7b59f36d5fd76a810ba
+570  | Consuela        | 3     | 7.9   | 66402c73f08e33127fea3403224d4c2b55eefbb941db7733e42efddd499e0e27
+571  | Nananne         | 3     | 7.9   | 442f02a0627be33f125e4d5a88ad5322c0e7250c86f69ce8caec770cfbeb8f9c
+572  | Bobbi           | 3     | 7.92  | f94416589abc795298ed496ed36f7c48928785a117c7b8fd7c3babf9c786d4ff
+573  | Jessamyn        | 3     | 7.93  | 98a9d269fcc0b578719f43e9fcf180907f3a9e496b14cb5dafe90e762de8a5fe
+574  | Blinni          | 3     | 7.93  | afb196a6016387023e841e53d316fdd12cdc9ea090c37030668324ffae397f63
+575  | Vere            | 3     | 7.94  | d7334f9234520de48e4daf58e0db18e70d8431e11bedf74f97837b0c6481c238
+576  | Wanda           | 3     | 7.94  | 59d90b44df54d7b719b472716c3a05b48f60699bd94106eb8e69b25954dcc7e9
+577  | Flory           | 3     | 7.95  | b0660c51c766706ee61c1c96956ba2eb138120dfbdb9d6d1bfa35514666255e1
+578  | Britni          | 3     | 7.97  | 04ca54893cf14a3c90b8f9d06128cbd5e8b79a785787d9a1e0e8d67ac5d61256
+579  | Trudie          | 3     | 7.99  | 65c2316aad6d026c051321b1c4997fe4c8388f0c5eb9349c65a7ffee78f00549
+580  | Kittie          | 3     | 7.99  | 0018b53f3fbe666ca06b6a101f6f02357386ad1e70894b17ec11aa42736a4eec
+581  | Mariann         | 3     | 8     | fd1565878b7d721e57a15b2cdc78da24d58dc9fd15dbf88a645f9366077c561c
+582  | Fina            | 3     | 8.05  | eca11d8fbaa2a9dee9090c97476d4915b4b000bfa748487a88055d7e18e4c678
+583  | Britte          | 3     | 8.05  | 97bde4c744eec93ea7946fbe942ede61b6661e197c3c38bd76ea36132934dce7
+584  | Nita            | 3     | 8.05  | 84f227e618f54139dc9f7ed571d750aca54090b2f8b5191ca66adfcacb5eccbc
+585  | Melina          | 3     | 8.06  | 7f05baeddf4d37f0cd47c212078bb21c0baef8dfa49451e37a8815f55cb139bd
+586  | Hermione        | 3     | 8.06  | 0595c359a4474b7c3c5b583f0f1200b1d9172f83b8fd782d06031ffaca92b989
+587  | Nariko          | 3     | 8.06  | 41eafaf39c9a5dd36e3ac4094c9e4faec3e1507fa511976cbe8c4db452d40efb
+588  | Catrina         | 3     | 8.07  | 44432a4b8f45f134a7d08063d2d67c5274594b3c295d9b3be62010f871d32a5c
+589  | Ernesta         | 3     | 8.07  | 46f7020a59a8c08df7bca8593a15de8cdd0e5df6c7abc4c19f5881d6157600f8
+590  | Fidelia         | 3     | 8.09  | ae5c610ff35c10a0fb53b2302a773b56883cb3a97b553a0d4a0156d16682805a
+591  | Shandie         | 3     | 8.11  | 5a3b4989cd61aae1f122867cc89ef02723a781758ab10c53135875cb985c2c14
+592  | Mireielle       | 3     | 8.12  | 9da00afa85682fad953cacb78dd4c500eb45239eacedbbb21f9a04cd04bef161
+593  | Nerta           | 3     | 8.14  | 29e37a12d43356f284118ffbbb203d895828f751ac0a53a51b38c48c4430a19e
+594  | Norine          | 3     | 8.16  | b3ae9f53e665c7c00a28e5fab40e02ce1f62008b4462d8d89cf589a073a770ae
+595  | Jackie          | 3     | 8.19  | 997fec7d0f2661916db97b756bb1e268afbdda5276b9f6273440b7a46802d69f
+596  | Emylee          | 3     | 8.21  | 494c2ca94e7faf7fa17152464cb8f5a64f3729dccc19eb53aa0bce6e494a5196
+597  | Emelina         | 3     | 8.21  | 9f444e3203780d4e378dce28ecf7ca571f5635c7a986a38eafe5c320c1b4ed15
+598  | Celene          | 3     | 8.23  | 6ebd15bcb0ee08ae1b86fb83d1cbc733895820b34858edd90194ba1ec412b349
+599  | Felice          | 3     | 8.23  | 41f0c3a51202233824187a4ba0a84c750826eb03c9fee022ee62ab45814224c8
+600  | Gale            | 3     | 8.24  | 2e00717f30ac6c320d6c9a8db9c88f77e6a9b83c684161c0ddb3d2d7810bd621
+601  | Karly           | 3     | 8.24  | 6dd320dc003e6c5ed078d29531ed2a0aadbb39e852f32322d437bcccbae38ca1
+602  | Linzy           | 3     | 8.27  | cd7b67c31536aef81b4c27951794ccb7b55d92756a44e960f3246b996dc62cd1
+603  | Lauryn          | 3     | 8.27  | 32c8de18f7ef878e4220ed01b7133d54de51545f39f3873bd1138bc9156bc6e3
+604  | Elie            | 3     | 8.28  | 030baaa115b187bcfaa29140d97c0719c24519eca10997dedac61c01dfe15479
+605  | Sharlene        | 3     | 8.28  | 3731f5a943c87067e3b162f2d333dcd768f5e48793a455983a44d4ca073e8cd9
+606  | Mahalia         | 3     | 8.28  | 4edc967dc3f92c7f46a75223bd576c5f6cca4730d5123e098534ccb7110cb0ca
+607  | Katuscha        | 3     | 8.29  | a14a327a1b03b2965ce40c311e6349a196a3eae6f607ccac75de1d2fc037615e
+608  | Damaris         | 3     | 8.29  | b35465dd7b26adc5f984157e74acc0ac84a45ac7338dc66755cb28aedc338bc2
+609  | Albertina       | 3     | 8.3   | 6a690831e6a8be106d439673b4186831c73286a5c940e6f1448cd213cdf9881b
+610  | Lyssa           | 3     | 8.3   | c19b83c5a01a38451cc846137b15aa043aa424e01b56f6b14f4d99fd744b7312
+611  | Gabi            | 3     | 8.32  | 34bc3a9436e4690b2f3d0749d6eac28e28a0fe310586cc54d56f4569c2662cce
+612  | Tarra           | 3     | 8.34  | f1b73806bdc5c3ba8455d871bea866b6a13ad4250ae70ce25c330b1e68cbdf65
+613  | Eve             | 3     | 8.34  | 32224a89d4221e78a080ebbec78d2dbe302767e3086162adb9dada2a3546ac66
+614  | Brianna         | 3     | 8.35  | 5563155a3d7e3d6dcc97d7bc9bd22dfe84731f5235f475cfaf43f2f190b0f041
+615  | Blake           | 3     | 8.36  | 7d9322e1d755313961f5c7c7cffa07554646a32b8ea89e7350fba7adbf4393db
+616  | Jemie           | 3     | 8.37  | 4bd0a7060df5e82447be401b48273c31b611341e86841f570bd59a014d69f73a
+617  | Wilma           | 3     | 8.37  | d3abeac0db8f4cacc484b669bc7ab05804f41d655e9e8c592f09ae3f43a5720d
+618  | Blake           | 3     | 8.38  | 97e9357e940e411ad9cf0d4011520e1d92774112711b5b6f5b446050e2f0719a
+619  | Annabela        | 3     | 8.39  | 6da9f7e2fe4b76bb6a040a9fb41e8c055a2cb800357153970aa1fa2baa962b49
+620  | Kristan         | 3     | 8.4   | 8c11b5fc9e8ee90a0882c3cc66b6bd63a4169031b0b8d6fbf0df2ee3f0c37219
+621  | Olwen           | 3     | 8.4   | dacf17b2bb6f1d170254fb10170013fc5f2f00d6b059de44ff584ba2cefbbf0c
+622  | Nannie          | 3     | 8.41  | d5a71abb9778e3185d37a970a64fec658b39007954999b393b61f681097b2e74
+623  | Rhea            | 3     | 8.45  | 75c54ad45abf0dabecb48dd3e8fed1bea1f64e76f8cc1a54e509a376cdd5fd69
+624  | Tarra           | 3     | 8.47  | dcce180abe17bda061e6370d226268b3c17a8f5579880c254bda53b85e00b54f
+625  | Wendi           | 3     | 8.5   | 7716bbf8e3f6ba935fd48a0304022c2bf44f7b5e3cddcc67ef3d73aea97f4f12
+626  | Deedee          | 3     | 8.56  | 62d4928368240aa1f0ebeb7bbbb288c5a06b2cb9f6b0386970203257ef17271a
+627  | Gavrielle       | 3     | 8.57  | 4e4ed8a51371b95fdb909d4fffb6cfe05942f261d964efe34de7b619e123d5ee
+628  | Cam             | 3     | 8.58  | 1d59557fb801a6abaacdb1b3542f0a5b278f16f0d2f368ad0ac3802b225d1f61
+629  | Natka           | 3     | 8.59  | 1fc7d32fb80ec75a88503613260ad0c7e3aa1b23f77adbc25ef19d06aaeb796d
+630  | Candy           | 3     | 8.6   | 5177a1827991172bd60ad049d59780104df4cc4f800d36ddda81502dac44bde9
+631  | Ada             | 3     | 8.64  | 21e6a319887eee0a62de889dafd8a5bb93d9d91b2ff5f4953aeac03f9f0498a8
+632  | Jessamyn        | 3     | 8.65  | 0093f5ff7b0fe199ee3a1183a9c89210ce382cf7260520bcc637c606b540e765
+633  | Trudie          | 3     | 8.68  | d905c81962554e45384ef47f11b56c354af403d04dd2fc066ac7c4cb143a90f0
+634  | Flo             | 3     | 8.69  | c5b0f4c44a281d08501363c213f4b6e79c636638b70a8e6a9cac6bce360733c3
+635  | Joelly          | 3     | 8.69  | 4ad60373c85ac352cc05acaab1fdaa0e1253deb8c619a235d40b80c6570cdb73
+636  | Loree           | 3     | 8.71  | e7079d130c2220eda3cd7fcaca01254f3e57598e5b0f8ec758bd7206e461a832
+637  | Caryl           | 3     | 8.72  | fb19ce589ee72d520a5d87fe00d06780300dbcf89dd6a86969fdec2bafc88e12
+638  | Briney          | 3     | 8.72  | 49bc6b2b9822c78bb9d714a5891a2c778e609788cf4a3d4c8f69bea6d5807d23
+639  | Shell           | 3     | 8.75  | 03a0b1e995f80541e191d86352d80568a974973b5072ae9d64dab91ce64f1379
+640  | Almeta          | 3     | 8.77  | b498c53f357e87282ad25109683461fdf72a2d39ac2ba6129129c7d34d488648
+641  | Georgetta       | 3     | 8.79  | b7916966e28a250bed16635cb0785e0c339937da763757617b352421ea38f317
+642  | Ethel           | 3     | 8.82  | 6ea9a6c3eaf1c99c9450fbb2c8512f8ebbd08b6433dd6cb986b511d5a22a9e4e
+643  | Hallie          | 3     | 8.82  | 97930d1aeba3f8e128997fdcc0324d700f5410503f83f33e67eba0e6f0e242cb
+644  | Mara            | 3     | 8.82  | b0367578e41918093905eda7904454bff013cbc3df741474522c2d9e8f576e7a
+645  | Imojean         | 3     | 8.82  | 5cc5cea26d2d5ce127fc8009d10ca5f8b4c698c1f9b993443575d1aac72090c3
+646  | Lynea           | 3     | 8.84  | cdf2f0f2467074b0c65a1d84ed266457d5bdc0b5016e63f9909b394676e8720f
+647  | Mamie           | 3     | 8.85  | 5c551086c455366b9f0a92068dafbb01910d21c6d5b04217a129c5f8894ec91b
+648  | Babita          | 3     | 8.86  | d1f8d48b22469d28a40f6845a5a0ef6d8fa057ba575d631e924ea23296eb0560
+649  | Tiffie          | 3     | 8.86  | 2b191e30fa309f8fe3e9a97f76d7fb5222c6574aa0204054d69364a81cd03aed
+650  | Netty           | 3     | 8.87  | 81e430916e40355e0ad2756c50bd519d2ce66bf25d516662379bbf704720c437
+651  | Jolyn           | 3     | 8.88  | e3aa1a5264597454c9975d1a8572581b609d647dd6110f1d571aed1d79d68a2b
+652  | Aaren           | 3     | 8.89  | 3239e25fc98ed253ea52a9ecc973c840546d4f36c52aa7e170ddcfcf7cae709f
+653  | Lindie          | 3     | 8.91  | b80d46ba126264d211fc3cba749beee7a31095d1df9edabad4c1f445b2755e39
+654  | Elise           | 3     | 8.95  | 4397a07cdb74633055fd3146929daef9c69bca66593f7180de476c13b68a4794
+655  | Pierette        | 3     | 8.97  | 1b146b46c32912ffc678a196192f5bf4fc9d261dd8b4fd6fa9b5d1e021371b90
+656  | Judy            | 3     | 8.97  | 126f8135a76e809b91e740ffb86614d0cd36f2148da728071992facded97f291
+657  | Anthia          | 3     | 8.98  | f6689432d5ee99a932da8bc93efdb66f24c3427ff533330c6e13b3eb004669aa
+658  | Ulrike          | 3     | 9     | 0b04e6781fef760116e60c05515d59a6fc6a04cd9562e5ed8821ca66d33c3c0b
+659  | Starla          | 3     | 9.03  | 508d1dc341b6da6549a7ab5cf3bffc516428f755fc19b8d1896785ef2f7ec852
+660  | Anestassia      | 3     | 9.07  | a9c901c67b6076282700b9470f6a9fa8631c57791e9d4420d7cb1aee211e1204
+661  | Juliane         | 3     | 9.08  | 39196c19b643b2e26e359ad97012bc57b57632d5bdc69ae75e64829e7ed61268
+662  | Dode            | 3     | 9.09  | 92d10349cda6b694b9a5b9ac5c190f19357646601ec9949a611afed559788366
+663  | Mellicent       | 3     | 9.1   | 58fe328d4e18866d04eb6ac63cf7de694553212abf7bfc8919d630f1e3864c9f
+664  | Marinna         | 3     | 9.1   | 80dfb3f502f4ce220b5fb472fe3d6eb88a1a0a18aef98eb5cba8ff0729c6c162
+665  | Demetris        | 3     | 9.11  | be114fad4f9eeab396c157086e5ee32c56f42370a7cac978c3d43dd0bda2e12f
+666  | Adelle          | 3     | 9.11  | 1e229ff78432ee7430814f880663565b00866afb4213950b6fe8baf1f269a535
+667  | Edee            | 3     | 9.14  | a1e37557877c06a1ef381a5f3549ac2bcc1a2223c59e15c6ad249369abb7ed49
+668  | Debee           | 3     | 9.16  | e4ab7ceef374e6e027c63b8a8e80ec13931feb09484dd26d1185933a14bdbaf2
+669  | Amara           | 3     | 9.18  | b25ab2c1c80d8b9d212530ea245e3600dcf85492c9b29b6f26eb39d9714cddd0
+670  | Sabina          | 3     | 9.19  | 25a0e1b5e805fec0dd3fff86933c22109380a12121f57a07e7bb125b0e672db1
+671  | Lizzie          | 3     | 9.2   | 7ea233d329c489a96f7b300e516c544b426323ec5c926b046426f513159980ab
+672  | Paule           | 3     | 9.2   | 3e71d3d741b3e5aa33b923592875c19d67893e969365b79301f5fde2fdc13308
+673  | Codie           | 3     | 9.22  | 0b818c8ddbb2c359b9f2547b51cf06ad70e1258c961741d5531390564fdaed51
+674  | Tomasina        | 3     | 9.23  | b31d287b09325b0410580865621df23d5bc161fd05235678b96cd16485b406dc
+675  | Karolina        | 3     | 9.24  | 5f64ae8bdada39072a7eecfa0f7e2bd28171753d67f1d08e69902106a30eecda
+676  | Zsa Zsa         | 3     | 9.24  | 23bb18b49504b12703fe2386188676b559eff452e0904a5215097870b18558bb
+677  | Alexine         | 3     | 9.25  | 0a22f676a020777945cd906df2886c3d286a19702c8a07606bb3f846500f5bec
+678  | Mara            | 3     | 9.26  | d3194a7f5e9291cbe1d441a59940412e7feeabe2863d4c5756415844fe67de41
+679  | Kalina          | 3     | 9.26  | 46e7a19ce1680d888320bf46289eb63eec5d04c451ffd25bbf446cfd6aefd9b7
+680  | Feliza          | 3     | 9.3   | 8a48a9913190ab5a3057380a493cc7b63f5e7a9e1695f7cb5935c094edd5bfb4
+681  | Mahalia         | 3     | 9.34  | ba3bbe4d79176cdb5838a1e496510306664de2b961d9a4286b0392f1d3d560fa
+682  | Leona           | 3     | 9.34  | 2760ea113318c891b28f0a8671928780ea22aceebf22a725d484d3edc61ae456
+683  | Fidelia         | 3     | 9.35  | f0c173f6be59af49630b21c91a28b15576d54942050f4c0aa1ff678d1d939b9b
+684  | Ivett           | 3     | 9.36  | 80c27b3baf0f960470b0ae6d48458a7d830b3cddd8c673ba047724ff484502b2
+685  | Cristabel       | 3     | 9.37  | 1a603fd78a39a5fb36d8191ddc4bcfd509bb68033e08663f435d81860113911b
+686  | Lorenza         | 3     | 9.37  | c3e9974a19f1c8a627abae95b9aff7a18929996c8147eee2986e8bd296f94062
+687  | Stevana         | 3     | 9.39  | e18a118792a394c5129461b0a9ad57c0ae7659bd200397e738d0805a68f6a43b
+688  | Marika          | 3     | 9.4   | 845ebf7e506d20280e93ca008177baa47b266b97b048a9643a0eb9c2b4ade7a9
+689  | Patricia        | 3     | 9.42  | d3e6da4dd007bae8d120abd98b3a8d75c3b920ae73525a90ad857a13ff603c0c
+690  | Maud            | 3     | 9.43  | 42efa6be276ac1dc0030d17dc60b435581a67c088a48538adde371767e593bce
+691  | Janeczka        | 3     | 9.44  | d0d7d43be60f3d3b528174760e6482ef4b45af5ca4411ce6f91bca61e6674d3c
+692  | Audrie          | 3     | 9.45  | 3d741bb5ad43e5e6ce3cf1d5556fcc618c2d97b7fd8bb1ec46d542c3f89f7f0b
+693  | Sophia          | 3     | 9.45  | 65f6e15cb1d8268c7b0a17bf7c682f63bd72d8a9116218c9a9b21337fac02ac8
+694  | Jillayne        | 3     | 9.46  | d0b1a45c507cebc7b854d95e3d1ea1eb7799e91cbdafca38cbfedabf15d729a8
+695  | Leeanne         | 3     | 9.47  | 2c2244b2d538a0c99fce4fbe424da4003b259829fc3dfbb1840008c9c856fbf0
+696  | Ardys           | 3     | 9.47  | 664d0568c1c975009ecc31c19ec864af967af9588d8faa2e4e8eeabd619bb629
+697  | Nollie          | 3     | 9.5   | 02e4d4ae4dce45071bc98cae29026554ec63c31b8b1dc398bc22f59a05b53313
+698  | Marita          | 3     | 9.5   | b6c8110329788ff789e859fb1f85e68541c00cb7d397ec0399b94f5b25ac3553
+699  | Sherrie         | 3     | 9.53  | 56711ad6c8d90b39f049484091fd66491f61147a6378de0eb9741e226d6b62e7
+700  | Tera            | 3     | 9.53  | 7d3a677942ebdf7a61214d559460e9761c105ceb753610e6054e3e5fedb393eb
+701  | Dacia           | 3     | 9.54  | b0a359d3d1af00206264384e707768253869526902af31f9346b2f32591e61a8
+702  | Starla          | 3     | 9.55  | a20b7e3c653aa576ee379a41db6b29f50f7c72a819a96d15f6c9d8d2b0f45375
+703  | Chere           | 3     | 9.56  | 1edddd9809e12d75957f9bc9b5a02e110a0ed227e15cea01bc347f8f55e4e7f3
+704  | Ashlee          | 3     | 9.57  | b2e10477dd2e2a28d02ccad371850704171ee8fcaa38f140112e326a0f11604e
+705  | June            | 3     | 9.59  | 4da998fa66f6813405bae5528c665bd66256897966a0385c93fa3c01ab6b63bd
+706  | Gusty           | 3     | 9.59  | 42b49504e08fad724c20af3ef1d42f7ccbb683be05199f79dc8b5515cbc40158
+707  | Gilda           | 3     | 9.61  | f47d5876f443eb10448ddb3313f61768d0f28f1f7a722e71f603efd64b1cf895
+708  | Dorene          | 3     | 9.61  | a00c4ab75c7bf8d12e852d17c86fc1751810ed8c9e58e9b5c9c0fff1f7a0347b
+709  | Codie           | 3     | 9.63  | 7fda186ec197ca67913bbb61ec1424337f7526543481c4ee3c2d58f5dd063046
+710  | Marika          | 3     | 9.67  | 59e31e24aa5de706e385eaaf5cb7a9bfd7a39762572739b8dfff944adbf3dc4f
+711  | Tina            | 3     | 9.7   | 40a9fab078e2733b5d028e44ca7fd8c8eec70ad18e360640c9e2ac704df55d84
+712  | Glenda          | 3     | 9.7   | 88c94a023fde505a8203980e367a0c36c12fc58ebc45568aebc4964295d70878
+713  | Dacia           | 3     | 9.71  | 4e79b417776438b27acb9a61e7504aff8d55c75c49edb5064a84fd2dc05a3a90
+714  | Oralee          | 3     | 9.72  | 35c6318df3c2104d60bf25db20481771d76e82c35b6f9fa647fd26081dac7923
+715  | Valeda          | 3     | 9.73  | 76cd60d28e0b7c9dc7e8776f8ca7d898fd3f7374790618b666c7d160c054b25d
+716  | Nicoli          | 3     | 9.77  | bf15bcbd239586bd63ab8f9b5710c27bb1bbd45000c0093463a074fa60a34132
+717  | Elmira          | 3     | 9.77  | b17d1027e435599f385abc03e2dcba09cc92f0fcc16af3f642d472faf74924e5
+718  | Ira             | 3     | 9.78  | afdccf6228ffd3bb5c05381cddfcab528ec1f339d4f0a94f6ac8ea96921d59d8
+719  | Mady            | 3     | 9.79  | 4e76bd35d8fdd57894337358f3a2301f4e770f7a9a8f4822931ed1e38349b608
+720  | Marika          | 3     | 9.79  | eaa84f371114dcd5c14870ba96b851a12bb319e5b49e44733c8ae89fe7a70bbd
+721  | Chloris         | 3     | 9.81  | 322fcd8a951cf7c7d6ae8ed030a864060111ca903bfbefb64c7ca3bccd653b42
+722  | Lorenza         | 3     | 9.82  | 2e407fd8e4dfa0ae654e6be3a0438edee814476cb3bdeab386156524e1cce7ac
+723  | Hettie          | 3     | 9.83  | 7762495447dec8f9ed44c83d390b7724d617fde8f7c1f271c09fd3e3047fff32
+724  | Brana           | 3     | 9.85  | d028549450a87b3eaf68ea2fe393212a5d7e17628afefeef45c8ae2cef7fc74b
+725  | Gwenneth        | 3     | 9.88  | e9e9712e3655a5cc99d24755fd75af85df773b038d212ae855f355b5e8010f45
+726  | Lelah           | 3     | 9.88  | 4d0e0f3982a6fc45176fa5b26a0814c71db3d33aff1d5a4da8e7cde001e12276
+727  | Nicoli          | 3     | 9.91  | 81eaac7fd358fcba45040fb92c94c0115906e16fae05b8cb1c6f1b99eee48e51
+728  | Heddie          | 3     | 9.92  | dac7e20a60ded2732481870190c24c02d967e5e44acef14436c4d4dc7edbf248
+729  | Linet           | 3     | 9.93  | 188cf159ca9419c4f8669e2349d9529076508d1da2aab5cc194dac549cbe7698
+730  | Therine         | 3     | 9.96  | cb70bd62fb8998973578dc8ce1f7a0a3c794b4eb0194f2962444ea7b249d6208
+731  | Margarette      | 3     | 9.98  | d2af81f40f5c1c9d13771c4ee7fb80247ccd15e930c2c56238aec5971de4fc6a
+732  | Blake           | 4     | 7     | 1b2635332e085b8568b11b6c1d56ce3279fbc59cbe6f3b51c9718ee2f9e0920a
+733  | Rosaline        | 4     | 7.02  | 65eaf6b5e9acbfa98d0bbbc423ab0b548f6f30275ec9b1472b7d67ac20b76d37
+734  | Gale            | 4     | 7.03  | d537a09317fb5f3f222c785ba8e6c2b22cde9dd040707467fc454cd1a667eae2
+735  | Calla           | 4     | 7.04  | 90733757273769df62568aa5e4c807f983917d80f16d8b987a09b55c5a4696a7
+736  | Jeanna          | 4     | 7.04  | 7ebdc98333336322e9adee4399044a07ace7fde7c4e3cc17081915dcb560c607
+737  | Rayna           | 4     | 7.05  | bc53a480b40aa3039764d0821576627f54ae24930651a0a9cf225e954c9b1645
+738  | Lacie           | 4     | 7.06  | b846e5c4c0197bb1bba138d25dded5dfd998a0f8d25a801145c3a3094aed0154
+739  | Tomasina        | 4     | 7.09  | 8a46d0d229a118bf9a6907b531c1b35224565791347d53f535d20d4fb9955ab9
+740  | Gerianna        | 4     | 7.09  | b60a36bacb5b2a8a4fae91b6e7096d5006ff4146b1db26bd9259cef155dc7507
+741  | Alexine         | 4     | 7.11  | 8538a203233e2dbb0780e57c7a13fa403020a30ece2b446bead0193446aaa38e
+742  | Carly           | 4     | 7.12  | 65a91bf8ba4ccc681d1d63e1e4ae602f6c1745b2873dca09dee7fc3e3d9b3949
+743  | Claudina        | 4     | 7.12  | 70d407e6869797cf10f48348479e7b88f52b91c9727bb0216da78bd32403a028
+744  | Lexine          | 4     | 7.12  | aed5ff43e3f992c6781cf9bbdce9cc6bfce2f10f6f6bcee9ce3bbf4a8dc88536
+745  | Margalo         | 4     | 7.13  | 494231eb87b547f9c0713107fe9341e1de0639c894fd8a14fb3ed0b21087ccec
+746  | Jackie          | 4     | 7.13  | 4396fe3316ae47d36712fa741ece8001d045b47ae3678a3ce6f6586f09b6b873
+747  | Charlena        | 4     | 7.14  | 5114b47fcc89ec5d18b300a1e33952ac257225909cfe69b8c0b1a4011f21c379
+748  | Justinn         | 4     | 7.14  | e0109d2299332071ab3f8f4a3cd1acb633a1d8384a70d5e74aa7960c8ee5d9b0
+749  | Alameda         | 4     | 7.16  | 577e7dae040c1ed78708b877fd3338f40f3fd12190c270f4a70744ad31f48e93
+750  | Perry           | 4     | 7.16  | 5b189f722e65cfe78f45870697bb51e1d4168012e3f9d0438bbb840161dbb117
+751  | Anestassia      | 4     | 7.16  | c354672a80bbae5558c613b13baecfe19ab6c411179c8966e2a93b8651558ec1
+752  | Arlina          | 4     | 7.16  | d2ca125886263ba3e406b5a6770a8bee62b4d1a97accc17792e25d8594f02ce7
+753  | Carlie          | 4     | 7.17  | 8c9a44dcfa026a07ea60fe27401520cac07187cdd320033d503458cad5e9370c
+754  | Philis          | 4     | 7.17  | d9a6c3f55c93eb3abade50abc38cd383333c4eadb5fa66b6c78c91f5f57475a7
+755  | Paulita         | 4     | 7.22  | 407075af1c9496c613cd5cc4eb511c6324115528809de42e56795511f2898fcb
+756  | Aili            | 4     | 7.24  | 387d2cd8cb3c350fc053edf082cf1e460f1de3640b8dba4336a1a2a220750d78
+757  | Millie          | 4     | 7.24  | dbc63f04137451f000cb23708e075db2d000a8d776bed87f16bf49903f79b01c
+758  | Teriann         | 4     | 7.26  | ac92c1121ab5baa85ebde3ea0daec31de3a788899dc6401b85c1249626d7f779
+759  | Rivalee         | 4     | 7.27  | 6a5a5c4f49d7eebce69623656e1c81c4b759d2c268377d0179d939252a07ff22
+760  | Monika          | 4     | 7.27  | 192c2efc64852258a454ad4b9f90185b2f9fcb720e5bb82e233738b9040ca66d
+761  | Adore           | 4     | 7.28  | 6b587a0103d0f450336b1feead4a73a3e5df80cb0b0ae9bba253d2f3a4846444
+762  | Nita            | 4     | 7.29  | c32162bd530c23d484905d2bc591eb4dbd4ec39f5bccacae02d3f306e2b805c2
+763  | Judy            | 4     | 7.3   | c6f98ff0f9f0dab79abbaee8539e4adb8ca7065c4b9f561e39742880f564a7ab
+764  | Layla           | 4     | 7.31  | e2658f3ded4a755d518ff31a4bb567f6f1ab3f14671c4fa210318ce86456fe8b
+765  | Marleah         | 4     | 7.31  | 8e9f9972a8ec5d3113247be47bed1fad93c9586558d116b02cbf1d408a9fc889
+766  | Lisette         | 4     | 7.32  | 46c4f05689e961f0ffc5a3d1f109b0b0ab78acbab12a9cc7063cc58a44b792c2
+767  | Roz             | 4     | 7.32  | 45dde4ee4a28a2ab5692d79805920be1a6aca01a64a2d72730b32b841ca720ba
+768  | Celisse         | 4     | 7.32  | d0ac838b977007bc49e391a7f217f927e87747edbf2d086c4abc0af0c8c3579a
+769  | Zsa Zsa         | 4     | 7.34  | 6d281067e962bf12c3b55dcb44cf7a3b0d85112e251ed03af9a6872476e1eaf9
+770  | Gloria          | 4     | 7.38  | 130eeb74a5a6492a61e6d20c9ed919d4e297f82e36f8ed064d0f03b51e6a919b
+771  | Laurene         | 4     | 7.39  | f4c8345709054325d6b7a4b0028dd3aa670d32721367710fe8c1314d2dca0388
+772  | Millie          | 4     | 7.41  | 766f040b49348407ac6bd853ddef1d95d94141520554796626cbb744ba83e7c3
+773  | Isa             | 4     | 7.45  | ded8f704a2f4c0ea7d2a6ef15f60bdcab7392528e076677604f62868298fb7c9
+774  | Ariela          | 4     | 7.45  | 29e09e17388b75ee7e1620edd9d99fe7b1b1b8df44de1ba6b4d69fabe5d4d4e5
+775  | Cacilie         | 4     | 7.47  | 2f4cc3743fe8253764e88b33f3f08da32bdbd2d9bd91f7c29ef6f26309be5dee
+776  | Tarra           | 4     | 7.53  | 8896b66ab93bfde36a4562fd69df292a6a80b4c938d07a957c9a8290e002903a
+777  | Ida             | 4     | 7.54  | cc231ffa40f8bf622e1df3ffe6cf6e754c8af0ab20997aa3626e00bd85377635
+778  | Queenie         | 4     | 7.55  | dd49a01e25fc337d8e91196e8cde69c2bccf31307de9bd3e44e2b72ced6e5453
+779  | Marline         | 4     | 7.55  | 85aabad431b5d5f692325e12a4f93d6fdd2c85bf298d18cd7edc1742ae334c85
+780  | Silvana         | 4     | 7.57  | 4eb76a12ff9aa61c7b01cf85903b7cc4c5da40300969402bbb420ea096cfed4d
+781  | Renie           | 4     | 7.57  | 431fefae78261527294282cb9cb773b8547934274d94805fd642c644002a70a3
+782  | Lucy            | 4     | 7.58  | 7c6c5b6867cfaff69e76bb18d5dce10317317bb04bd3e9458f504fad729e5ade
+783  | Carmencita      | 4     | 7.58  | 6411201245164b62ee0952c20286f71ecfebaa376fae060ef00473663d7de8e8
+784  | Augustine       | 4     | 7.61  | 31bf895dd57385a0ac4d5cd8e09c8f95858d99ecbbd8c1969744dbcc93b4fa83
+785  | Edyth           | 4     | 7.66  | 5d8c53802fd5726f1a789601492fa8276e83c38e16966d7f70733f2b545e7cb8
+786  | Shell           | 4     | 7.67  | 971cd02d533d6bf51c25b2b814e5ebdfedf7d3510dade576a2bb7eed09ef90dd
+787  | Meriel          | 4     | 7.68  | f59379ae4d1a742b563e6cd189ac4dbbbb0f93f34c022bed4897258e078b593b
+788  | Alia            | 4     | 7.68  | e4ad1b04dbc169548115cd1f10f07b3c55d6ebbfa199ba0331c4c53984769558
+789  | Larine          | 4     | 7.69  | 5945db061b668120c4beb7512a6b4283d5220b393e5edd6f1f35a5c79ceca490
+790  | Jackie          | 4     | 7.7   | 3f60fabae3b4b833e38b8e70c6ec7b17d5b2ff6df423e3f63256620fe5e5e4a6
+791  | Candi           | 4     | 7.7   | cfa70cc4a8db6ff58af3e99cd0e5cd56fd1a8db65fc103944cb9fe84599722af
+792  | Aurelie         | 4     | 7.71  | 533491a037f8797dab4508b878110c445d5d3269f78f30d1deaf04d57ccad6ef
+793  | Florencia       | 4     | 7.71  | f50bbfa7c20b106ae9aae20e565a305cffec03da39a1a8d363c72b8c285643a5
+794  | Sheelagh        | 4     | 7.71  | 3157b2dc976165124bde1bd552673ee900f06ed271376726f32cacc8e2b17961
+795  | Dorthy          | 4     | 7.72  | c9c20665b65d193150df0dabaaa5a080cf92533cef357a2ec5f6178f471fb122
+796  | Jolyn           | 4     | 7.72  | a2861261b635030f32b16f38e1ed24df239242f5123701dea4956eac831076ea
+797  | Olwen           | 4     | 7.74  | 73e8fb3c9e9caf93a7a249c45a2c4ec7ef4ee8ff5781bfc8c94e3c9296460c17
+798  | Genevra         | 4     | 7.75  | 85825e53b4424807b08d57771f62eaa180e8b1759ff272151fb24b37fd911bb1
+799  | Tarra           | 4     | 7.76  | aa1994d8d8ded9a391318db823607dbf93d6425c9af78c959ed81f6b7fa71385
+800  | Lucy            | 4     | 7.76  | 4e681722ccb7211a1e73f05cac23e5a57b70758ce26f043529318a06273baa38
+801  | Theodora        | 4     | 7.76  | 25e2c283af67de9f0e2d8be9ddaae580556d798d8ad2fcf54b013c421a9713e9
+802  | Frieda          | 4     | 7.78  | 2230a66894b67ffc4b28a2e5064570c11e7008bda624e5c66e7112ce7c7e3cbe
+803  | Jsandye         | 4     | 7.79  | e9129b3b009744ef2374bcf877c0bedcd3a31d132702278cc745de89bfd82e5e
+804  | Mariele         | 4     | 7.82  | 74f4c5d0bf4a4202153d8854e1ccc2b3c685e74dc737afe116bc7763fb1bf88d
+805  | Regina          | 4     | 7.82  | b1b8528de49daf364e4ed5152d14b11f14b0af57f89959a8fd5be1e595e04985
+806  | Lanna           | 4     | 7.84  | 43d39f798c53c538c38fb203bf2e0c1f8a722887f52c27acb971fa7cb4167141
+807  | Sallie          | 4     | 7.87  | 0ab65cc60defd0fca5a4e2d66a40beab56b0b4105264805f81b1ed7121b0ee3c
+808  | Libbie          | 4     | 7.87  | c9f3090f7f279de5a02bd68a7844bfff09039c127eddbc43f4568794d31a6514
+809  | Maye            | 4     | 7.88  | 87e2472bb07f3472c6c63df3b37f86a92e2fb5df88c9e9c39c119a98b813504c
+810  | Anthia          | 4     | 7.89  | b466b0afceaba57ef2d285893b8df36f3764c736be100f6575b2372ec85fe035
+811  | Moyna           | 4     | 7.94  | 72d488c9e4eb850f694281ca1c2fe8eed5210ecb4d24e8235f33ad9007dc9ca0
+812  | Carmencita      | 4     | 7.96  | a1c7733cce7e5baaad25cc09965d285c6bad1e631058934904f8a8ff67263c57
+813  | Tabbatha        | 4     | 7.99  | d31e47afeeefb45b6269fb1212f41bb06da53f5054abe947bca2450665306783
+814  | Layla           | 4     | 8.01  | 315d2a671a62f18e161bfb022c882a4f41356bb52ca32e458a57cfee97c81414
+815  | Sophia          | 4     | 8.01  | 0c275045bdf66bc597efb6580d1867c70ee65357b04b205161640b711c182c14
+816  | Deane           | 4     | 8.04  | d2b436a6b80a9ea69bffc7531232f96f7a083e8d3caf6c6d8c6ff20a199c23a7
+817  | Winifred        | 4     | 8.05  | 893d9a338dbe5caddf8bb266241bfe169aac409caa82893cb31084ebc442f0d0
+818  | Fanchon         | 4     | 8.05  | a1a40636c29701be5e2a86bd25f4011cf07cc45a42e91c9e7aeb9b5974d8faf3
+819  | Dennie          | 4     | 8.07  | 0ad95f768e3467721a8d034a4d5dbc1f94e009860c44912ee0e8b6f8cebb301a
+820  | Zaria           | 4     | 8.08  | 27609ca7d85f62550e6d69d1a8d97280cfc173fc7b16baf086775ace273fde4e
+821  | Mara            | 4     | 8.11  | f7584b14398f360f4dfd6efbb667f9502778f37e741067343d9bf0f3b30456c9
+822  | Bertine         | 4     | 8.12  | 5f40a0f66f49093c8e97134b08ed64a7bf36a44953d8d2f31f799905672fbd8c
+823  | Millie          | 4     | 8.13  | d3fd6d42a3eea5928d160c5652d3bc7a4eb849419aedec273cae2ae8209c916e
+824  | Nelle           | 4     | 8.15  | 043fb2a6e592aa5d6e21c63284a323e7f8cc47fc2eb1e792f9dc1f01228fefb3
+825  | Leontine        | 4     | 8.15  | 9d2a69f96e27c2ea962315e7929a4babf1d637d73c1d0cd7d8ea2af8eb6bc2a2
+826  | Emilia          | 4     | 8.2   | d8509b73855ef14be8dbae8859f0649ad6dd276cdb6b5ffebcf744be18c30a53
+827  | Dominga         | 4     | 8.21  | 08e1210aefd7a52d6b384c82f2c0f67aa43fa2dfe270ec5d55b1ef9dfd9c263d
+828  | Madelle         | 4     | 8.22  | f8052e6ea250408bcfd622d567cfca03dc87b5ffd9efd19ec1c0f362e6f05723
+829  | Gabi            | 4     | 8.22  | cfa9c95df95b7b636cd68b759a45d00353b188dc23543bb5bcdee5cbae047242
+830  | Cordi           | 4     | 8.25  | a7300fd4ab738aa982d2f3e58d8b53478cf838a86067cd063d13699620e8a7f3
+831  | Maryellen       | 4     | 8.25  | 1c5e9abd9bbb5af985eafd19b712bc5755f48232bf576a68b83934c61e102f1e
+832  | Lolita          | 4     | 8.26  | 09dcb93be1dfd7e2bdf06942de53fb8945ec74582f6258521bbfefc7baf18652
+833  | Cissiee         | 4     | 8.26  | ebdc0251f3d3441623708821e9da5ff0c47f78144f89fd59e02576df2ef43aef
+834  | Wynne           | 4     | 8.26  | 5e82dad964f11c04fad8d89c2581be2e1ca07e2f8f0861f6931f25b63fd9b2f0
+835  | Jillayne        | 4     | 8.26  | 02e63e9700812714ce761ce1bd61bd6af08efb3a03239f69547db5c1ca68d92f
+836  | Bernardine      | 4     | 8.26  | 4c140759938c23b43ca3ff3379ed9d85edc1c5c4e0ce7a17b86f8c3110588c15
+837  | Georgetta       | 4     | 8.27  | 597e2e3804ae0984ec0fdabe9c6ab316e17c43341f372ca53117b6b43b62c31b
+838  | Fina            | 4     | 8.28  | 5caa8881e44836aa60d72cfe8d0e49d000fd8121a6e10de971fdf3bdc45a6057
+839  | Brandise        | 4     | 8.3   | 54b6ffe671800609fc239419cc0ab8c87642da718ac57604f8e20cbf36f7edda
+840  | Tori            | 4     | 8.31  | eddf97dd44dfd460fff05647f544548c1a1443c9020c35dbdb6ec486707fc7a1
+841  | Hyacinthe       | 4     | 8.31  | 5aac8c6aaba298ed7c33f9c856c4fbac307dddb70fcb9bf58c7897cbfbc1eb42
+842  | Mallory         | 4     | 8.35  | 81c4c837c390dd5e3448f12a43549e137dc7cf4a22f1aa5ecee7e0d8621b606b
+843  | Ricky           | 4     | 8.36  | 29b28f36e6e0f34ee6a5ddedfee9e5c77acd214fbe5a599170f039fd02367024
+844  | Celisse         | 4     | 8.37  | 4df2efb722ae0052573cb62270f6e66891a64e7d27d75404eed9adc8022f2512
+845  | Ida             | 4     | 8.41  | 1286146fa3de65e91db55f4726874fb3f966d6d512eab7aaf870fd8256532a73
+846  | Merle           | 4     | 8.41  | ebb16e17840325b675b800d7eb68bdb3a27a45d7f463aa1276af1527cc259886
+847  | Livvyy          | 4     | 8.43  | d358935f39dd6f4603754ae1fcff3ecf9300b57570aad989cfb0bcad19c50534
+848  | Shandie         | 4     | 8.43  | ccb5f60df60a9a1d2ac584ee01ebb79c2450246149c6f73da1bce221cd8f6065
+849  | Merrie          | 4     | 8.44  | 01aab45babe922c60234ca9db9dc677ff363598b09594708a838612c851e7b0a
+850  | Ottilie         | 4     | 8.45  | 36a67aac5a6891c21eb4f9bde4902252a5e612c37730a7572d062eae1e289fb1
+851  | Mady            | 4     | 8.46  | 66e0633f6938edb0b5232de2c31e4bbf401341e1f1998e589b95bcea5c6174cc
+852  | Daune           | 4     | 8.47  | 0ab16ec0a154191742b0e57b99e88c50f4c28ddbe90e01d602a71514a38b4f6c
+853  | Hyacinthe       | 4     | 8.47  | 5c534728a366159e5d4c73effa78dbe46de5f2acd8d840657dd822a7bc58f3ea
+854  | Cassandra       | 4     | 8.48  | 473a9838262bef183c6e9241a97e41fce564544ed86ce39035b1ab7c61b83c5d
+855  | Yvonne          | 4     | 8.51  | 6f8d91d7deb586a006d3a23509d93808bc93a1469e2a3137eeab9dbb8f444098
+856  | Frank           | 4     | 8.51  | 10464d7faac5040715b358eaf55a140309da3439f11646fe14b53f144a59dbba
+857  | Dorothy         | 4     | 8.52  | 592dc874a365de313cc2d4ba800342ecec46a991f76d820ea129dfe8b7576962
+858  | Jillayne        | 4     | 8.53  | 9aa406381889892187a99d683a44d20ebe4640d86620dfe7e69bc6adac77cfae
+859  | Alejandra       | 4     | 8.54  | 5f2e2693a64e391f389b6303e4cf62c127373e78beb783b3a6f8019f40408c76
+860  | Corene          | 4     | 8.56  | 1a393a5d1ca1d8d6ba6628a5c0310b07a23ce7a3d98fa30899851374e08aef38
+861  | Jackie          | 4     | 8.57  | b663b01ba30616688a5affed65fb85a1d39ccda80083b531b366c879ff4f23e7
+862  | Clementine      | 4     | 8.58  | 0a3010d15427fb5edd1fc26e571cfcdc750bcd76c831ef177774f3b8aad0bd54
+863  | Cristine        | 4     | 8.62  | 848e30e93ed374de3d0cc2db42355e9c45deea03c72f320f73b12ca698085d60
+864  | Kimmy           | 4     | 8.62  | 154c8b534cde64c196638ef2a5da4a2464e3f94ec8ee0180eb6ab2a1356bc893
+865  | Briney          | 4     | 8.65  | 1a0f290e86de0f2917b9903a71dc793533cc1814a420adb023fefe88bf7bfeae
+866  | Hettie          | 4     | 8.66  | a34c966404387e6eaf2c73b00e127cbe2705a8d14a0b1b308b79971f491290b5
+867  | Candi           | 4     | 8.66  | a27fa56bcb5272798997ee32f2d4111628d2cc56ead10a4ab105583f229ca765
+868  | Cyb             | 4     | 8.67  | 49ca13de615e5c92c25642ddf61d22ea1c555f627a7ab9fe4719aeb87b1ad1ed
+869  | Fredericka      | 4     | 8.68  | 64bde7dfe551b1cc5ad8b1612808cd8a6fda7c6f744382a571e903852d89a0ee
+870  | Tani            | 4     | 8.68  | 70cb6e1e299d95643bae0461511b73eb80f0f7ec104d21c29682796493d0a0c1
+871  | Di              | 4     | 8.71  | 5942a073a09d7957f14899550970e9eeb8a67db7325704879292b56822bbd6a2
+872  | Ivett           | 4     | 8.76  | 6bfe01079ef77321b96292090a2c91f249cc4d4b3abe44d74a91dbac07224fec
+873  | Allyce          | 4     | 8.77  | 1c6e1e8479bd035f97086f7c11c3d2cd54dbd8bce2fb66b83b53e72b7e6a1a75
+874  | Dulce           | 4     | 8.77  | 2ad76467d457aa09aaf945cc9ca532ef2f7d54bb419a3f498b90501facf4b121
+875  | Minda           | 4     | 8.79  | e2b489b3d0041941863213c6a9a97920a738ae23bbb2b3c3f04d1cb3aae88004
+876  | Kellen          | 4     | 8.8   | 00165cb3ae44b78ea9eea81bb2c5b1baa816092120bc4ee198b7f3d6d3b90a2f
+877  | Nonnah          | 4     | 8.8   | 5f3a33723b1e5a1dd1ca19a69dfa5b1bc37feef9e3e56ef8c382edeb9fe1d59d
+878  | Christy         | 4     | 8.8   | 2c5a68dcc6b61efba894351484eef67fd87bd255c7a0900137dd3941df3e7874
+879  | Gui             | 4     | 8.81  | cb59ec60a7e4dcba105dcad8431f417ec78ee310f3cebb5d728825bbe1a8d02e
+880  | Agnese          | 4     | 8.82  | 4cc353b91f61c29a2757b47053aed6c6f599f1563f38138e6077db3a6876e223
+881  | Glynnis         | 4     | 8.82  | f92187955b13f65eb2ded2aa12d0cbdb1c72a1583e7a067e9b2f21be89fced83
+882  | Dorice          | 4     | 8.83  | b8dde60dd1992ecc6a15387f466901cfb5ff9eeab726d77f60e1aba1501807b2
+883  | Adele           | 4     | 8.83  | 1aea1a52caedbbc8d0659dccbbdab743b41157eec2f79043434d1a10b99b9728
+884  | Fredericka      | 4     | 8.83  | b8bdd2446305b556362e344aa494920194adbfc563f8db32a8f9f0d43df6bfd1
+885  | Amelia          | 4     | 8.83  | e3f39b8bc3cf6ba21066b90bf52eac7de13684eb7e38485cbe866bc8fc17d3de
+886  | Daryl           | 4     | 8.84  | 72ac1c4580ac9a65d840db596938cda237901d07a43d74f932d9f832e1de13fb
+887  | Mallory         | 4     | 8.87  | 7be0368b1126ab6e5acd204bf68801b046bf3eefb7a3c7957cad183f6676ee98
+888  | Joeann          | 4     | 8.88  | 2f246f16d0b2d75b440b289ad3431246557d75a763361a6761cff797bcde16e8
+889  | Tera            | 4     | 8.88  | 82e37cad5367e7bc42a962cb5a45bb33793e46427ff35be50c2c77e1e73a1968
+890  | Veda            | 4     | 8.91  | 0a003a8cece0dac6ea3effefe1166062913a71e63a90b0e9138ad88e12d6bdb7
+891  | Myrtice         | 4     | 8.91  | 279b98f5a8981a775d0ef470100f82b3fe653b6034d91dd2d87aac0ecf95bceb
+892  | Cathyleen       | 4     | 8.92  | 99627c62656a120776b427e768c456111d0b0455c94eed73906d7c611541049c
+893  | Cordi           | 4     | 8.92  | 81bfb0f46f626dc528e5271c6142ccdc207644fe2e8629b6f1f899563d2064c6
+894  | Gabriellia      | 4     | 8.93  | 2c6209c048a79422684de476e09634a09641c372de4c837fae14727bfa0fd8ce
+895  | Andree          | 4     | 8.93  | 80738502adf916a75b6e5908c5e09b5e71539b06ae14c47cccd4bc25c4a45ae5
+896  | Kimberley       | 4     | 8.93  | cba0bfa028475af34a81e68b2a35749e95377a731d55817f2ae3ffab10b86ac5
+897  | Angela          | 4     | 8.94  | cc6764ad6bd2d0fdc82520d2db1f0738b7cabe37786466a5b9cb879afd2e2a5e
+898  | Farrah          | 4     | 8.94  | a9be49cb623644ff01d8f13afe8b922e471fe95968e3411a52568f92ca51d39c
+899  | Vivia           | 4     | 8.99  | 6a0439d3a73b3e921526ad40fb675fd8d9d1d566c3484ab95e1e933c19ba8565
+900  | Jacenta         | 4     | 8.99  | b85e6ac07d9f7b9cb1507f641bfc9cb362b814c04b68aaaf26991a913cd39cca
+901  | Binny           | 4     | 9.02  | cfcd9f1d8465f35f9d0748f090cdd7329ce742b78a16507c3ec8eb0536d3f494
+902  | Sindee          | 4     | 9.03  | 768d34b2a17c2ba6e41f62cb643deb163c26fb59ce7e41f32a35b0f476587d80
+903  | Cyndie          | 4     | 9.03  | 06814b7d2b4028f7a2922fa5bc2670502bc0a5cae5be234ea070935552703ade
+904  | Cathyleen       | 4     | 9.05  | d05f772960ae8564c8929d7d1128908f727776f5e95b913cfc0808083c995ff2
+905  | Kelly           | 4     | 9.06  | 0df19d0c0467345014c34d0e1cac36fc55c4dc71773a2bf205cc8e55a902f57a
+906  | Heddie          | 4     | 9.07  | 6160ec4aa1a1858c1b481e3d18c3fc2b2715a2531af7abb9677ddbf1c45d2ec1
+907  | Chere           | 4     | 9.07  | 03ce195c2f9230b81655c8cb871a3cc0469641d8a70e630aea7d9c150d61a179
+908  | Shauna          | 4     | 9.08  | 249164383231ee88131356fafbf072227c1fc0b7982c6e02e240700f722c0526
+909  | Binny           | 4     | 9.08  | 02e9c89d671f48526d54b7acb0dba74114ae2801f045d471b248ebde1f9176c4
+910  | Ebonee          | 4     | 9.09  | 4a652cad6995f71acd1c54dd41bea601fe36bb39530711e13d3d06a0574df5cf
+911  | Collen          | 4     | 9.09  | 989d9bd5c23d26812588d95f867ae412f54e6660b162bf76fd138ba8d5762c12
+912  | Charlena        | 4     | 9.1   | 6f7b4443af0e4f366a07a090be54715c3bf88434002398ca0144df5f6b659c50
+913  | Harrietta       | 4     | 9.1   | 512646e21666b3c083f804c64ccf388141bd65b538704aa8a040a39776d6e0c7
+914  | Lorie           | 4     | 9.12  | fb4041a9bd55d30ef60f3f4df5164e63b979cfc66e6403a4ea12684ac6e49d35
+915  | Malina          | 4     | 9.12  | 396cafcff7274f1a015558a47e3678c7bcb7dbb347f702b54ba949be97890d5e
+916  | Lyssa           | 4     | 9.13  | d8796ba9d8f3b83da0b4a473b30a3582b54f7681d39856206c26e11063920fcd
+917  | Sherrie         | 4     | 9.15  | 248d3050e354e898e51bf34db3b20596dfd5ea4f9d9740dc0eb173d3c44786b4
+918  | Elmira          | 4     | 9.15  | f903a4a30e3cda97fbeb2908b2da8a77adc3745cd659cea4331b4f59d0a09f9e
+919  | Codie           | 4     | 9.15  | 76ea3b967e14076604efb837f63013f349b263fbe50de99ff94db77a64fc6613
+920  | Tierney         | 4     | 9.16  | 2275273a4bb7ec6f414f50116422c019bab33e20bc9c3f973ad6ea9664a5de6a
+921  | Nita            | 4     | 9.17  | 84f7bf9cb84a949b6862cbb21cbe0def35728c2a194c6bfe97b6cdbfc662dd25
+922  | Fawne           | 4     | 9.17  | a3c0c9bb3c30f5e87cbbcd3dbb20b2c91a8302bf8e8062f55811f0faf2ab8642
+923  | Jenilee         | 4     | 9.17  | f937e42caedc57cdc2f4931cf0dbf9b15791ef6b464e5167fbbb0fc86738a42b
+924  | Brandise        | 4     | 9.18  | 7ed6770a748a886c21cadc664a4ac07a570b516b3b9595e10434fecdcf4d9cc1
+925  | Dorothy         | 4     | 9.18  | 17d7690fcdba42ff1785054a95348a3e90884d520e1253e6977788e255e3eeac
+926  | Ann-Marie       | 4     | 9.19  | c7e7ed0b1595558be39f580f9925c13ba5107cf26c1e183363d7dd8717d9a5b5
+927  | Addia           | 4     | 9.21  | 0a7cd3c8e2c4a45455fac72b16a6fc8d0f5bca8eee149b233312208aad96f0c0
+928  | Judy            | 4     | 9.24  | 73fd7f4d124ad9914dd9d53cba3f6edc88856fc331361ca1a2d40cba0c3b4e5a
+929  | Dawn            | 4     | 9.24  | fbab1841a421ccf9077b0622aa74f3586960b9395f088081f3b4c406d1a1ae2c
+930  | Winifred        | 4     | 9.24  | e80171fb0cc4c9fb0751edb141085982eccfb101d5cc8813e230ed85012fa75f
+931  | Ekaterina       | 4     | 9.25  | d1b78307fe9e7131be518b0c4eb4ca1bb1a862b3700746fdd903f6dcb4b213c9
+932  | Florie          | 4     | 9.25  | 62abd10fe78484008c3008b2461cc10a117f2c1a4dd349f6f06446b309b7ca2a
+933  | Farrah          | 4     | 9.25  | 616543612081d4e0692e91080ace0fb2994f119a1ed21f63126cc32ccd96b92d
+934  | Vonny           | 4     | 9.25  | ad2167786e02372eb283a37f5a56f5dac40d77942be7ac1f8311e03209d52ab7
+935  | Siana           | 4     | 9.27  | 6841a92f5ad226b5a58a96e7a430d1e50771ad83b379dbd173f4fe1b61a96d7a
+936  | Lacie           | 4     | 9.28  | cce15e520031c9f9f1f845694eed2e08a9b41950b06970414be01d63492c6245
+937  | Brena           | 4     | 9.31  | e8a8245ab73bcea1f71630de6aa1ef08355913cf4108d928fe3ed11356085abf
+938  | Rosanne         | 4     | 9.31  | 26d70f4440085a7c98210f82178522456f644c42c2377a5bdbc7c5979bed14da
+939  | Lacie           | 4     | 9.32  | a33b2af7d0c6818224a58e3fb3370a6f6a0115efba32d63b81535d5df642c9c8
+940  | Zondra          | 4     | 9.32  | 4552e9f6aabd23743d97931eb8c84d7aaf2f014927a3346093d1a809bf1af99c
+941  | Ileana          | 4     | 9.34  | 4b325dc0ade8aa6d6a40d25466b9c5b2ca066cd0181821a8566ef875818f6635
+942  | Farrah          | 4     | 9.34  | 91fddc1c6f02466ea0bf88a3dc5cce5d4fcecdd26d4bd5acc944295b3cad8c0f
+943  | Minne           | 4     | 9.35  | 32c336a7144b4aac7d5301e815ab7f447b00cdc54ff4f68a063c25f8f43f424f
+944  | Mahalia         | 4     | 9.35  | 72aeab86d5e83caca9b420dbf9b10cc618f09dc1344f4305d3da39311a34015f
+945  | Marita          | 4     | 9.36  | 50c20954aa3882518a73ee3f4104068a68307a9bd5cda2753da49b85c5ee3484
+946  | Gratia          | 4     | 9.37  | 70a882a0a3d0ea46f8a09677edb522e2ae8cc5c968c837657153d34274140c67
+947  | Melina          | 4     | 9.38  | 460c0be2dec1a0390e963f133c99cef26fb82cac586c83cb3a6ac9aa7bf4f548
+948  | Concettina      | 4     | 9.4   | 5d7fa55fa29957624e3d4af3e0eb69a65d112bbbc50944bab8c7ca991320d0db
+949  | Wileen          | 4     | 9.43  | 1a9dd4281367d104281331429b199099e8245bc63d7ac819575e00928b98c418
+950  | Darlleen        | 4     | 9.47  | 7611aeb193549c9cd6ba478799f7ee97fbc95f682c65e3700f851ee4cbc0d0aa
+951  | Kimberley       | 4     | 9.49  | 85c21ba138efb9f9887fffe3e9f76e0502928e94f6cac741f885c020da7a7d2e
+952  | Dennie          | 4     | 9.51  | 56b42f0bc951f724d72a9db49ba3926888d00b537adfdd35fd6ad58f0ba1115f
+953  | Trixi           | 4     | 9.52  | 5d82fe63306af3ae9103a7d649fc26f97ae633ab34974c363b9556275aaa3a35
+954  | Jaime           | 4     | 9.52  | c76481969a8289a2c3f51be6db0ddec6d39637e5e01c216c4e77ec0a9b62ed4a
+955  | Laurene         | 4     | 9.53  | fb0e293bb2de01a0ae74809d256116b1286da47dd44afed641b455922ac1ad8e
+956  | Merci           | 4     | 9.54  | 0fe4319262e0ed5f33e0d7c72ca5bd95a6075bca4d0f5e9a62fbca7fa05c44b1
+957  | Amara           | 4     | 9.55  | 54cef3a4a059591108b8798027e24fe9e6344890eac2774908886107f049e2d8
+958  | Gavrielle       | 4     | 9.55  | 06a0def51a057a0e9acdd8e408c4c73dfbcb4a05c4b26f2ab53d7bc1c64b5bee
+959  | Morganica       | 4     | 9.57  | 1137618d36c6b7d65bee7adfdc35b66ed668e639a3a33523051b0a0a5f853146
+960  | Julieta         | 4     | 9.58  | 3c2fab004ea44307c51e29397a1708c18d13282266dfe77663daa0b55455ecdf
+961  | Shirlee         | 4     | 9.59  | 03d82d712fa3d68d482396b6eb6037773f225bd51a53289a76589feeab104661
+962  | Letizia         | 4     | 9.6   | f6c1c8562698996bb88c86bf540850d90515052389b64dc84986ee472a80c109
+963  | Maryellen       | 4     | 9.61  | 0ad2c04e667e2d4af8d305bec4681d943f85ba84acbbfe4272cf894be4ca0190
+964  | Ofilia          | 4     | 9.61  | 94da7d003355f32137f4b9098a25562074143854a29a7a44a1369bcae99ac24c
+965  | Corly           | 4     | 9.61  | 422a4fc414aa4559306e7b3de073cb09259e67b5178efeabd100219fc15f366f
+966  | Riannon         | 4     | 9.62  | 8ff4805c3ac1dc85f037f12b15454fdc66ec9f0b5829bc8b5c0fa3f10f37f359
+967  | Valera          | 4     | 9.64  | 095dfee647a957a3638cb225777178611fe2c7a37aa0cd18b2dedd0fcc07fc07
+968  | Basia           | 4     | 9.67  | da118c909d75a539e6b34c6270ac5734fec36a494dc28e560edb85834638297f
+969  | Krystle         | 4     | 9.67  | 7b641582f74a3993ba27bb8dcc40690e5254a29fce5f45596a54a447c3dad307
+970  | Paola           | 4     | 9.7   | e6974c7ebaacbb548ea01f9e08992b8458bbd4491e6006f6d4046d003348919e
+971  | Emmey           | 4     | 9.71  | 70f9ea03ec26c6b7405dbfed7d133e732352a2ff900e8ce1d7bbfe42d4e2af81
+972  | Gerrie          | 4     | 9.72  | 398a4bb15eaec6cc49ee21eeb27243c249eabd584ec4b966ef01cd6f1b4e3180
+973  | Gianina         | 4     | 9.72  | 3bdb58e33297130865cee742dcc1f202f973d7c42e5f9887c2d2a19dac0d5c9e
+974  | Nadine          | 4     | 9.73  | 0f53ae5f1f719d6b832cf2d9df70995e756c6ce87365239218ee78aba6070ef4
+975  | Meghann         | 4     | 9.77  | c2fb473d70e81ab31f473603946421728917503c260cce102a8a9924c57b41c0
+976  | Mureil          | 4     | 9.78  | d10707148185d92fff50ba08b8ab7517719e3b8590bdafe8ff694e70d66345b2
+977  | Elka            | 4     | 9.81  | a7559751cec688c1529addc7dd866ff4c3c1153a36ca9b1e89a542742ce9d6e5
+978  | Natka           | 4     | 9.82  | 388896f7db579847a920e3aa5f7fdd3e799321aab40ce45aea9b08a7dc4f52ad
+979  | Elena           | 4     | 9.83  | 990a8825271d216e49752b956a70851c7606997b4612ce668974a091a3c249b0
+980  | Hallie          | 4     | 9.84  | d5ae65dce50bbdf2162a5c11550695dad26edd79c74e4730c762b68769169eeb
+981  | Stacey          | 4     | 9.85  | 498c031cb35c8287d56f3e903579955c7b868d67f1eee7d04372443ebe6960c7
+982  | Gratia          | 4     | 9.85  | 3794bf648673eed3b10759407b2b5ce55cfb2c9540658f48c34980e685dc8818
+983  | Ulrike          | 4     | 9.86  | a40002b17d3bc7384a0178b0494e8b013b55087f8ccff46960d4fb587cf7620f
+984  | Sybille         | 4     | 9.87  | 6985725b92cc3fba15e5b5b558842625f7035619e4a07faf6004a3534e8893d4
+985  | Alexine         | 4     | 9.87  | b9ef376f17d8ae3b550f544bec078466ea5c865ff75e5e9f9451b2647948a7a9
+986  | Jessy           | 4     | 9.89  | ee9a04a546c0be99c96e9d517c3b9086ea86b3369907070c1159531fd08a01ae
+987  | Danny           | 4     | 9.89  | 12758897219f7f0df88cbba5bcc9673a93b5fdb3787b70a231b930d61134d9dc
+988  | Hildegaard      | 4     | 9.9   | 6866375414eb5182ddf0b3a72d57860fe0544cd171437bbe4fa95737627f381e
+989  | Karlee          | 4     | 9.9   | cb5c834809a81cf803f8eb16279ae8153baa71439c3b34e19179b86100f1a6a9
+990  | Rebeca          | 4     | 9.91  | b66888d7b13a94221475298decf9f002715880221cebec4cb238449e34a79db5
+991  | Lenna           | 4     | 9.92  | fb3a71db959900d19482803195211f6e547bdd672aa3f400b2df72c80c8910fa
+992  | Betta           | 4     | 9.92  | e60198a009a1a8329584cf828b84ca188b17872ae65da5e7336b37b195d1e3c8
+993  | Marita          | 4     | 9.92  | 2fb890e5920c192ecf2d7f2ff352c7bd898801be2f3fc54b5b2f03bbaa0f3287
+994  | Flory           | 4     | 9.92  | ebb804b4f844a9ac030b9ee47b2742d9db90adbc2d5c1f17f9939e779c226198
+995  | Ellette         | 4     | 9.92  | 4ea0767ecc935279ac5e488dd08d3aac0481502d6ab4c07beb4a9e2f71be245e
+996  | Dari            | 4     | 9.93  | 973b8eebe52ff1969d2391f537ca9aaa21f23d217643fa1f44cac911b32f21f4
+997  | Clementine      | 4     | 9.96  | f3fbe860c3d125a6a436ee7f945849e6083966eceb573726d5c7cd96d59da617
+998  | June            | 4     | 9.96  | 04000ef94d9db2587c734e471a7c3b4434d9b43f984ada54319961bc6aa8fc65
+999  | Kore            | 4     | 9.97  | 5c45c2b1c98a4ea2fad2a5d9fe4f017c5a8490a9d3198601ca4ed70f5713aa68
+1000 | Cherrita        | 4     | 9.98  | 388f7cc817c23087031051f505160540768f80cf7b35a05dab75b2de7b710cce
+---------------------------------------------------------------------------------------------------------
